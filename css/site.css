@@ -12,11 +12,15 @@ header {
 	letter-spacing: 0.25em;
 }
 
+.nav-container { background-color: #666666; }
+
 .social li a {
 	font-size: 1.25rem !important;
 	padding: 0 0.5rem !important;
+
 }
 
-.fa-twitter:hover { color: #ff9900; }
-.fa-instagram:hover { color: #ff9900; }
-.fa-envelope:hover { color: #ff9900; }
+.social li a:hover {
+	background-color: #555555 !important;
+	color: #ff9900 !important;
+}
