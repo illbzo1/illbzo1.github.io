@@ -12,14 +12,6 @@ header {
 	a:hover { background-color: #222; }
 }
 
-.fa-twitter:hover {
-  	color: rgba(0, 172, 237, .7);
-}
-
-.fa-instagram:hover {
-  	color: rgba(0, 172, 237, .7);
-}
-
-.fa-envelope:hover {
-  	color: rgba(0, 172, 237, .7);
-}
+.fa-twitter:hover { color: #55acee; }
+.fa-instagram:hover { color: #d7cbb5; }
+.fa-envelope:hover { color: #f89a1e; }
