@@ -1,6 +1,6 @@
 header {
-	background-color: #000;
-	color: #FFFFFF;
+	background-color: #333333;
+	color: #ffffff;
 	text-align: center;
 	padding: 1.5em 0;
 	letter-spacing: 0.25em;
@@ -9,9 +9,8 @@ header {
 .social li a {
 	font-size: 1.25rem !important;
 	padding: 0 0.5rem !important;
-	a:hover { background-color: #222; }
 }
 
-.fa-twitter:hover { color: #55acee; }
-.fa-instagram:hover { color: #d7cbb5; }
-.fa-envelope:hover { color: #f89a1e; }
+.fa-twitter:hover { color: #ff9900; }
+.fa-instagram:hover { color: #ff9900; }
+.fa-envelope:hover { color: #ff9900; }
