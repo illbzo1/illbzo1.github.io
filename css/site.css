@@ -5,3 +5,21 @@ header {
 	padding: 1.5em 0;
 	letter-spacing: 0.25em;
 }
+
+.social li a {
+	font-size: 1.25rem !important;
+	padding: 0 0.5rem !important;
+	a:hover { background-color: #222; }
+}
+
+.fa-twitter:hover {
+  	color: rgba(0, 172, 237, .7);
+}
+
+.fa-instagram:hover {
+  	color: rgba(0, 172, 237, .7);
+}
+
+.fa-envelope:hover {
+  	color: rgba(0, 172, 237, .7);
+}
