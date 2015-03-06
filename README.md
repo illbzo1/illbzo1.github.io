@@ -14,5 +14,6 @@ Running the site locally:
 To do:
 
 * add blog
+* add about me section
 * partialize headers for all static pages
 * use liquid templating to pull in page titles / h1s
