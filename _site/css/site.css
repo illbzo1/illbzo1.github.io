@@ -34,3 +34,5 @@ header {
 .social li a:hover {
 	background-color: rgba(220, 31, 0, 0.8) !important;
 }
+
+.post-list { list-style-type: none;}
