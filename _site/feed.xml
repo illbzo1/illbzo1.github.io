@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Mar 2015 21:39:55 -0500</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 21:39:55 -0500</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2015 21:41:56 -0500</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2015 21:41:56 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -20,13 +20,11 @@
 &lt;p&gt;Styling is still pretty boilerplate, but I’ll get to that. The main thing is the blog is up, it works, and it’s easier than I thought it would be. BONUS: made quite a bit of improvement with the layout, updating templates to be more templatey, DRYing shit up every, son.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Mar 2015 15:04:26 -0500</pubDate>
-        <link>/site/update/2015/03/06/wrangling-jekyll-for-blogging.html</link>
-        <guid isPermaLink="true">/site/update/2015/03/06/wrangling-jekyll-for-blogging.html</guid>
+        <link>/news/2015/03/06/wrangling-jekyll-for-blogging.html</link>
+        <guid isPermaLink="true">/news/2015/03/06/wrangling-jekyll-for-blogging.html</guid>
         
         
-        <category>site</category>
-        
-        <category>update</category>
+        <category>news</category>
         
       </item>
     
