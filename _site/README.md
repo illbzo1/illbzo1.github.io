@@ -13,7 +13,8 @@ Running the site locally:
 
 To do:
 
-* add blog
-* add about me section
+* add all old blog posts from Blogspot
+* clean up styles and partializations
+* fix blog styles to be less stupid / ugly
 * partialize headers for all static pages
 * use liquid templating to pull in page titles / h1s
