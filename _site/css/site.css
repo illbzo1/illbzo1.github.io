@@ -5,6 +5,10 @@ white: 		rgba(244, 245, 237, 1);
 dark gray: 	rgba(51, 51, 51, 1);
 light gray: rgba(102, 102, 102, 1)*/
 
+html {
+    overflow-y:scroll;
+}
+
 body { background-color: rgba(255, 255, 255, 1) !important; }
 
 .panel {
@@ -35,4 +39,28 @@ header {
 	background-color: rgba(220, 31, 0, 0.8) !important;
 }
 
-.post-list { list-style-type: none;}
+.post-header {
+	padding: 10px;
+	font-size: 1.5rem;
+	background-color: rgba(245, 245, 245, 1);
+}
+
+.post-header a {
+	letter-spacing: 0.2rem;
+	color: rgba(51, 51, 51, 1);
+}
+
+.post-header a:hover {
+	color: rgba(51, 51, 51, 1);
+}
+
+.post-list {
+	list-style-type: none;
+}
+
+.post-meta {
+	color: rgba(51, 51, 51, 1);
+	font-size: 1rem;
+	margin-top: -25px;
+	float: right;
+}
