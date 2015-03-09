@@ -13,8 +13,7 @@ Running the site locally:
 
 To do:
 
-* add all old blog posts from Blogspot
-* clean up styles and partializations
-* fix blog styles to be less stupid / ugly
-* partialize headers for all static pages
-* use liquid templating to pull in page titles / h1s
+* smarter templating (IE we probably don't need a separate layout for each static page)
+* redo index (short update posts out, now that the site is pretty established)
+* add comments to blog
+* redo blog styles (search by tag, category, etc)
