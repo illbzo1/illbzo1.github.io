@@ -64,3 +64,8 @@ header {
 	margin-top: -25px;
 	float: right;
 }
+
+.comments {
+	background-color: rgba(245, 245, 245, 1);
+	padding: 20px;
+}

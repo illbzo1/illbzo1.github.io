@@ -5,13 +5,17 @@ layout: blog
   <div class="post-header">
     <div class="large-8-columns">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
     </div>
     <div class="large-2-columns pull-right">
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     </div>
   </div>
   <div class="panel">
-    {{ post.content }}
+    {{ post.excerpt }}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+      <span class="disqus-comment-count" data-disqus-url="{{ post.url | prepend: site.baseurl }}"></span>
+
   </div>
 {% endfor %}
 

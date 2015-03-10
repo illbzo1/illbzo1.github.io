@@ -5,8 +5,6 @@ date:   2015-02-01
 categories: learning
 ---
 
-**What I Wrote**
-
 Using my super rad writing system (500 words per day, and 1,000 words per day on the weekends) I've written rough drafts for two short stories and I'm most of the way through a third. It's hard to calculate just how far I am into this third story. I've discovered something interesting about writing fiction - it doesn't always go according to plan.
 
 I've scoffed at people who write without an outline (and I still do, it's MADNESS) but I have been surprised more than once at events that unfold while I'm writing. A character will make a surprise trip to a butcher's shop, and it all feels very natural even though I didn't plan on it in my rough outline before sitting down to write.
