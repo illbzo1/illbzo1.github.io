@@ -11,6 +11,10 @@ Running the site locally:
 
     jekyll serve
 
+Dumb way to preview content before publication:
+
+  Edit head.html, swap in localhost:4000 for tylermoore.website. Yes, I know. This is really stupid but it works for now.
+
 To do:
 
 * smarter templating (IE we probably don't need a separate layout for each static page)
