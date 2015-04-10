@@ -21,3 +21,5 @@ To do:
 * redo index (short update posts out, now that the site is pretty established)
 * add comments to blog
 * redo blog styles (search by tag, category, etc)
+* publish April wrap up post
+* publish "Being Strict" post
