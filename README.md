@@ -18,7 +18,7 @@ Dumb way to preview content before publication:
 To do:
 
 * smarter templating (IE we probably don't need a separate layout for each static page)
-* redo index (short update posts out, now that the site is pretty established)
+* clean up index (latest blog post is displaying, doesn't look great)
 * add comments to blog
 * redo blog styles (search by tag, category, etc)
 * publish April wrap up post
