@@ -19,6 +19,7 @@ To do:
 
 * smarter templating (IE we probably don't need a separate layout for each static page)
 * clean up index (latest blog post is displaying, doesn't look great)
+* add categories to blog index
 * add comments to blog
 * redo blog styles (search by tag, category, etc)
 * publish April wrap up post

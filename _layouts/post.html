@@ -2,13 +2,11 @@
 layout: default
 ---
 <div class="post-header">
-	<div class="large-8-columns">
-    <div>{{ page.title }}</div>
-   </div>
-   <div class="large-2-columns pull-right">
-	  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-	</div>
+  <div>{{ page.title }}</div>
 </div>
+
+<span class="post-meta pull-left">{{ page.date | date: "%b %-d, %Y" }}</span>
+
 <div class="panel">
   {{ content }}
 </div>

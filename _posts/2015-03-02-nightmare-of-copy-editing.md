@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I Did in February; Or, the Nightmare of Copy Editing"
+title:  "what i did in february; or, the nightmare of copy editing"
 date:   2015-03-02
 categories: learning
 ---

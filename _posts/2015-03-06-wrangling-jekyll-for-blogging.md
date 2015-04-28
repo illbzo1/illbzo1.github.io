@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wrangling Jekyll for Blogging"
+title:  "wrangling jekyll for blogging"
 date:   2015-03-06 20:04:26
 categories: news
 ---

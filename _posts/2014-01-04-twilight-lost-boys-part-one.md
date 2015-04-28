@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Twilight / Lost Boys Fanfiction, Part I"
+title:  "twilight / lost boys fanfiction, part i"
 date:   2014-01-04
 categories: writing
 ---

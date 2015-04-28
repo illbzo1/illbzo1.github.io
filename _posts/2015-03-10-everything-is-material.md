@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Everything is Material"
+title:  "everything is material"
 date: 2015-03-10
 categories: writing
 ---

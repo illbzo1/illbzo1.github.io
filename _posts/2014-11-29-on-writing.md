@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Writing"
+title:  "on writing"
 date:   2014-11-29
 categories: writing
 ---
