@@ -5,17 +5,17 @@ date:   2015-03-02
 categories: learning
 ---
 
-I came out of February having read three more books, having written thousands of words, and discovered something about myself and how much I love copy editing. **SPOILER ALERT:** not at all.
+I came out of February having read three more books, written thousands of words, and with a new and personal discovery about how much I love copy editing. **SPOILER ALERT:** not at all.
 
 **What I Wrote**
 
-I find that I have to go back through my Twitter feed for notes on what I wrote in any given month. I finished up one short story, began an edit of the first story I finished in January, and started another story. Cross-referencing Twitter in this way is dumb, so I've added another sheet to my progress tracking spreadsheet. That spreadsheet's getting pretty fat, man. I've got lots of progress I want to track!
+I've found myself going back and digging through my Twitter feed for notes on what I wrote in any given month. I finished up one short story, began an edit of the first story I finished in January, and started another story. Cross-referencing Twitter in this way is dumb, so I've added another page to my progress tracking spreadsheet. That spreadsheet's getting pretty fat, man. I've got lots of progress I want to track!
 
-That old saying "Writers like having written" is hot, boiling garbage. I like writing, and I spent several blissful mornings drinking [cold, black coffee](http://www.blackheartenterprises.com/) and banging out a story. I sat down with a printed copy of my first draft, red pen in hand, only to find editing my own writing a chore beyond imagining. I'd rather have been writing something new. I'd rather have been anywhere but editing.
+That old saying "Writers like having written" is hot, boiling garbage. I like writing, and I spent several blissful mornings in February drinking [cold, black coffee](http://www.blackheartenterprises.com/) and banging out a story. I sat down with a printed copy of my first draft, red pen in hand, only to find editing my own writing a chore beyond imagining. I'd rather have been writing something new. I'd rather have been anywhere but editing.
 
 *"Just finish one pass. Just one first edit, then you can start another story."*
 
-This is the credo I lived by for over a week. I kept finding reasons not to edit my first draft. Somehow I made it through, though I'm still about halfway through a second pass. I blamed various interferences - a lack of good red pens, or discomfort in my computer chair when I sat down to edit. Just a string of shitty excuses to keep myself from doing the work that I knew needed to be done.
+This is the credo I lived by for over a week. But reasons not to edit my first draft kept surfacing. Somehow I made it through, though I'm still about halfway through a second pass. I blamed various interferences - a lack of good red pens, or discomfort in my computer chair when I sat down to edit. Just a string of shitty excuses to keep myself from doing the work that I knew needed to be done.
 
 I'll need to find a way to weasel editing into my daily routine. Some system for editing, a clever way to trick myself into it. Maybe I edit for 20 minutes every evening. After buying some new red pens, of course.
 
