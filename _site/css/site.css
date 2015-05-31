@@ -37,7 +37,7 @@ header {
 	letter-spacing: 0.25em;
 }
 
-.nav-container { background-color: rgba(220, 31, 0, 1); }
+.nav-container { background-color: rgba(220, 31, 0, 1); margin-top: 20px;}
 
 .site-nav { background-color: rgba(220, 31, 0, 1) !important;}
 
