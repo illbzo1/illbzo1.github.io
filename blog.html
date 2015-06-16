@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: blog
 ---
+
 {% for post in site.posts %}
   <div class="post-header">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -13,7 +14,7 @@ layout: default
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
       <span class="disqus-comment-count" data-disqus-url="{{ post.url | prepend: site.baseurl }}"></span>
   </div>
+<hr />
 {% endfor %}
 
-<p class="rss-subscribe pull-right">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
