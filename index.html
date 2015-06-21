@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="row">
-  <div class="large-12 columns">
+  <div class="large-8 columns">
     <div class="panel">
       <h1>My name is Tyler Moore.</h1>
       <p>
@@ -29,6 +29,18 @@ layout: default
       <p>
         This is my personal site. I've had a few over the years - this is the latest thing. It's a place for me to mess around with CSS, and keep a super minimal blog about what I'm reading, what I'm writing, and anything that comes up along the way, and in between.
       </p>
+    </div>
+  </div>
+  <div class="large-4 columns">
+    <div class="content-box">
+      <img src="/img/tyler.jpg">
+    </div>
+    <div class="content-box">
+      <h2>From the blog</h2>
+      {% assign post = site.posts.first %}
+      {% include post_detail.html %}
+      <br />
+      <span>{{ post.date | date: "%b %-d, %Y" }}</span>
     </div>
   </div>
 </div>
