@@ -9,9 +9,7 @@ light gray: rgba(102, 102, 102, 1)*/
 
 }
 
-.entry-title a {
-  background-color: rgba(255, 255, 255, 1) !important;
-}
+.entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
 
 .sidebar {
 
@@ -27,9 +25,7 @@ light gray: rgba(102, 102, 102, 1)*/
   color: rgba(51, 51, 51, 1) !important;
 }
 
-html {
-    overflow-y:scroll;
-}
+html { overflow-y:scroll; }
 
 body { background-color: rgba(255, 255, 255, 1) !important; }
 
@@ -46,19 +42,22 @@ header {
 	letter-spacing: 0.25em;
 }
 
-.nav-container { background-color: rgba(220, 31, 0, 1); margin-top: 20px;}
-
-.site-nav { background-color: rgba(220, 31, 0, 1) !important;}
-
-.social li a {
-	background-color: 	rgba(220, 31, 0, 1) !important;
-	padding: 			0 0.5rem !important;
-
+.nav-container {
+	background-color: rgba(220, 31, 0, 1);
+	margin-top: 20px;
+	li a:hover {
+	  background-color: rgba(220, 31, 0, 0.8) !important;
+	}
 }
 
-.social li a:hover {
-	background-color: rgba(220, 31, 0, 0.8) !important;
-}
+.site-nav { background-color: rgba(220, 31, 0, 1) !important; }
+.site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
+.site-nav li a:hover { background-color: rgba(220, 31, 0, 0.5) !important; }
+
+
+.left { float: left; }
+
+.right { float: right; }
 
 .post-header {
 	font-size: 2rem;
