@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the mother tongue"
+title:  "The Mother Tongue"
 date: 2015-06-20
 categories: learning
 ---

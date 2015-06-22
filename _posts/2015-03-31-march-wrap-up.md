@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "march wrap up"
+title:  "March Wrap Up"
 date: 2015-03-31
 categories: learning
 ---

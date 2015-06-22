@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the art of fiction"
+title:  "The Art of Fiction"
 date:   2015-05-10
 categories: learning
 ---

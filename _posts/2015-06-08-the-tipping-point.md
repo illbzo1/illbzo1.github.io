@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the tipping point"
+title:  "The Tipping Point"
 date:   2015-06-08
 categories: learning
 ---

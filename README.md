@@ -18,13 +18,14 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ## To do:
 
 ### General
-  * Fix head.html. We should auto detect for production v. dev, and apply the correct base URL accordingly
+  * Fix head.html. Auto detect for production v. dev, and apply the correct base URL accordingly
 
 ### Index
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
 
 ### Blog
+  * Fix all blog titles - no more lower case
   * add categories to blog index
   * redo blog styles (search by tag, category, etc)
   * add comments to blog posts

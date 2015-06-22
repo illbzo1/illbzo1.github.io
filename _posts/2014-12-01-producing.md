@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "producing"
+title:  "Producing"
 date:   2014-12-01
 categories: writing
 ---

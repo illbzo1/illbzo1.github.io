@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "april wrap up"
+title:  "April Wrap Up"
 date:   2015-05-02
 categories: learning
 ---

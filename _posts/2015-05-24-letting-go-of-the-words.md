@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "letting go of the words"
+title:  "Letting Go of the Words"
 date:   2015-05-24
 categories: learning
 ---

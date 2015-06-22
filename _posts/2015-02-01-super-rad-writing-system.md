@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "what i did in january: my super rad writing system"
+title:  "What I Did in January: My Super Rad Writing System"
 date:   2015-02-01
 categories: learning
 ---
