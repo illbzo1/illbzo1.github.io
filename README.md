@@ -25,9 +25,11 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * add a logo to link to in the nav bar
 
 ### Blog
-  * Fix all blog titles - no more lower case
   * add categories to blog index
-  * redo blog styles (search by tag, category, etc)
+  * add categories / tags to blog posts
+    - should be visible and searchable in the blog sidebar
+  * update blog styles
+    - titles of posts should not be in small caps
   * add comments to blog posts
   * Make sure RSS link actually works
 
