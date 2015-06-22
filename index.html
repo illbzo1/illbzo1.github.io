@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="row">
   <div class="large-8 columns">
-    <div class="panel">
+    <div class="panel content">
       <h1><small>My name is Tyler Moore.</small></h1>
       <p>I'm a writer.</p>
       <p>
@@ -25,12 +25,12 @@ layout: default
       </p>
     </div>
   </div>
-  <div class="large-4 columns">
+  <div class="large-4 columns sidebar">
     <div class="content-box">
       <img src="/img/tyler.jpg">
     </div>
     <div class="content-box">
-      <h2><small>From the blog</small></h2>
+      <h2><small>Latest Blog Post</small></h2>
       {% assign post = site.posts.first %}
       {% include post_detail.html %}
       <br />
