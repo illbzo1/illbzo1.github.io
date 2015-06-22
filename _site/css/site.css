@@ -11,9 +11,11 @@ light gray: rgba(102, 102, 102, 1)*/
 
 .entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
 
-.sidebar {
+.content { padding: 10px 0 !important; }
 
-}
+.sidebar h2 { margin-top: -20px !important; }
+.sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
+.sidebar { text-align: left; }
 
 .content-box {
   width: 100%;
