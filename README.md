@@ -17,10 +17,18 @@ Dumb way to preview content before publication:
 
 To do:
 
-* smarter templating (IE we probably don't need a separate layout for each static page)
-* clean up index (latest blog post is displaying, doesn't look great)
-* add categories to blog index
-* add comments to blog
-* redo blog styles (search by tag, category, etc)
-* publish April wrap up post
-* publish "Being Strict" post
+* Index
+  - clean up styles (headers, sidebar, etc)
+  - add a logo to link to in the nav bar
+
+* Blog
+  - add categories to blog index
+  - redo blog styles (search by tag, category, etc)
+  - add comments to blog posts
+
+* Contact
+  - "Contact" should link to a real contact page, not simply be a mailto
+
+* Writing
+  - should be a portfolio style page, with samples of writing
+  - should likely be separated, at least into "Fiction" and "Copywriting"
