@@ -14,6 +14,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ## To do:
 
 ### General
+  * Fix header styles
+    - should be consistent throughout the blog, index, etc.
 
 ### Index
   * clean up styles (headers, sidebar, etc)
@@ -23,8 +25,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * add categories to blog index
   * add categories / tags to blog posts
     - should be visible and searchable in the blog sidebar
-  * update blog styles
-    - titles of posts should not be in small caps
   * add comments to blog posts
   * Make sure RSS link actually works
 
