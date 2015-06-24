@@ -5,7 +5,7 @@ date: 2015-06-20
 categories: learning
 ---
 
-[The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on some listicle late last year, skulking around the internet, looking for books to read on writing.
+[The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on some listicle late last year, as I was skulking around the internet, looking for books to read on writing.
 
 I wanted to front load a ton of good books on copywriting, marketing, and writing for my reading this year, so I dug through a ton of garbage lists, looking for common threads. I held my nose and rooted through a bargain bin stuffed full of clickbait headlines. I dug through loathsome pieces of internet trash with headlines like Top 23 Writing Books of All Time, or 14 Books on Writing You Won’t Believe (Number 6 Is Insane!)
 
