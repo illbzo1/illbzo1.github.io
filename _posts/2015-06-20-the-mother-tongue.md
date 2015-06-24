@@ -5,11 +5,11 @@ date: 2015-06-20
 categories: learning
 ---
 
-[The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on some listicle late last year. when I was skulking around the internet, looking for books to read on writing.
+[The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on some listicle late last year, skulking around the internet, looking for books to read on writing.
 
 I wanted to front load a ton of good books on copywriting, marketing, and writing for my reading this year, so I dug through a ton of garbage lists, looking for common threads. I held my nose and rooted through a bargain bin stuffed full of clickbait headlines. I dug through loathsome pieces of internet trash with headlines like Top 23 Writing Books of All Time, or 14 Books on Writing You Won’t Believe (Number 6 Is Insane!)
 
-The Mother Tongue was on more than one, of that I’m sure. It’s a book more about linguistics and the evolution of the English language than the nuts and bolts, practical approach to writing, editing, plotting, character development, and other elements of the Craft I was hoping for.
+I found The Mother Tongue on more than one list, of that I’m sure. It’s a book more about linguistics and the evolution of the English language than the nuts and bolts, practical approach to writing, editing, plotting, character development, and other elements of the Craft I was hoping for.
 
 Still, I read it. Finishing the book took longer than I budgeted, but it was interesting. Little known fact: I love etymology. I took an etymology class when I was a junior in high school. It was graded on a curve, and I set the curve for every test. I’m good at words.
 
