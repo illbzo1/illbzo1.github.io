@@ -11,14 +11,9 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
     jekyll serve
 
-## Dumb way to preview content before publication:
-
-  Edit head.html, swap in localhost:4000 for tylermoore.website. Yes, I know. This is really stupid but it works for now.
-
 ## To do:
 
 ### General
-  * Fix head.html. We should auto detect for production v. dev, and apply the correct base URL accordingly
 
 ### Index
   * clean up styles (headers, sidebar, etc)
@@ -26,7 +21,10 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Blog
   * add categories to blog index
-  * redo blog styles (search by tag, category, etc)
+  * add categories / tags to blog posts
+    - should be visible and searchable in the blog sidebar
+  * update blog styles
+    - titles of posts should not be in small caps
   * add comments to blog posts
   * Make sure RSS link actually works
 
