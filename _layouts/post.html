@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: blog
 ---
 <div class="post-header">
-  <div>{{ page.title }}</div>
+  <div><h1><small>{{ page.title }}</small></h1></div>
+  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
 </div>
-
-<span class="post-meta pull-left">{{ page.date | date: "%b %-d, %Y" }}</span>
 
 <div class="panel">
   {{ content }}
