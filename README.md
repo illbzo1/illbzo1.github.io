@@ -21,6 +21,11 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - see if we can simplify the code
   * Look for more opportunities for partialization
     - can we simplify layout?
+  * What about a Jekyll theme?
+    - http://jekyllthemes.org/
+  * Read through SEO for Jekyll
+    - rel author (is this still a thing?)
+    - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Contact
   * Update styling of page
@@ -41,6 +46,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - should be visible and searchable in the blog sidebar
   * add comments to blog posts
   * Make sure RSS link actually works
+  * Add social sharing buttons per post
+    - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
 
 ### Contact
   * "Contact" should link to a real contact page, not simply be a mailto
@@ -48,3 +55,4 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Writing
   * should be a portfolio style page, with samples of writing
   * should likely be separated, at least into "Fiction" and "Copywriting"
+
