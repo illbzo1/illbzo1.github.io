@@ -17,6 +17,15 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Fix header styles
     - should be consistent throughout the blog, index, etc.
 
+### Contact
+  * Update styling of page
+    - should be consistent with the rest of the site
+  * Update copy on page
+    - should be more compelling and provide a clear benefit for contacting me
+  * Form should use Ajax to submit
+    - I don't want to send visitors to Formspree
+    - I want greater control over flash messages, confirmation, redirection after submission, etc.
+
 ### Index
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
