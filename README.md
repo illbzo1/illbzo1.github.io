@@ -37,6 +37,10 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - I want greater control over flash messages, confirmation, redirection after submission, etc.
 
 ### Index
+  * rewrite the "about me" section.
+    - "Writers like having written" has a different meaning for me, now.
+    - should also mention that I work as a copy writer and editor
+    - eventually should have links to relevant samples of my work
   * fix default layout. we have duplicate, unnecessary rows.
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
