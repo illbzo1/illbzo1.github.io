@@ -11,6 +11,24 @@ light gray: rgba(102, 102, 102, 1)*/
 
 .contact-message { height: 100px; }
 
+.contact-form {
+  margin-top: 7px;
+}
+
+input[type=submit] {
+  padding: 11px 15px;
+  background: rgba(220, 31, 0, 1);
+  color: rgba(255, 255, 255, 0.9);
+  border:0 none;
+  cursor:pointer;
+  font-size: 0.8rem;
+}
+
+input[type="submit"]:hover{
+  background: rgba(190, 31, 0, 1);
+  color: rgba(255, 255, 255, 1);
+}
+
 /* end form CSS */
 
 .entry-content {
@@ -55,6 +73,7 @@ header {
 .nav-container {
 	background-color: rgba(220, 31, 0, 1);
 	margin-top: 20px;
+	margin-bottom: 20px;
 	li a:hover {
 	  background-color: rgba(220, 31, 0, 0.8) !important;
 	}
