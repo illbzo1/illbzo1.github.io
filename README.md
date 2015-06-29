@@ -51,9 +51,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Add social sharing buttons per post
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
 
-### Contact
-  * "Contact" should link to a real contact page, not simply be a mailto
-
 ### Writing
   * should be a portfolio style page, with samples of writing
   * should likely be separated, at least into "Fiction" and "Copywriting"
