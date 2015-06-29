@@ -16,6 +16,10 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### General
   * Fix header styles
     - should be consistent throughout the blog, index, etc.
+  * Fix hover state styles for all actions
+    - any links in the nav
+    - any link in the site
+    - submit button on the contact form
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
     - see if we can simplify the code
@@ -28,10 +32,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Contact
-  * Update styling of page
-    - should be consistent with the rest of the site
-  * Update copy on page
-    - should be more compelling and provide a clear benefit for contacting me
   * Form should use Ajax to submit
     - I don't want to send visitors to Formspree
     - I want greater control over flash messages, confirmation, redirection after submission, etc.
