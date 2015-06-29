@@ -44,6 +44,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * add categories to blog index
   * add categories / tags to blog posts
     - should be visible and searchable in the blog sidebar
+  * most recently updated category should be displayed differently via CSS (bold text, etc)
   * add comments to blog posts
   * Make sure RSS link actually works
   * Add social sharing buttons per post
