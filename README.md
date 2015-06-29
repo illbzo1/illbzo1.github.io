@@ -37,6 +37,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - I want greater control over flash messages, confirmation, redirection after submission, etc.
 
 ### Index
+  * fix default layout. we have duplicate, unnecessary rows.
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
 
