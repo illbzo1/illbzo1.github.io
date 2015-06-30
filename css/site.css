@@ -5,62 +5,11 @@ white: 		rgba(244, 245, 237, 1);
 dark gray: 	rgba(51, 51, 51, 1);
 light gray: rgba(102, 102, 102, 1)*/
 
-/* form CSS */
-
-.contact-email { }
-
-.contact-message { height: 100px; }
-
-.contact-form {
-  margin-top: 7px;
-}
-
-input[type=submit] {
-  padding: 11px 15px;
-  background: rgba(220, 31, 0, 1);
-  color: rgba(255, 255, 255, 0.9);
-  border:0 none;
-  cursor:pointer;
-  font-size: 0.8rem;
-}
-
-input[type="submit"]:hover{
-  background: rgba(190, 31, 0, 1);
-  color: rgba(255, 255, 255, 1);
-}
-
-/* end form CSS */
-
-.entry-content {
-
-}
-
-.entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
-
-.content { padding: 10px 0 !important; }
-
-.sidebar h2 { margin-top: -20px !important; }
-.sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
-.sidebar { text-align: left; }
-
-.content-box {
-  width: 100%;
-  margin-top: 20px;
-}
-
-.entry-title a {
-  font-size: 1.5rem;
-  color: rgba(51, 51, 51, 1) !important;
-}
+/* shared styles */
 
 html { overflow-y:scroll; }
 
 body { background-color: rgba(255, 255, 255, 1) !important; }
-
-.panel {
-	background-color: rgba(255, 255, 255, 1) !important;
-	border: none !important;
-}
 
 header {
 	background-color: rgba(255, 255, 255, 1);
@@ -83,10 +32,38 @@ header {
 .site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
 .site-nav li a:hover { background-color: rgba(220, 31, 0, 0.5) !important; }
 
-
-.left { float: left; }
-
+.left  { float: left; }
 .right { float: right; }
+
+.sidebar h2 { margin-top: -20px !important; }
+.sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
+
+/* index styles */
+
+.content-box {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.entry-title a {
+  font-size: 1.5rem;
+  color: rgba(51, 51, 51, 1) !important;
+}
+
+.panel {
+	background-color: rgba(255, 255, 255, 1) !important;
+	border: none !important;
+}
+
+/* blog styles */
+
+.entry-content {
+
+}
+
+.entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
+
+.content { padding: 0 !important; }
 
 .post-header {
 	font-size: 2rem;
@@ -116,4 +93,28 @@ header {
 .comments {
 	background-color: rgba(245, 245, 245, 1);
 	padding: 20px;
+}
+
+/* form styles */
+
+.contact-email { }
+
+.contact-message { height: 100px; }
+
+.contact-form {
+  margin-top: 7px;
+}
+
+input[type=submit] {
+  padding: 11px 15px;
+  background: rgba(220, 31, 0, 1);
+  color: rgba(255, 255, 255, 0.9);
+  border:0 none;
+  cursor:pointer;
+  font-size: 0.8rem;
+}
+
+input[type="submit"]:hover{
+  background: rgba(190, 31, 0, 1);
+  color: rgba(255, 255, 255, 1);
 }
