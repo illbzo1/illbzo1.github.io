@@ -19,6 +19,16 @@ header {
 	letter-spacing: 0.25em;
 }
 
+.left  { float: left; }
+.right { float: right; }
+
+.sidebar h2 { margin-top: -20px !important; }
+.sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
+
+.margin-top { margin-top: 20px; }
+
+/* nav styles */
+
 .nav-container {
 	background-color: rgba(220, 31, 0, 1);
 	margin-top: 20px;
@@ -31,13 +41,22 @@ header {
 .site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
 .site-nav li a:hover { background-color: rgba(220, 31, 0, 0.5) !important; }
 
-.left  { float: left; }
-.right { float: right; }
+/* footer styles */
 
-.sidebar h2 { margin-top: -20px !important; }
-.sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
+.footer-container {
+  margin-top: 20px;
+  padding: 20px;
+}
 
-.margin-top { margin-top: 20px; }
+.footer-container ul {
+  list-style-type: none;
+}
+
+.social li {
+  float: left;
+  margin-right: 20px;
+}
+
 /* index styles */
 
 .content-box {
