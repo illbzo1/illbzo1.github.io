@@ -96,12 +96,10 @@ header {
 
 /* form styles */
 
-.contact-email { }
-
 .contact-message { height: 100px; }
 
 .contact-form {
-  margin-top: 7px;
+  margin-top: 30px;
 }
 
 input[type=submit] {
