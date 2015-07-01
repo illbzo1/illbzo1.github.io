@@ -35,6 +35,11 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Contact
 
+### Footer
+  * Need to add links to social sites
+  * Could use better styling
+  * Needs to float to the bottom on pages with very little content
+
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
   * clean up styles (headers, sidebar, etc)
@@ -49,6 +54,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Make sure RSS link actually works
   * Add social sharing buttons per post
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
+  * Last blog in the list should not have an HR after (looks dumb with the footer)
 
 ### Writing
   * should be a portfolio style page, with samples of writing
