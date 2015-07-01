@@ -34,7 +34,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Contact
-  * Form styling could use some work (ie more padding below the nav bar)
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
