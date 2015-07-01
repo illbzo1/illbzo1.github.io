@@ -14,6 +14,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ## To do:
 
 ### General
+  * Footer should have some content
+    - IE copyright, date, links to Twitter, LinkedIn, etc
   * Fix header styles
     - should be consistent throughout the blog, index, etc.
   * Fix hover state styles for all actions
@@ -32,9 +34,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Contact
-  * Form should use Ajax to submit
-    - I don't want to send visitors to Formspree
-    - I want greater control over flash messages, confirmation, redirection after submission, etc.
+  * Form styling could use some work (ie more padding below the nav bar)
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
