@@ -39,8 +39,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * lis in the nav now have too much padding
 
 ### Footer
-  * Need to add links to social sites
   * Could use better styling
+    - twitter should not turn brown on hover, this is gross
   * Needs to float to the bottom on pages with very little content
 
 ### Index
