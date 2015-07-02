@@ -14,8 +14,9 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ## To do:
 
 ### General
-  * Fix header styles
-    - should be consistent throughout the blog, index, etc.
+  * Clean up site.css.
+    - getting a bit untidy
+    - have likely introduced bad / inconsistent styling all over
   * Fix hover state styles for all actions
     - any links in the nav
     - any link in the site

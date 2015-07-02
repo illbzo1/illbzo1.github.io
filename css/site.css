@@ -11,6 +11,10 @@ html { overflow-y:scroll; }
 
 body { background-color: rgba(255, 255, 255, 1) !important; }
 
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+  color: rgba(51, 51, 51, 1 )!important;
+}
+
 header {
 	background-color: rgba(255, 255, 255, 1);
 	color: rgba(51, 51, 51, 1);
@@ -56,8 +60,17 @@ header {
   height: 50px;
   width: 50px;
   margin-top: -10px;
-
 }
+
+.footer-container a {
+  color: rgba(220, 31, 0, 1) !important;
+}
+
+.footer-container a:hover {
+  color: rgba(136, 41, 26, 1) !important;
+ }
+
+
 .social li {
   float: left;
   margin-right: 20px;
