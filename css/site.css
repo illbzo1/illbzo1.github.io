@@ -153,3 +153,8 @@ input[type="submit"]:hover{
   background: rgba(190, 31, 0, 1);
   color: rgba(255, 255, 255, 1);
 }
+
+/* copywriting portfolio styles */
+
+.copy-nav { list-style-type: none; }
+.copy-nav li { float: left; margin-right: 20px; }
