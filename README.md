@@ -32,6 +32,9 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - rel author (is this still a thing?)
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
+### Blog
+  * Full post view needs to have the same header styling as the rest of the site
+
 ### Contact
 
 ### Copywriting
