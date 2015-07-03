@@ -35,6 +35,12 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Contact
 
 ### Copywriting
+  * Add more text about each piece of content
+    - how I went about writing the copy
+    - research performed
+    - other interesting details about the site and the project
+  * Need to unify styling for all pages
+    - one style for full copy on sales pages
   * Need to optimize all images
   * Need to fill in other examples
   * Need a better way to navigate around the portfolio
