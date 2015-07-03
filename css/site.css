@@ -30,6 +30,7 @@ header {
 .sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
 
 .margin-top { margin-top: 20px; }
+.margin-bottom { margin-bottom: 20px; }
 
 /* nav styles */
 
@@ -158,3 +159,5 @@ input[type="submit"]:hover{
 
 .copy-nav { list-style-type: none; }
 .copy-nav li { float: left; margin-right: 20px; }
+.copy-thumb { height: 77px; }
+.full-text { font-size: 0.75rem; }
