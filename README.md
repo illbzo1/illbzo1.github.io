@@ -34,6 +34,14 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Contact
 
+### Copywriting
+  * Need to optimize all images
+  * Need to fill in other examples
+  * Need a better way to navigate around the portfolio
+    - could be a new header with arrows that navigate between sections
+    - could be a map at the bottom
+    - or a specialized footer
+
 ### Header
   * Should perhaps be combined with the nav
   * lis in the nav now have too much padding
