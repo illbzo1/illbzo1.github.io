@@ -39,7 +39,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Copywriting
   * Simplify copy samples
-    - remove full copy and PDF download
+    - add Instrumental sales page
+    - add Instrumental onboarding work
     - simplify portfolio - only the stuff you like best
     - add description of the project, name of the content, etc
     - change screenshot to be the whole page at once
