@@ -42,8 +42,11 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - make this more compelling and more accurate
     - talk about the work you enjoy and the work you want to do
     - emphasize data-driven work
+  * Final check
+    - make sure all images work and look good
+    - make sure all links are correct
+    - double check any supporting copy for errors and wordiness
   * Simplify copy samples
-    - add Instrumental onboarding work
     - simplify portfolio - only the stuff you like best
     - add description of the project, name of the content, etc
     - change screenshot to be the whole page at once
