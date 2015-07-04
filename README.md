@@ -38,6 +38,10 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Contact
 
 ### Copywriting
+  * Update intro copy
+    - make this more compelling and more accurate
+    - talk about the work you enjoy and the work you want to do
+    - emphasize data-driven work
   * Simplify copy samples
     - add Instrumental onboarding work
     - simplify portfolio - only the stuff you like best
