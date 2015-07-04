@@ -39,7 +39,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Copywriting
   * Simplify copy samples
-    - add Instrumental sales page
     - add Instrumental onboarding work
     - simplify portfolio - only the stuff you like best
     - add description of the project, name of the content, etc
@@ -48,14 +47,17 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - how I went about writing the copy
     - research performed
     - other interesting details about the site and the project
-  * Need to unify styling for all pages
+  * Unify styling for all pages
     - one style for full copy on sales pages
-  * Need to optimize all images
-  * Need to fill in other examples
-  * Need a better way to navigate around the portfolio
+  * Optimize all images
+  * Fill in other examples
+  * Better portfolio navigation
     - could be a new header with arrows that navigate between sections
     - could be a map at the bottom
     - or a specialized footer
+  * Clean up all unused assets
+    - img directory is a mess
+    - assets could likely be axed entirely
 
 ### Header
   * Should perhaps be combined with the nav
