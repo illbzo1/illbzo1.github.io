@@ -38,6 +38,11 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Contact
 
 ### Copywriting
+  * Simplify copy samples
+    - remove full copy and PDF download
+    - simplify portfolio - only the stuff you like best
+    - add description of the project, name of the content, etc
+    - change screenshot to be the whole page at once
   * Add more text about each piece of content
     - how I went about writing the copy
     - research performed
