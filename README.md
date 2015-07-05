@@ -44,10 +44,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - double check any supporting copy for errors and wordiness
   * Simplify copy samples
     - add description of the project, name of the content, etc
-  * Add more text about each piece of content
-    - how I went about writing the copy
-    - research performed
-    - other interesting details about the site and the project
   * Optimize all images
   * Clean up all unused assets
     - img directory is a mess
