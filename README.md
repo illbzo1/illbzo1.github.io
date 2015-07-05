@@ -39,7 +39,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Copywriting
   * Final check
-    - make sure all links are correct
     - double check any supporting copy for errors and wordiness
 
 ### Header
