@@ -39,10 +39,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Copywriting
   * Final check
-    - make sure all images work and look good
     - make sure all links are correct
     - double check any supporting copy for errors and wordiness
-  * Optimize all images
 
 ### Header
   * Should perhaps be combined with the nav
