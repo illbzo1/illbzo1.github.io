@@ -38,30 +38,17 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Contact
 
 ### Copywriting
-  * Update intro copy
-    - make this more compelling and more accurate
-    - talk about the work you enjoy and the work you want to do
-    - emphasize data-driven work
   * Final check
     - make sure all images work and look good
     - make sure all links are correct
     - double check any supporting copy for errors and wordiness
   * Simplify copy samples
-    - simplify portfolio - only the stuff you like best
     - add description of the project, name of the content, etc
-    - change screenshot to be the whole page at once
   * Add more text about each piece of content
     - how I went about writing the copy
     - research performed
     - other interesting details about the site and the project
-  * Unify styling for all pages
-    - one style for full copy on sales pages
   * Optimize all images
-  * Fill in other examples
-  * Better portfolio navigation
-    - could be a new header with arrows that navigate between sections
-    - could be a map at the bottom
-    - or a specialized footer
   * Clean up all unused assets
     - img directory is a mess
     - assets could likely be axed entirely
