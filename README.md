@@ -42,12 +42,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - make sure all images work and look good
     - make sure all links are correct
     - double check any supporting copy for errors and wordiness
-  * Simplify copy samples
-    - add description of the project, name of the content, etc
   * Optimize all images
-  * Clean up all unused assets
-    - img directory is a mess
-    - assets could likely be axed entirely
 
 ### Header
   * Should perhaps be combined with the nav
