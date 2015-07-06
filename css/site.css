@@ -157,6 +157,7 @@ input[type="submit"]:hover{
 
 /* copywriting portfolio styles */
 
+.bold { font-weight: bold; }
 .copy-nav { list-style-type: none; }
 .copy-nav li { float: left; margin-right: 20px; }
 .copy-thumb { height: 77px; }
