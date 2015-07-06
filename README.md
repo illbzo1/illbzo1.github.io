@@ -37,13 +37,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### Contact
 
-### Copywriting
-  * Final check
-    - double check any supporting copy for errors and wordiness
-
 ### Header
   * Should perhaps be combined with the nav
-  * lis in the nav now have too much padding
 
 ### Footer
   * Could use better styling
