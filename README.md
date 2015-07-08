@@ -40,6 +40,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Copywriting
   * Final check
     - double check any supporting copy for errors and wordiness
+  * Open all links in new window
 
 ### Header
   * Should perhaps be combined with the nav
