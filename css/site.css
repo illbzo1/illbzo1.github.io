@@ -127,6 +127,19 @@ header {
 	float: right;
 }
 
+blockquote {
+  border-bottom: 1px solid #dddddd;
+  border-left: none !important;
+  border-top: 1px solid #dddddd;
+  color: #333333 !important;
+  font-size: 1.2rem;
+  font-style: italic;
+  letter-spacing: 0.05rem !important;
+  line-height: 40px;
+  margin-left: 20px;
+  padding: 1rem !important;
+}
+
 .comments {
 	background-color: rgba(245, 245, 245, 1);
 	padding: 20px;
