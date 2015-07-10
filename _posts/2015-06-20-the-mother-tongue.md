@@ -15,11 +15,11 @@ Still, I read it. Finishing the book took longer than I budgeted, but it was int
 
 But let’s talk about the book.
 
-*“We tend to slur those things most familiar to us, particularly place-names.”*
+<blockquote>"We tend to slur those things most familiar to us, particularly place-names."</blockquote>
 
 Oh, yes. Absolutely. I’m from southern Indiana, and it was several years after I moved north for college before I stopped pronouncing “Louisville” as “Lou-uh-vulle,” or even "Luh-vulle." Fascinating that we’re most careless with names most familiar to us. I can think of numerous times I stepped carefully over an unfamiliar word, careful to get it right, while slurring the names of my closest friends, familiar locations, favorite video games, movies, books, and TV shows.
 
-*“Considerations of what makes for good English or bad English are to an uncomfortably large extent matters of prejudice and conditioning.”*
+<blockquote>"Considerations of what makes for good English or bad English are to an uncomfortably large extent matters of prejudice and conditioning."</blockquote>
 
 This brought a couple of things to mind while I was reading, so I made a note, and emailed it to myself for later thought.
 
