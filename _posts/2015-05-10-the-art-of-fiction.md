@@ -9,7 +9,7 @@ I finished up The Art of Fiction: Notes on Craft for Young Writers by John Gardn
 
 I take notes when I'm reading to learn. "Reading for discovery" is how I privately think of it, and I pause often while reading to send myself emails with relevant quotes, and fragments of the larger work that resonate with me. Things I want to write about later. Anything that makes sense to me, in the larger context of wanting to be a better writer.
 
-*"It is partly in this way that the fictional process forces the writer to say more than he thought he could; that is, to make discoveries."*
+<blockquote>"It is partly in this way that the fictional process forces the writer to say more than he thought he could; that is, to make discoveries."</blockquote>
 
 This happens every time I sit down to write. A little window into my daily writing process: I come in armed with an outline, fortified with black coffee, ready to bang out my daily word count, eager to work on the next scene, or series of scenes coming up next, according to my outline.
 
@@ -19,7 +19,7 @@ I find characters saying things I didn't plan, taking actions I didn't foresee, 
 
 I didn't anticipate this turn of events. I didn't see this detail coming, but it emerged, fully formed, making complete sense within the larger arc I'm working on. It wasn't in my outline. I didn't know about the shovel - it was something I didn't plan, and it has imposed itself and made itself necessary to the plot. It's more than a wrinkle (although wrinkles also appear while writing) and heavier than texture. You make discoveries as you write. You discover about your characters, the world you're creating, and the stories that take place there. That's the magic. Writing is about discovery, even with an outline. Even with an outline a thousand times as detailed and structured as the ones I create, I imagine.
 
-*"But if the writer writes only of what honestly interests him, and if he thinks of his work not simply as thoughtful exploration, as it should be, but also as entertainment, he cannot fail to have, at least for some group of serious, devoted readers, both immediate and lasting interest."*
+<blockquote>"But if the writer writes only of what honestly interests him, and if he thinks of his work not simply as thoughtful exploration, as it should be, but also as entertainment, he cannot fail to have, at least for some group of serious, devoted readers, both immediate and lasting interest."</blockquote>
 
 This is a long sentence. Much longer than most I end up writing, but my take is if you're writing stories like the ones you like to read, rather than simply writing to hone your technique or to explore ideas, you'll find success. If you're having fun with what you're writing, you'll be successful. Every writer seeks glory, for some definition of glory. Every writer wants to see his work in the world, even if no one else ever reads it, and the surest path to get there is to write the stories you want to write. To write the kind of thing you'd read without question. Without heistation, and without complaint.
 

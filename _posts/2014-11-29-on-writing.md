@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "on writing"
+title:  "On Writing"
 date:   2014-11-29
 categories: writing
 ---
-"You have to get up in the morning and write like a drunk has to drink."
+<blockquote>"You have to get up in the morning and write like a drunk has to drink."</blockquote>
 
 Eleven years later, this is still the best advice on being a writer I've ever heard.  One of my photography professors from college gave us this advice, given to him by one of his professors back in the 60s.
 
-"The 60s...it was a terrible time. You should've been there."
+<blockquote>"The 60s...it was a terrible time. You should've been there."</blockquote>
 
 His follow up advice wasn't as useful, but it's also stuck with me. I can still picture the day I heard this quote: the first day of class of my first actual photography class, nervous and excited, listening to a pompous man wearing a scarf in mid August. I had a hard time understanding why he was giving this advice, but he eventually related it to photography.
 

@@ -23,7 +23,7 @@ Purple Cow was the usual, delightful, well-written and insightful book on a very
 
 How many words do you think you write in a day? A thousand? Ten thousand? I don't know how many I write in a day. My professional life entails reading and writing a shit ton of email, every single day. If I had to hazard a guess, and fuck it, I'll hazard a guess, I'd say ten thousand. At the low end. And that's not including my personal writing. That's not including the 500 or 1,000 words a day I absolutely have to write to feel productive.
 
-*"If you have a website, you are a publisher. If you are on social media, you are in marketing. And that means we are all writers."*
+<blockquote>"If you have a website, you are a publisher. If you are on social media, you are in marketing. And that means we are all writers."</blockquote>
 
 I absolutely love this perspective.
 
@@ -39,7 +39,7 @@ The biggest thing I got from this book was identifying my own lazy behavior. Beh
 
 Pressfield's calls this Resistance. It comes from within, and it stands in between who you are and what you're doing, and who you want to be and what you want to be doing. A telling quote:
 
-*"If you take Resistance at its word, you deserve everything you get. Resistance is always lying, and always full of shit."*
+<blockquote>"If you take Resistance at its word, you deserve everything you get. Resistance is always lying, and always full of shit."</blockquote>
 
 Resistance rears its ugly head every time I don't want to sit down and write. Every time I fuck around on Twitter and Reddit instead of writing 500 words. Every time I choose to play video games instead of editing a story.
 

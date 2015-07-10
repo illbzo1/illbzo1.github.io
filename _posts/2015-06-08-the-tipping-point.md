@@ -15,7 +15,7 @@ The Tipping Point covered a ton of disparate ideas, from Paul Revere's midnight 
 
 Want to turn a seminary student, who is about to give a lecture on the Good Samiritan, into an asshole? Tell him he's late. It works. You can effect dramatic changes, and it doesn't take much. Just a little push.
 
-*"To appreciate the power of epidemics, we have to abandon this expectation about proportionality. We need to prepare ourselves for the possibility that sometimes big changes follow from small events, and that sometimes these changes can happen very quickly."*
+<blockquote>"To appreciate the power of epidemics, we have to abandon this expectation about proportionality. We need to prepare ourselves for the possibility that sometimes big changes follow from small events, and that sometimes these changes can happen very quickly."</blockquote>
 
 This is the tipping point. It's the point just before something makes an impact. It's the point at which adoption rates skyrocket, and new behaviors or changes in attitudes move from early adopters to the early majority. It's the moment of critical mass.
 
@@ -25,7 +25,7 @@ I read Crossing the Chasm by [Geoffrey Moore](http://www.geoffreyamoore.com/) a 
 
 Once an idea, product, service, behavior, or any other emerging trend moves from the early adopters to the early majority, it's much more likely to spread. And continue to spread.
 
-*"When a virus spreads through a population, it doubles and doubles again, until it has (figuratively) grown from a single sheet of paper all the way to the sun in fifty steps."*
+<blockquote>"When a virus spreads through a population, it doubles and doubles again, until it has (figuratively) grown from a single sheet of paper all the way to the sun in fifty steps."</blockquote>
 
 Exactly. Like a virus. Absolutely love this example, by the way. It's a fantastic way to illustrate the power of exponential growth.
 
@@ -33,7 +33,7 @@ Exactly. Like a virus. Absolutely love this example, by the way. It's a fantasti
 
 We want our ideas to spread. We want our users to fall in love with our products. We want readers to read our blogs. We want to convince absolute strangers to take the steps we want them to take.
 
-*"The success of any kind of social epidemic is heavily dependent on the involvement of people with a particular and rare set of social gifts."*
+<blockquote>"The success of any kind of social epidemic is heavily dependent on the involvement of people with a particular and rare set of social gifts."</blockquote>
 
 This is the Law of the Few. The people with the particular and rare set of social gifts are Mavens, Salesmen, and Connectors. These are the people who have the information, the personality, and know the right people required to push something new in the right direction. The people who can push hard enough, or at just the right time that a ripple becomes a wave. Or an idea becomes a virus.
 
