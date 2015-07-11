@@ -14,6 +14,10 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ## To do:
 
 ### General
+  * site needs a meta description
+    - go through SEO for Jekyll
+    - need to get the site indexed, doesn't appear in Google searches
+    - need to add and update robots.txt
   * Clean up site.css
     - getting a bit untidy
     - have likely introduced bad / inconsistent styling all over
@@ -44,8 +48,10 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
   * Last blog in the list should not have an HR after (looks dumb with the footer)
   * quotes should have a distinct style
+  * blog posts most likely need meta descriptions
 
 ### Contact
+  * remove text link to Twitter
 
 ### Copywriting
   * Final check
@@ -64,6 +70,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * fix default layout. we have duplicate, unnecessary rows.
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
+  * remove age from "About Me" section
+  * remove "About this site"
 
 ### Writing
   * should be a portfolio style page, with samples of writing
