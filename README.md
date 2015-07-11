@@ -37,6 +37,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Blog
+  * style sidebar
+    - look at rough screenshot for an idea
   * Full post view needs to have the same header styling as the rest of the site
   * add categories to blog index
   * add categories / tags to blog posts
