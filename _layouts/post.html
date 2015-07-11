@@ -1,11 +1,14 @@
 ---
 layout: blog
 ---
-<div class="post-header">
-  <div><h1><small>{{ page.title }}</small></h1></div>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-</div>
+<div class="large-12 columns">
 
-<div class="panel">
-  {{ content }}
+  <div class="post-header">
+    <div><h1><small>{{ page.title }}</small></h1></div>
+    <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+  </div>
+
+  <div class="panel">
+    {{ content }}
+  </div>
 </div>
