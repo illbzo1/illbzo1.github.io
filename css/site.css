@@ -6,18 +6,35 @@ dark gray: 	rgba(51, 51, 51, 1);
 light gray: rgba(102, 102, 102, 1)*/
 
 /* shared styles */
+body { background-color: rgba(255, 255, 255, 1) !important; }
 
 html { overflow-y:scroll; }
 
-body { background-color: rgba(255, 255, 255, 1) !important; }
-
 header {
-	background-color: rgba(255, 255, 255, 1);
-	color: rgba(51, 51, 51, 1);
-	text-align: center;
-	padding: 1.5em 0;
-	letter-spacing: 0.25em;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(51, 51, 51, 1);
+  letter-spacing: 0.25em;
+  padding: 1.5em 0;
+  text-align: center;
 }
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+  color: rgba(51, 51, 51, 1 )!important;
+}
+
+.left  { float: left; }
+.right { float: right; }
+
+.margin-bottom { margin-bottom: 20px; }
+.margin-top { margin-top: 20px; }
+
+.sidebar h2 { margin-top: -20px !important; }
+.sidebar img {
+  padding: 20px;
+  border: 1px solid #DDDDDD;
+}
+
+/* nav styles */
 
 .nav-container {
 	background-color: rgba(220, 31, 0, 1);
@@ -31,13 +48,35 @@ header {
 .site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
 .site-nav li a:hover { background-color: rgba(220, 31, 0, 0.5) !important; }
 
-.left  { float: left; }
-.right { float: right; }
+/* footer styles */
 
-.sidebar h2 { margin-top: -20px !important; }
-.sidebar img { padding: 20px; border: 1px solid #DDDDDD; }
+.footer-container {
+  margin-top: 20px;
+  padding: 20px;
+}
 
-.margin-top { margin-top: 20px; }
+.footer-container a {
+  color: rgba(220, 31, 0, 1) !important;
+}
+
+.footer-container a:hover {
+  color: rgba(136, 41, 26, 1) !important;
+ }
+
+.footer-container img {
+  height: 50px;
+  width: 50px;
+  margin-top: -10px;
+}
+
+.footer-container ul {
+  list-style-type: none;
+}
+
+.social li {
+  float: left;
+}
+
 /* index styles */
 
 .content-box {
@@ -57,13 +96,27 @@ header {
 
 /* blog styles */
 
-.entry-content {
-
+blockquote {
+  border-bottom: 1px solid #dddddd;
+  border-left: none !important;
+  border-top: 1px solid #dddddd;
+  color: #333333 !important;
+  font-size: 1.2rem;
+  font-style: italic;
+  letter-spacing: 0.05rem !important;
+  line-height: 40px;
+  margin-left: 20px;
+  padding: 1rem !important;
 }
 
-.entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
+.comments {
+  background-color: rgba(245, 245, 245, 1);
+  padding: 20px;
+}
 
 .content { padding: 0 !important; }
+
+.entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
 
 .post-header {
 	font-size: 2rem;
@@ -89,25 +142,18 @@ header {
 	float: right;
 }
 
-.comments {
-	background-color: rgba(245, 245, 245, 1);
-	padding: 20px;
-}
-
 /* form styles */
 
 .contact-message { height: 100px; }
 
-.contact-form {
-  margin-top: 30px;
-}
+.contact-form { margin-top: 30px; }
 
 input[type=submit] {
   padding: 11px 15px;
   background: rgba(220, 31, 0, 1);
   color: rgba(255, 255, 255, 0.9);
-  border:0 none;
-  cursor:pointer;
+  border: 0 none;
+  cursor: pointer;
   font-size: 0.8rem;
 }
 
@@ -115,3 +161,12 @@ input[type="submit"]:hover{
   background: rgba(190, 31, 0, 1);
   color: rgba(255, 255, 255, 1);
 }
+
+/* copywriting portfolio styles */
+
+.bold { font-weight: bold; }
+.copy-nav { list-style-type: none; }
+.copy-nav li { float: left; margin-right: 20px; }
+.copy-thumb { height: 77px; }
+.description-text { font-size: 0.75rem; }
+.img-border { border: 1px solid rgba(51, 51, 51, 0.1); }

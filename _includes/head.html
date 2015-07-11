@@ -2,6 +2,11 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
+    {% if page.desc %}
+    <meta name="description" content="{{ page.desc }}" />
+    {% else %}
+    <meta name="description" content="I’m a copywriter and fiction writer living in Indianapolis." />
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/site.css">
