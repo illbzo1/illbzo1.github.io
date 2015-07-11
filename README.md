@@ -33,7 +33,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Blog
   * style sidebar
     - look at rough screenshot for an idea
-  * Full post view needs to have the same header styling as the rest of the site
   * add categories to blog index
   * add categories / tags to blog posts
     - should be visible and searchable in the blog sidebar
