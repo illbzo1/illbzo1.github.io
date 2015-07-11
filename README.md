@@ -52,11 +52,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * blog posts most likely need meta descriptions
 
 ### Contact
-  * remove text link to Twitter
 
 ### Copywriting
-  * Final check
-    - double check any supporting copy for errors and wordiness
   * Open all links in new window
 
 ### Header
@@ -71,10 +68,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * fix default layout. we have duplicate, unnecessary rows.
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
-  * remove age from "About Me" section
-  * remove "About this site"
 
 ### Writing
   * should be a portfolio style page, with samples of writing
-  * should likely be separated, at least into "Fiction" and "Copywriting"
-
+  * should be exclusively for fiction work
