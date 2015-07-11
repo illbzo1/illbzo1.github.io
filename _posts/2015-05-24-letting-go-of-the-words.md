@@ -3,6 +3,7 @@ layout: post
 title:  "Letting Go of the Words"
 date:   2015-05-24
 categories: learning
+desc: "A post about Letting Go of the Words by Ginny Redish, and what I learned by reading it."
 ---
 
 I finished reading **Letting Go of the Words** by [Ginny Redish](http://www.redish.net/) this week. Redish is a usability and communications expert, and this book takes a shotgun approach to writing good, usable content for the web. I don't say this to be disparaging. As any of my friends can tell you, I'm a big fan of shotguns. She covers everything from organizing content in a way that makes it easy for readers to scan, to ways to improve your site for usability, to some basic tips on SEO.

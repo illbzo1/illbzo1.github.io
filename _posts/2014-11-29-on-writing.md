@@ -3,6 +3,7 @@ layout: post
 title:  "On Writing"
 date:   2014-11-29
 categories: writing
+desc: "A post about writing, and what being a writer means to me."
 ---
 <blockquote>"You have to get up in the morning and write like a drunk has to drink."</blockquote>
 
@@ -18,7 +19,7 @@ I've always wanted to be a writer - not just good at writing, but an author. You
 
 I've spent a lot of time lately thinking about how I choose to spend my time, and whether I could put my time to better use, and the most obvious answer (as always) is "Write more."
 
-I used to make time for writing. And I'm trying to make time once again.
+I used to make time for writing. And I'm making time once again.
 
 I don't know that I need to get up first thing in the morning and bang out a thousand words (some more practical though less inspiration advice I've heard lately) but I absolutely want to get back in the habit of writing every day.
 

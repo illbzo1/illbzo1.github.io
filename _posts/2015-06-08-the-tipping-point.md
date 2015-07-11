@@ -3,6 +3,7 @@ layout: post
 title:  "The Tipping Point"
 date:   2015-06-08
 categories: learning
+desc: "A post about The Tipping Point by Malcolm Gladwell, and what I learned from reading it."
 ---
 
 The [Tipping Point](http://gladwell.com/the-tipping-point/) by Malcolm Gladwell is about why ideas spread. Why teen smoking continues to rise, despite vigorous anti-smoking campaigns. Why cracking down on graffiti and fare jumping in New York City lead to a steep decline in violent crime. Why Airwalks were incredibly popular for a few years in the mid-90s, and why their popularity died off.

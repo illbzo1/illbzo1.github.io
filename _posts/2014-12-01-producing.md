@@ -3,6 +3,7 @@ layout: post
 title:  "Producing"
 date:   2014-12-01
 categories: writing
+desc: "A post I wrote about starting every single day as a producer."
 ---
 
 I am not the biggest fan of LifeHacker as a platform for content. Most of the articles I run across are boring, click-bait listicles with no substance. More fluff in a sea of bullshit content marketing. This isn't to say I think all content marketing is bullshit - I actually love well written, useful content marketing. But content marketing is the thing right now, and most of it is bullshit.

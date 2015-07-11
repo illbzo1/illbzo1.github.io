@@ -3,6 +3,7 @@ layout: post
 title:  "The Mother Tongue"
 date: 2015-06-20
 categories: learning
+desc: "A post about The Mother Tongue by Bill Bryson, and what I learned by reading it."
 ---
 
 [The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on some listicle late last year, as I was skulking around the internet, looking for books to read on writing.

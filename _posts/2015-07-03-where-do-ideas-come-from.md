@@ -3,6 +3,7 @@ layout: post
 title:  "Where do ideas come from?"
 date: 2015-07-03
 categories: writing
+desc: "A blog post about how and where I get ideas for writing."
 ---
 
 I get ideas at the most inconvenient times. An idea rarely shows up when I’m sitting in front of my computer, freshly caffeinated, text editor at the ready, with enough free time on my hands to flesh out the idea, and save it for later.

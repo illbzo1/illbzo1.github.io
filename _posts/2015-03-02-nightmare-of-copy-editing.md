@@ -3,6 +3,7 @@ layout: post
 title:  "What I Did in February; or, The Nightmare of Copy Editing"
 date:   2015-03-02
 categories: learning
+desc: "An update blog post for February, about what I read, what I wrote, and what I learned."
 ---
 
 I came out of February having read three more books, written thousands of words, and with a new and personal discovery about how much I love copy editing. **SPOILER ALERT:** not at all.

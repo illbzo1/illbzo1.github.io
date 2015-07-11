@@ -3,6 +3,7 @@ layout: post
 title:  "Wrangling Jekyll for Blogging"
 date:   2015-03-06 20:04:26
 categories: news
+desc: "A site update blog post about using Jekyll for blogging."
 ---
 Good news! I've finally mastered the fine art of using Jekyll to add a blog to my wonderful site. It actually wasn't very difficult. Most of my time was spent exploring the deep, dark caverns around properly setting a base_url until I just said "FUCK IT" and went with my root domain, which I'll swap out for local development.
 

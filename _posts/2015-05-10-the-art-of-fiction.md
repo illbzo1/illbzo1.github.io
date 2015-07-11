@@ -3,6 +3,7 @@ layout: post
 title:  "The Art of Fiction"
 date:   2015-05-10
 categories: learning
+desc: "A post about The Art of Fiction by John Gardner, and what I learned by reading it."
 ---
 
 I finished up The Art of Fiction: Notes on Craft for Young Writers by John Gardner earlier this week. As I read, I felt those horrible wheels turning in my Underbrain, and several times I jumped up from reading to take notes on something I wanted to write. The surest sign that I'm reading something worth reading is how easy that book is to put down, jump up and get my hands dirty. My hands were filthy by the time I finished The Art of Fiction.

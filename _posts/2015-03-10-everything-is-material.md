@@ -3,6 +3,7 @@ layout: post
 title:  "Everything is Material"
 date: 2015-03-10
 categories: writing
+desc: "A post about where the raw material for stories comes from, inspired by reading Bird by Bird by Anne Lamott."
 ---
 
 I've been reading Bird by Bird by Anne Lamott, and this quote rang true enough I had to jump up and write about it.

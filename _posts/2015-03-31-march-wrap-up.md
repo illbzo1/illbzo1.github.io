@@ -3,6 +3,7 @@ layout: post
 title:  "March Wrap Up"
 date: 2015-03-31
 categories: learning
+desc: "A wrap up blog post about what I read and what I wrote in March, 2015."
 ---
 
 There's something about the third month of any new system I try that typically proves to be the failing point. I tend to lose motivation around month 3. My famous enthusiasm wanes, and I get bored. I move on to something else. I stop caring as much.

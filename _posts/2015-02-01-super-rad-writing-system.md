@@ -3,6 +3,7 @@ layout: post
 title:  "What I Did in January: My Super Rad Writing System"
 date:   2015-02-01
 categories: learning
+desc: "An updated post from January, about what I read, and the system I'm using for writing."
 ---
 
 Using my super rad writing system (500 words per day, and 1,000 words per day on the weekends) I've written rough drafts for two short stories and I'm most of the way through a third. It's hard to calculate just how far I am into this third story. I've discovered something interesting about writing fiction - it doesn't always go according to plan.

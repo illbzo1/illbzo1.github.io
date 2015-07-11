@@ -3,6 +3,7 @@ layout: post
 title:  "April Wrap Up"
 date:   2015-05-02
 categories: learning
+desc: "A wrap up blog post for April 2015, about what I read and how my writing is going."
 ---
 
 I've not been looking forward to writing this wrap up post. My current system of blogging once a month about the books I've read that month isn't ideal. I am not writing well about what I've read, even though I've been taking notes and sending myself email reminders for points I want to make in my wrap up post.
