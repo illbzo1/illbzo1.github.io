@@ -57,7 +57,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Could use better styling
     - twitter should not turn brown on hover, this is gross
   * Needs to float to the bottom on pages with very little content
-  * Should add the jquery inclusion here
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
