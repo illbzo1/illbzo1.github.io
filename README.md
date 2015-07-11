@@ -15,9 +15,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### General
   * need to add and update robots.txt
-  * Clean up site.css
-    - getting a bit untidy
-    - have likely introduced bad / inconsistent styling all over
   * Fix hover state styles for all actions
     - any links in the nav
     - any link in the site
