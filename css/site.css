@@ -71,21 +71,8 @@ span.social-box:hover i.social-outer {
 .copyright { font-size: 0.75rem; margin-top: 11px; }
 
 .footer-container {
-  margin-bottom: 20px;
-}
-
-.footer-container a {
-  color: rgba(220, 31, 0, 1) !important;
-}
-
-.footer-container a:hover {
-  color: #444 !important;
- }
-
-.footer-container img {
-  height: 50px;
-  width: 50px;
-  margin-top: -10px;
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
 }
 
 .footer-container ul {
