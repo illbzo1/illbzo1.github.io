@@ -109,6 +109,16 @@ blockquote {
   padding: 1rem !important;
 }
 
+.blog-content { margin-top: 20px; }
+.blog-sidebar {
+  background-color: #DDDDDD;
+  border-top: 1px solid #fff;
+}
+
+.blog-paginated {
+  border-bottom: 2px solid #000 !important;
+}
+
 .comments {
   background-color: rgba(245, 245, 245, 1);
   padding: 20px;
@@ -133,6 +143,18 @@ blockquote {
 
 .post-list {
 	list-style-type: none;
+}
+
+.post-link {
+  float: right;
+  margin-bottom: 20px;
+  color: rgba(255, 255, 255, 1)!important;
+  background-color: rgba(220, 31, 0, 1);
+  padding: 10px;
+  border: 1px solid rgba(220, 31, 0, 1);
+  &:hover
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(220, 31, 0, 1);
 }
 
 .post-meta {

@@ -1,6 +1,12 @@
 # illbzo1.github.io
 This site uses Jekyll for serving pages and Foundation for CSS.
 
+# Development
+
+Make a feature branch from master, commit changes, verify changes work locally.
+Merge feature branch into master, verify changes work locally, push from master to deploy.
+Delete feature branch, both locally and remotely.
+
 ## Helpful links:
 
 [Jekyll](http://jekyllrb.com/)
@@ -14,12 +20,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ## To do:
 
 ### General
-  * Fix header styles
-    - should be consistent throughout the blog, index, etc.
-  * Fix hover state styles for all actions
-    - any links in the nav
-    - any link in the site
-    - submit button on the contact form
+  * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
     - see if we can simplify the code
@@ -31,31 +32,39 @@ This site uses Jekyll for serving pages and Foundation for CSS.
     - rel author (is this still a thing?)
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
+### Blog
+  * style sidebar
+    - look at rough screenshot for an idea
+    - all links should be styled like other links in the site
+  * look into full height sidebar
+  * need more content for sidebar
+    - rss feed that works
+    - short bio / info about the blog
+    - other?
+  * most recently updated category should be displayed differently via CSS (bold text, etc)
+  * add comments to blog posts
+  * Add social sharing buttons per post
+    - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
+  * Last blog in the list should not have an HR after (looks dumb with the footer)
+  * quotes should have a distinct style
+  * make meta descriptions for blog posts more descriptive - about the book and what I got from it, not what I did
+
 ### Contact
-  * Form should use Ajax to submit
-    - I don't want to send visitors to Formspree
-    - I want greater control over flash messages, confirmation, redirection after submission, etc.
+
+### Copywriting
+  * Open all links in new window
+
+### Header
+  * Should perhaps be combined with the nav
+
+### Footer
+  * Needs to float to the bottom on pages with very little content
 
 ### Index
-  * rewrite the "about me" section.
-    - "Writers like having written" has a different meaning for me, now.
-    - should also mention that I work as a copy writer and editor
-    - eventually should have links to relevant samples of my work
   * fix default layout. we have duplicate, unnecessary rows.
   * clean up styles (headers, sidebar, etc)
   * add a logo to link to in the nav bar
 
-### Blog
-  * add categories to blog index
-  * add categories / tags to blog posts
-    - should be visible and searchable in the blog sidebar
-  * most recently updated category should be displayed differently via CSS (bold text, etc)
-  * add comments to blog posts
-  * Make sure RSS link actually works
-  * Add social sharing buttons per post
-    - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
-
 ### Writing
   * should be a portfolio style page, with samples of writing
-  * should likely be separated, at least into "Fiction" and "Copywriting"
-
+  * should be exclusively for fiction work

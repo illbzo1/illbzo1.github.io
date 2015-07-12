@@ -1,29 +1,16 @@
-    <!DOCTYPE html>
+  <!DOCTYPE html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
+    
+    <meta name="description" content="I’m a copywriter and fiction writer living in Indianapolis." />
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title></title>
     <link rel="stylesheet" href="/css/site.css">
     <link rel="stylesheet" href="/css/foundation.css" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
     <script src="js/vendor/modernizr.js"></script>
     
   </head>
@@ -60,36 +47,51 @@
     <div class="row">
       <div class="large-12 columns">
         <div class="large-6 columns">
-  <h1><small>Let's talk!</small></h1>
+  <h1><small>Let's talk</small></h1>
   <p>
   <p>Need a hand writing or editing copy? Got an interesting project in mind? Just want to say hi? I'd love to hear from you!</p>
-  <p>You can send me a message using the form to the right. Your message will come right to my inbox, and I'll get back to you.</p>
-  <p>You can also find me on Twitter: <a href="https://twitter.com/illbzo1">@illbzo1</a></p>
+  <p>You can use the form on this page to send a message right to my inbox. I'll get back to you as soon as I have a chance.</p>
 
 </div>
 
 <div class="large-6 columns contact-form">
   <form action="//formspree.io/tylerlmoore@gmail.com" method="POST">
     <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="/thanks.html" />
     <input type="text" name="name" placeholder="What's your name?">
-    <input type="email" name="_replyto" class="contact-email" placeholder="What's a good email to reach you?">
-    <textarea name="body" class="contact-message" placeholder="What do you want to talk about?"></textarea>
+    <input type="email" name="_replyto" class="contact-email" placeholder="What's your email?">
+    <textarea name="body" class="contact-message" placeholder="What's up?"></textarea>
     <input type="submit" value="Send message">
   </form>
 </div>
       </div>
     </div>
 
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-  </body>
+    <div class="footer-container">
+  <div class="row">
+    <div class="small-12 large-centered columns">
+      <ul>
+        <li class="left copyright">© 2015 Tyler Moore</a></li>
+        <li class="right">
+          <span id="twitterBox" class="fa-stack fa-lg social-box">
+            <a href="https://twitter.com/illbzo1">
+              <i id="faTwittertSquare" class="fa fa-circle fa-stack-2x social-outer"></i>
+              <i id="fatwitter" class="fa fa-twitter fa-stack-1x social-inner" title="twitter"></i>
+            </a>
+          </span>
+        </li>
+      </ul>
+	  </div>
+  </div>
+</div>
 
+<script src="js/vendor/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+<script src="js/foundation/foundation.equalizer.js"></script>
+
+<script>
+  $(document).foundation();
+</script>
+
+  </body>
 </html>
