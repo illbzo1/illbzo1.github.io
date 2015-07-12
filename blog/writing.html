@@ -4,9 +4,18 @@ layout: blog
 
 {% for post in site.posts %}
   {% if post.categories contains 'writing' %}
-    <div class="item">
-      <h3>{{post.title}}</h3>
-      <p>{{post.description}}</p>
+  <div class="large-12 columns">
+    <div class="post-header">
+      <h1><small><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></small></h1>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     </div>
+
+    <div class="panel">
+      {{ post.excerpt }}
+        <a class="right" href="{{ post.url | prepend: site.baseurl }}">Read the full post</a>
+        <span class="disqus-comment-count" data-disqus-url="{{ post.url | prepend: site.baseurl }}"></span>
+    </div>
+  <hr />
+  </div>
   {% endif %}
 {% endfor %}
