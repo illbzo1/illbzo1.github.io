@@ -50,8 +50,6 @@ Delete feature branch, both locally and remotely.
   * make meta descriptions for blog posts more descriptive - about the book and what I got from it, not what I did
 
 ### Contact
-  * update copy
-    - too many exclamation points
 
 ### Copywriting
   * Open all links in new window
