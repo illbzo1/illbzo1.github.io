@@ -18,7 +18,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Fix hover state styles for all actions
     - any links in the nav
     - any link in the site
-    - submit button on the contact form
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
     - see if we can simplify the code
