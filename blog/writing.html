@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains 'writing' %}
+    <div class="item">
+      <h3>{{post.title}}</h3>
+      <p>{{post.description}}</p>
+    </div>
+  {% endif %}
+{% endfor %}

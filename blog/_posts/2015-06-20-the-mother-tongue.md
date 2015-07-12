@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mother Tongue"
 date: 2015-06-20
-categories: learning
+categories: reading
 desc: "A post about The Mother Tongue by Bill Bryson, and what I learned by reading it."
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of Fiction"
 date:   2015-05-10
-categories: learning
+categories: reading
 desc: "A post about The Art of Fiction by John Gardner, and what I learned by reading it."
 ---
 
