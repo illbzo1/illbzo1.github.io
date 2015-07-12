@@ -50,9 +50,27 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 /* footer styles */
 
+span.social-box i.social-inner {
+    color:#fff;
+}
+
+span.social-box i.social-outer {
+  color: rgba(220, 31, 0, 1) !important;
+
+}
+
+span.social-box:hover i.social-inner {
+  color: rgba(220, 31, 0, 1) !important;
+}
+
+span.social-box:hover i.social-outer {
+  color: #fff !important;
+}
+
+.copyright { font-size: 0.75rem; margin-top: 11px; }
+
 .footer-container {
-  margin-top: 20px;
-  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .footer-container a {
@@ -60,7 +78,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 
 .footer-container a:hover {
-  color: rgba(136, 41, 26, 1) !important;
+  color: #444 !important;
  }
 
 .footer-container img {
@@ -71,10 +89,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 .footer-container ul {
   list-style-type: none;
-}
-
-.social li {
-  float: left;
+  margin-top: -10px;
 }
 
 /* index styles */
