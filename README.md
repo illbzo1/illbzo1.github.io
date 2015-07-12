@@ -1,6 +1,12 @@
 # illbzo1.github.io
 This site uses Jekyll for serving pages and Foundation for CSS.
 
+# Development
+
+Make a feature branch from master, commit changes, verify changes work locally.
+Merge feature branch into master, verify changes work locally, push from master to deploy.
+Delete feature branch, both locally and remotely.
+
 ## Helpful links:
 
 [Jekyll](http://jekyllrb.com/)
