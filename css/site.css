@@ -22,6 +22,8 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   color: rgba(51, 51, 51, 1 )!important;
 }
 
+ul { list-style-type: none; }
+
 .left  { float: left; }
 .right { float: right; }
 
@@ -38,43 +40,50 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 .nav-container {
 	background-color: rgba(220, 31, 0, 1);
+  border-top: 1px solid rgba(220, 31, 0, 1);
+  border-bottom: 1px solid rgba(220, 31, 0, 1);
 	margin-top: 20px;
 	li a:hover {
-	  background-color: rgba(220, 31, 0, 0.8) !important;
+	  background-color: rgba(255, 255, 255, 1) !important;
+    color: rgba(220, 31, 0, 1);
 	}
 }
 
 .site-nav { background-color: rgba(220, 31, 0, 1) !important; }
 .site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
-.site-nav li a:hover { background-color: rgba(220, 31, 0, 0.5) !important; }
-
-/* footer styles */
-
-.footer-container {
-  margin-top: 20px;
-  padding: 20px;
-}
-
-.footer-container a {
+.site-nav li a:hover {
+  background-color: rgba(255, 255, 255, 1) !important;
   color: rgba(220, 31, 0, 1) !important;
 }
 
-.footer-container a:hover {
-  color: rgba(136, 41, 26, 1) !important;
- }
+/* footer styles */
 
-.footer-container img {
-  height: 50px;
-  width: 50px;
-  margin-top: -10px;
+span.social-box i.social-inner {
+  color: rgba(220, 31, 0, 1) !important;
+}
+
+span.social-box i.social-outer {
+  color: #fff;
+}
+
+span.social-box:hover i.social-inner {
+  color: #fff !important;
+}
+
+span.social-box:hover i.social-outer {
+  color: rgba(220, 31, 0, 1) !important;
+}
+
+.copyright { font-size: 0.75rem; margin-top: 11px; }
+
+.footer-container {
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
 }
 
 .footer-container ul {
   list-style-type: none;
-}
-
-.social li {
-  float: left;
+  margin-top: -10px;
 }
 
 /* index styles */
@@ -130,6 +139,7 @@ blockquote {
 
 .post-header {
 	font-size: 2rem;
+  margin-top: -20px;
 	background-color: rgba(255, 255, 255, 1) !important;
 }
 
@@ -173,15 +183,16 @@ blockquote {
 input[type=submit] {
   padding: 11px 15px;
   background: rgba(220, 31, 0, 1);
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(220, 31, 0, 1) !important;
   border: 0 none;
   cursor: pointer;
   font-size: 0.8rem;
 }
 
 input[type="submit"]:hover{
-  background: rgba(190, 31, 0, 1);
-  color: rgba(255, 255, 255, 1);
+  background: rgba(255, 255, 255, 1);
+  color: rgba(220, 31, 0, 1);
 }
 
 /* copywriting portfolio styles */

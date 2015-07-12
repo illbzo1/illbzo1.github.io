@@ -2,7 +2,7 @@
 layout: post
 title:  "What I Did in February; or, The Nightmare of Copy Editing"
 date:   2015-03-02
-categories: learning
+categories: [reading, writing]
 desc: "An update blog post for February, about what I read, what I wrote, and what I learned."
 ---
 

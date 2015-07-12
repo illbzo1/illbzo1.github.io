@@ -1,6 +1,12 @@
 # illbzo1.github.io
 This site uses Jekyll for serving pages and Foundation for CSS.
 
+# Development
+
+Make a feature branch from master, commit changes, verify changes work locally.
+Merge feature branch into master, verify changes work locally, push from master to deploy.
+Delete feature branch, both locally and remotely.
+
 ## Helpful links:
 
 [Jekyll](http://jekyllrb.com/)
@@ -15,10 +21,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### General
   * need to add and update robots.txt
-  * Fix hover state styles for all actions
-    - any links in the nav
-    - any link in the site
-    - submit button on the contact form
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
     - see if we can simplify the code
@@ -33,18 +35,19 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Blog
   * style sidebar
     - look at rough screenshot for an idea
-  * Full post view needs to have the same header styling as the rest of the site
-  * add categories to blog index
-  * add categories / tags to blog posts
-    - should be visible and searchable in the blog sidebar
+    - all links should be styled like other links in the site
+  * look into full height sidebar
+  * need more content for sidebar
+    - rss feed that works
+    - short bio / info about the blog
+    - other?
   * most recently updated category should be displayed differently via CSS (bold text, etc)
   * add comments to blog posts
-  * Make sure RSS link actually works
   * Add social sharing buttons per post
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
   * Last blog in the list should not have an HR after (looks dumb with the footer)
   * quotes should have a distinct style
-  * blog posts most likely need meta descriptions
+  * make meta descriptions for blog posts more descriptive - about the book and what I got from it, not what I did
 
 ### Contact
 
@@ -55,10 +58,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Should perhaps be combined with the nav
 
 ### Footer
-  * Could use better styling
-    - twitter should not turn brown on hover, this is gross
   * Needs to float to the bottom on pages with very little content
-  * Should add the jquery inclusion here
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.

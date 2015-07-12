@@ -2,7 +2,7 @@
 layout: post
 title:  "Producing"
 date:   2014-12-01
-categories: writing
+categories: [writing]
 desc: "A post I wrote about starting every single day as a producer."
 ---
 

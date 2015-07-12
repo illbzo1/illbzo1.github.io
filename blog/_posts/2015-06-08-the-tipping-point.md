@@ -2,7 +2,7 @@
 layout: post
 title:  "The Tipping Point"
 date:   2015-06-08
-categories: learning
+categories: reading
 desc: "A post about The Tipping Point by Malcolm Gladwell, and what I learned from reading it."
 ---
 

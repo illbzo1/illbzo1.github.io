@@ -2,7 +2,7 @@
 layout: post
 title:  "What I Did in January: My Super Rad Writing System"
 date:   2015-02-01
-categories: learning
+categories: [writing, reading]
 desc: "An updated post from January, about what I read, and the system I'm using for writing."
 ---
 
