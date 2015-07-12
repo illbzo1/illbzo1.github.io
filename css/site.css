@@ -22,6 +22,8 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   color: rgba(51, 51, 51, 1 )!important;
 }
 
+ul { list-style-type: none; }
+
 .left  { float: left; }
 .right { float: right; }
 
@@ -124,6 +126,12 @@ blockquote {
   padding: 1rem !important;
 }
 
+.blog-content { margin-top: 20px; }
+.blog-sidebar {
+  background-color: #DDDDDD;
+  border-top: 1px solid #fff;
+}
+
 .comments {
   background-color: rgba(245, 245, 245, 1);
   padding: 20px;
@@ -135,6 +143,7 @@ blockquote {
 
 .post-header {
 	font-size: 2rem;
+  margin-top: -20px;
 	background-color: rgba(255, 255, 255, 1) !important;
 }
 
