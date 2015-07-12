@@ -67,9 +67,10 @@ span.social-box:hover i.social-outer {
   color: #fff !important;
 }
 
+.copyright { font-size: 0.75rem; margin-top: 11px; }
+
 .footer-container {
-  margin-top: 20px;
-  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .footer-container a {
@@ -88,10 +89,6 @@ span.social-box:hover i.social-outer {
 
 .footer-container ul {
   list-style-type: none;
-}
-
-.social li {
-  float: left;
 }
 
 /* index styles */
