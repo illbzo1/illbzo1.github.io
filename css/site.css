@@ -51,20 +51,19 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 /* footer styles */
 
 span.social-box i.social-inner {
-    color:#fff;
+  color: rgba(220, 31, 0, 1) !important;
 }
 
 span.social-box i.social-outer {
-  color: rgba(220, 31, 0, 1) !important;
-
+  color: #fff;
 }
 
 span.social-box:hover i.social-inner {
-  color: rgba(220, 31, 0, 1) !important;
+  color: #fff !important;
 }
 
 span.social-box:hover i.social-outer {
-  color: #fff !important;
+  color: rgba(220, 31, 0, 1) !important;
 }
 
 .copyright { font-size: 0.75rem; margin-top: 11px; }
