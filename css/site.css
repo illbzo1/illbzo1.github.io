@@ -89,6 +89,7 @@ span.social-box:hover i.social-outer {
 
 .footer-container ul {
   list-style-type: none;
+  margin-top: -10px;
 }
 
 /* index styles */
