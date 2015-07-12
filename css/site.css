@@ -40,15 +40,21 @@ ul { list-style-type: none; }
 
 .nav-container {
 	background-color: rgba(220, 31, 0, 1);
+  border-top: 1px solid rgba(220, 31, 0, 1);
+  border-bottom: 1px solid rgba(220, 31, 0, 1);
 	margin-top: 20px;
 	li a:hover {
-	  background-color: rgba(220, 31, 0, 0.8) !important;
+	  background-color: rgba(255, 255, 255, 1) !important;
+    color: rgba(220, 31, 0, 1);
 	}
 }
 
 .site-nav { background-color: rgba(220, 31, 0, 1) !important; }
 .site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
-.site-nav li a:hover { background-color: rgba(220, 31, 0, 0.5) !important; }
+.site-nav li a:hover {
+  background-color: rgba(255, 255, 255, 1) !important;
+  color: rgba(220, 31, 0, 1) !important;
+}
 
 /* footer styles */
 
@@ -160,8 +166,8 @@ blockquote {
 
 input[type=submit] {
   padding: 11px 15px;
-  background: rgba(255, 255, 255, 1);
-  color: rgba(220, 31, 0, 1);
+  background: rgba(220, 31, 0, 1);
+  color: rgba(255, 255, 255, 1);
   border: 1px solid rgba(220, 31, 0, 1) !important;
   border: 0 none;
   cursor: pointer;
@@ -169,9 +175,8 @@ input[type=submit] {
 }
 
 input[type="submit"]:hover{
-  background: rgba(220, 31, 0, 1);
-  color: rgba(255, 255, 255, 1);
-
+  background: rgba(255, 255, 255, 1);
+  color: rgba(220, 31, 0, 1);
 }
 
 /* copywriting portfolio styles */

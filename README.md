@@ -15,9 +15,6 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 
 ### General
   * need to add and update robots.txt
-  * Fix hover state styles for all actions
-    - any links in the nav
-    - any link in the site
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
     - see if we can simplify the code
@@ -32,9 +29,11 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Blog
   * style sidebar
     - look at rough screenshot for an idea
+    - all links should be styled like other links in the site
   * look into full height sidebar
   * need more content for sidebar
     - rss feed that works
+    - short bio / info about the blog
     - other?
   * most recently updated category should be displayed differently via CSS (bold text, etc)
   * add comments to blog posts
