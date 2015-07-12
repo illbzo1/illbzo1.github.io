@@ -2,7 +2,7 @@
 layout: post
 title:  "March Wrap Up"
 date: 2015-03-31
-categories: learning
+categories: reading
 desc: "A wrap up blog post about what I read and what I wrote in March, 2015."
 ---
 

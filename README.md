@@ -33,17 +33,17 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Blog
   * style sidebar
     - look at rough screenshot for an idea
-  * add categories to blog index
-  * add categories / tags to blog posts
-    - should be visible and searchable in the blog sidebar
+  * look into full height sidebar
+  * need more content for sidebar
+    - rss feed that works
+    - other?
   * most recently updated category should be displayed differently via CSS (bold text, etc)
   * add comments to blog posts
-  * Make sure RSS link actually works
   * Add social sharing buttons per post
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
   * Last blog in the list should not have an HR after (looks dumb with the footer)
   * quotes should have a distinct style
-  * blog posts most likely need meta descriptions
+  * make meta descriptions for blog posts more descriptive - about the book and what I got from it, not what I did
 
 ### Contact
 
@@ -54,10 +54,9 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Should perhaps be combined with the nav
 
 ### Footer
-  * Could use better styling
-    - twitter should not turn brown on hover, this is gross
   * Needs to float to the bottom on pages with very little content
-  * Should add the jquery inclusion here
+  * Maybe try swapping Twitter icon styles (circle on hover, etc)
+  * Needs to be full page width, like the nav
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.

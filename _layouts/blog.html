@@ -4,13 +4,19 @@
 
   {% include nav.html %}
 
-    <div class="row">
-      <div class="large-10 columns">
+    <div class="row" data-equalizer>
+      <div class="large-10 columns blog-content" data-equalizer-watch>
         {{ content }}
       </div>
-      <div class="large-2 columns sidebar">
-        <!--<p class="margin-top">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
+      <div class="large-2 columns blog-sidebar" data-equalizer-watch>
+        <h2><small>Categories</small></h2>
+        <ul>
+        <li>
+          <a href="/blog/reading.html">Reading</a>
+        </li>
+        <li>
+          <a href="/blog/writing.html">Writing</a>
+        </li>
       </div>
     </div>
 
