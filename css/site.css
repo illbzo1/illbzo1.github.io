@@ -50,6 +50,23 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 /* footer styles */
 
+span.social-box i.social-inner {
+    color:#fff;
+}
+
+span.social-box i.social-outer {
+  color: rgba(220, 31, 0, 1) !important;
+
+}
+
+span.social-box:hover i.social-inner {
+  color: rgba(220, 31, 0, 1) !important;
+}
+
+span.social-box:hover i.social-outer {
+  color: #fff !important;
+}
+
 .footer-container {
   margin-top: 20px;
   padding: 20px;
@@ -60,7 +77,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 
 .footer-container a:hover {
-  color: rgba(136, 41, 26, 1) !important;
+  color: #444 !important;
  }
 
 .footer-container img {
