@@ -56,6 +56,7 @@ This site uses Jekyll for serving pages and Foundation for CSS.
 ### Footer
   * Needs to float to the bottom on pages with very little content
   * Maybe try swapping Twitter icon styles (circle on hover, etc)
+  * Needs to be full page width, like the nav
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
