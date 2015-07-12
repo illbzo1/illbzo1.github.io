@@ -54,9 +54,8 @@ This site uses Jekyll for serving pages and Foundation for CSS.
   * Should perhaps be combined with the nav
 
 ### Footer
-  * Could use better styling
-    - twitter should not turn brown on hover, this is gross
   * Needs to float to the bottom on pages with very little content
+  * Maybe try swapping Twitter icon styles (circle on hover, etc)
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
