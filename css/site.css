@@ -127,14 +127,15 @@ blockquote {
   margin-bottom: 20px;
 }
 
-.blog-paginated {
-  border-bottom: 2px solid #000 !important;
+.blog-sidebar h3 {
+  font-size: 1.8rem;
+  margin-top: -20px;
 }
 
-.comments {
-  background-color: rgba(245, 245, 245, 1);
-  padding: 20px;
+.blog-sidebar ul {
+  font-size: 0.85rem;
 }
+.blog-sidebar li { margin-left: -10px;}
 
 .content { padding: 0 !important; }
 
@@ -179,6 +180,9 @@ blockquote {
 	float: right;
 }
 
+.recent-posts li {
+  margin-bottom: 10px;
+}
 /* form styles */
 
 .contact-message { height: 100px; }
