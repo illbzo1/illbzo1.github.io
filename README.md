@@ -21,9 +21,10 @@ Delete feature branch, both locally and remotely.
 
 ### General
   * non-button links need a default style
-  * need to clean up CSS colors
-    - what about using variables instead of repeating the same things over and over?
+  * need to clean up CSS
+    - what about using variables for colorsinstead of repeating the same things over and over?
     - at the least, make sure site colors are the ACTUAL site colors
+    - Twitter social span IDs are unnecessary and unused - remove them
   * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
