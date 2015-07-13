@@ -22,7 +22,7 @@ This is the tipping point. It's the point just before something makes an impact.
 
 I read Crossing the Chasm by [Geoffrey Moore](http://www.geoffreyamoore.com/) a couple years ago, and I found myself thinking about that book several times while reading The Tipping Point. If a Tipping Point happens at all when you're trying to Cross the Chasm, I think it happens somewhere here. On one side, or the other, of the Chasm.
 
-![Crossing the Chasm](/img/crossing-the-chasm.png "The Tipping Point, and Crossing the Chasm")
+![Crossing the Chasm](http://tylermoore.website/img/crossing-the-chasm.png "The Tipping Point, and Crossing the Chasm")
 
 Once an idea, product, service, behavior, or any other emerging trend moves from the early adopters to the early majority, it's much more likely to spread. And continue to spread.
 
