@@ -20,6 +20,8 @@ Delete feature branch, both locally and remotely.
 ## To do:
 
 ### General
+  * need a better photo of myself
+    - perhaps two (one for the index, one for the blog sidebar)
   * non-button links need a default style
   * need to clean up CSS
     - what about using variables for colorsinstead of repeating the same things over and over?
