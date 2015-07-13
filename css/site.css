@@ -58,6 +58,10 @@ ul { list-style-type: none; }
 
 /* footer styles */
 
+span.social-box {
+  margin: 0 auto;
+  display: block;
+}
 span.social-box i.social-inner {
   color: rgba(220, 31, 0, 1) !important;
 }
@@ -127,15 +131,30 @@ blockquote {
   margin-bottom: 20px;
 }
 
-.blog-sidebar h3 {
+.blog-sidebar h2 {
   font-size: 1.8rem;
   margin-top: -20px;
+}
+
+.blog-sidebar p {
+  font-size: 0.85rem;
 }
 
 .blog-sidebar ul {
   font-size: 0.85rem;
 }
+
 .blog-sidebar li { margin-left: -10px;}
+
+.circle {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+  border: 1px solid white;
+  border-radius: 100px;
+  background-size: contain;
+}
 
 .content { padding: 0 !important; }
 
@@ -183,6 +202,7 @@ blockquote {
 .recent-posts li {
   margin-bottom: 10px;
 }
+
 /* form styles */
 
 .contact-message { height: 100px; }

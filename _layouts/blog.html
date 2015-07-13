@@ -9,12 +9,12 @@
         {{ content }}
       </div>
       <div class="large-3 columns blog-sidebar">
-        <h2><small>About this blog</small></h2>
+        <img src="/img/tyler.jpg" class="circle">
         <p>
-          I write about writing, copywriting, marketing, and books I've read that have had an impact on me.
+          My name is Tyler. I blog about writing, copywriting, marketing, and books I've read that have had an impact on me.
         </p>
         <hr />
-        <h3><small>Categories</small></h3>
+        <h2><small>Categories</small></h2>
         <ul>
           <li>
             <a href="/blog/reading.html">Reading</a>
@@ -24,7 +24,7 @@
           </li>
         </ul>
         <hr />
-        <h3><small>Recent Posts</small></h3>
+        <h2><small>Recent Posts</small></h2>
         <ul class="recent-posts">
           {% for post in site.posts limit:3  %}
             <li>
@@ -35,9 +35,8 @@
           {% endfor %}
         </ul>
         <hr />
-        <h3><small>Subscribe via RSS</small></h3>
         <p>
-          <span id="twitterBox" class="fa-stack fa-lg social-box">
+          <span class="fa-stack fa-lg social-box">
             <a href="http://tylermoore.website/feed.xml">
             <i class="fa fa-circle fa-stack-2x social-outer"></i>
             <i class="fa fa-rss fa-stack-1x social-inner" title="rss"></i>
