@@ -4,11 +4,11 @@
 
   {% include nav.html %}
 
-    <div class="row" data-equalizer>
-      <div class="large-9 columns blog-content" data-equalizer-watch>
+    <div class="row">
+      <div class="large-9 columns blog-content">
         {{ content }}
       </div>
-      <div class="large-3 columns blog-sidebar" data-equalizer-watch>
+      <div class="large-3 columns blog-sidebar">
         <h2><small>About this blog</small></h2>
         <p>
           I write about writing, copywriting, marketing, and books I've read that have had an impact on me.
@@ -24,10 +24,12 @@
         </ul>
         <h2><small>Subscribe via RSS</small></h2>
         <p>
-          <a href="http://tylermoore.website/feed.xml">
-          <i class="fa fa-rss fa-2x">
-          </i>
-          </a>
+          <span id="twitterBox" class="fa-stack fa-lg social-box">
+            <a href="http://tylermoore.website/feed.xml">
+            <i class="fa fa-circle fa-stack-2x social-outer"></i>
+            <i class="fa fa-rss fa-stack-1x social-inner" title="rss"></i>
+            </a>
+          </span>
         </p>
       </div>
     </div>
