@@ -156,15 +156,17 @@ blockquote {
 }
 
 .post-link {
-  float: right;
-  margin-bottom: 20px;
-  color: rgba(255, 255, 255, 1)!important;
   background-color: rgba(220, 31, 0, 1);
-  padding: 10px;
   border: 1px solid rgba(220, 31, 0, 1);
-  &:hover
-    background-color: rgba(255, 255, 255, 1);
-    color: rgba(220, 31, 0, 1);
+  color: rgba(255, 255, 255, 1)!important;
+  float: right;
+  margin: 0 0 20px 0;
+  padding: 10px;
+}
+
+.post-link:hover {
+  background-color: rgba(255, 255, 255, 1)!important;
+  color: rgba(220, 31, 0, 1)!important;
 }
 
 .post-meta {
