@@ -20,11 +20,4 @@ desc: "I'm a writer and copywriting living Indianapolis."
   <div class="content-box">
     <img src="/img/tyler.jpg">
   </div>
-  <div class="content-box">
-    <h2><small>Latest Blog Post</small></h2>
-    {% assign post = site.posts.first %}
-    {% include post_detail.html %}
-    <br />
-    <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-  </div>
 </div>
