@@ -20,6 +20,7 @@ Delete feature branch, both locally and remotely.
 ## To do:
 
 ### General
+  * ok, actually need a favicon now. This is dumb!
   * need a better photo of myself
     - perhaps two (one for the index, one for the blog sidebar)
   * non-button links need a default style
