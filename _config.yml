@@ -4,3 +4,7 @@ safe: true
 lsi: false
 paginate: 5
 categories: [copywriting, learning, news, writing]
+
+name:         "Tyler Moore's writing blog"
+description:  "I write about writing, copywriting, marketing, and other things."
+url:          http://tylermoore.website/blog.html
