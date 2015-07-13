@@ -20,6 +20,10 @@ Delete feature branch, both locally and remotely.
 ## To do:
 
 ### General
+  * non-button links need a default style
+  * need to clean up CSS colors
+    - what about using variables instead of repeating the same things over and over?
+    - at the least, make sure site colors are the ACTUAL site colors
   * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
