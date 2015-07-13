@@ -33,14 +33,7 @@ Delete feature branch, both locally and remotely.
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Blog
-  * style sidebar
-    - look at rough screenshot for an idea
-    - all links should be styled like other links in the site
   * look into full height sidebar
-  * need more content for sidebar
-    - rss feed that works
-    - short bio / info about the blog
-    - other?
   * most recently updated category should be displayed differently via CSS (bold text, etc)
   * add comments to blog posts
   * Add social sharing buttons per post
