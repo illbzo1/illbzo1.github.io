@@ -48,7 +48,6 @@ Delete feature branch, both locally and remotely.
   * Add social sharing buttons per post
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
   * Last blog in the list should not have an HR after (looks dumb with the footer)
-  * quotes should have a distinct style
   * make meta descriptions for blog posts more descriptive - about the book and what I got from it, not what I did
 
 ### Contact
