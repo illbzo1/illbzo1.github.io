@@ -6,25 +6,25 @@ categories: reading
 desc: "On Writing Well by William Zinsser is one of the best books on writing I've ever read."
 ---
 
-<em>On Writing Well</em> by [William Zinsser](http://www.williamzinsserwriter.com/) is one of the best books on writing I’ve ever read. Zinsser was a writer, a journalist, and a teacher.  <em>On Writing Well</em> is the kind of practical, no-bullshit approach to writing I love reading.
+<em>On Writing Well</em> by [William Zinsser](http://www.williamzinsserwriter.com/) is one of the best books on writing I’ve ever read.  It's the kind of practical, no-bullshit approach to writing I love reading.
 
-Zinsser died in May of this year. I didn't know anything about his life or work until I found this book. He was dedicated to the craft, and I’m going to get right into talking about what I got out of his book.
+Zinsser died in May of this year. I didn't know anything about his life or work until I found this book. Zinsser was a writer, a journalist, and a teacher. He was dedicated to the craft, and I’m going to get right into talking about what I got out of his book.
 
 <blockquote>"If a subject interests you, go after it, even if it’s in the next county or the next state or the next country. It’s not going to come looking for you. Decide what you want to do. Then decide to do it. Then do it."</blockquote>
 
-I have a lot of creative friends, and a common complaint I hear is a feeling of shame or guilt for writing, or drawing, or painting the kind of work they find most interesting. As if they felt compelled to make something else because what they really want to create is wrong, or unacceptable.
+I have a lot of creative friends. A common complaint I hear is a feeling of shame or guilt for doing the kind of work they find most interesting. As if they felt compelled to make something else because what they want to create is wrong.
 
-Most of my friends have either shed these feelings, or successfully learned to ignore them. It’s something that happens as you get older and give less of a shit about what you <em>should</em> be doing.
+Most of my friends have shed these feelings, or learned to ignore them. It’s something that happens as you get older and give less of a shit about what you *should* be doing.
 
-I feel fortunate that I never felt this way, but then again, I didn’t get around to doing the work I’ve always wanted to do until well into my 30s.
+I feel fortunate I never felt this way. Then again, I didn’t get around to doing the work I’ve always wanted to do until well into my 30s.
 
 <blockquote>"Don’t become the prisoner of a preconceived plan. Writing is no respecter of blueprints."</blockquote>
 
-It's about not fighting the current. If your work takes you into unexpected areas, go gladly. I’m an architect, but that doesn’t mean I don’t garden. I almost always end up gardening. A character will say something I didn’t expect, adding a different shade of meaning to the story, or take it in an entirely new direction. One that never existed in my most careful outline.
+It's about not fighting the current. If your work takes you into unexpected areas, go gladly. I’m an architect, but that doesn’t mean I don’t garden. I almost always end up gardening. A character will say something I didn’t expect, adding a different shade of meaning to the story, or take it in an new direction. One that never existed in my most careful outline.
 
 <blockquote>"One man’s romantic sunrise is another man’s hangover."</blockquote>
 
-Words like "charm" and "romantic" are meaningless. If you hope to accurately capture the feeling of a scene, something you hold close to your heart, stay away from filler words. Be precise when you write. Be exact, say what you mean to say, and leave no room for doubt.
+Words like "charm" and "romantic" are meaningless. If you hope to capture something you hold close to your heart, stay away from filler words. Be precise when you write. Be exact, say what you mean to say, and leave no room for doubt.
 
 <blockquote>"There are many good reasons for writing that have nothing to do with being published. Writing is a powerful search mechanism, and one of its satisfactions is to come to terms with your life narrative. Another is to work through some of life’s hardest knocks--loss, grief, illness, addiction, disappointment, failure--and to find understanding and solace."</blockquote>
 
