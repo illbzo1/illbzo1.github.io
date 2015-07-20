@@ -3,7 +3,7 @@ layout: post
 title:  "The Mother Tongue"
 date: 2015-06-20
 categories: reading
-desc: "A post about The Mother Tongue by Bill Bryson, and what I learned by reading it."
+desc: "Why are we so careless with how we pronounce the names of things closest to us? The Mother Tongue is a fascinating dive into the history of the English language."
 ---
 
 [The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on a listicle late last year, as I was skulking around the internet, looking for books about writing.
