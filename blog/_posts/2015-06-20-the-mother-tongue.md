@@ -6,7 +6,7 @@ categories: reading
 desc: "Why are we so careless with how we pronounce the names of things closest to us? The Mother Tongue is a fascinating dive into the history of the English language."
 ---
 
-[The Mother Tongue](http://www.billbryson.co.uk/index.php/mother-tongue-the-story-of-the-english-language-2/) by Bill Bryson wasn’t the book I thought it was going to be. I found it on a listicle late last year, as I was skulking around the internet, looking for books about writing.
+*The Mother Tongue* by [Bill Bryson](http://www.billbryson.co.uk/) wasn’t the book I thought it was going to be. I found it on a listicle late last year, as I was skulking around the internet, looking for books about writing.
 
 I wanted to front load a ton of good books on copywriting, marketing, and writing for my reading this year. I held my nose and rooted through a bargain bin stuffed full of clickbait headlines. I dug through loathsome pieces of internet trash with headlines like Top 23 Writing Books of All Time, or 14 Books on Writing You Won’t Believe (Number 6 Is Insane!)
 
