@@ -28,6 +28,7 @@ Give the post a useful or relevant title, open the file, add relevant category a
 ## To do:
 
 ### General
+  * Rake task for creating a new blog post should open that post in Sublime upon creation
   * ok, actually need a favicon now. This is dumb!
   * need a better photo of myself
     - perhaps two (one for the index, one for the blog sidebar)
