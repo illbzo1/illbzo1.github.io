@@ -7,6 +7,14 @@ Make a feature branch from master, commit changes, verify changes work locally.
 Merge feature branch into master, verify changes work locally, push from master to deploy.
 Delete feature branch, both locally and remotely.
 
+# Blogging
+
+There is a Rake task to create a new blog post. From the command line, in the project root folder:
+
+    rake post:new
+
+Give the post a useful or relevant title, open the file, add relevant category and meta description.
+
 ## Helpful links:
 
 [Jekyll](http://jekyllrb.com/)
@@ -41,7 +49,6 @@ Delete feature branch, both locally and remotely.
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Blog
-  * add rake task to make new posts, ala DocRaptor
   * add links to archives in the sidebar
   * look into full height sidebar
   * most recently updated category should be displayed differently via CSS (bold text, etc)
