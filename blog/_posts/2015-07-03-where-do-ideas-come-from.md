@@ -14,11 +14,11 @@ That’s when my ideas arrive. When I’m half-dressed and not expecting company
 
 An easy answer is *“I write the kinds of stories I want to read,”* but I don’t know if that’s true. It sounds good. It sounds writerly. It sounds magnanimous. But I’m not magnanimous. Especially when it comes to writing. Writing is a selfish act, and if you’re worth a damn, you’re writing for yourself first.
 
-On top of that, I don't believe I'm fully in control of what I'm writing, despite how carefully I plan, despite my tendency toward Architecture, rather than Gardening. I'm a builder, but I don't always know what I'm building, and I don’t really know where my ideas come from. I think mostly in pictures, not in words or phrases, and when an idea shows up, it can take many forms. Sometimes it’s like watching a scene from a movie.
+On top of that, I don't believe I'm fully in control of what I'm writing, despite how carefully I plan, despite my tendency toward Architecture, rather than Gardening. I'm a builder, but I don't always know what I'm building, and I don’t really know where my ideas come from. I think in pictures, not in words or phrases, and when an idea shows up, it can take many forms. Sometimes it’s like watching a scene from a movie.
 
 Last week I was in that strange place between sleeping and waking, when I saw a woman driving down a lonely stretch of highway, late at night. I knew she was on her way home, and I knew this was a trip she made several times a week, and had been making for several years.
 
-The woman drove past a grove of trees, just like she did several times a week. A small stand of old trees, about 30 yards back from the highway. Unremarkable, but it caught her eye every time she drove past. She held her breath every time she crested the hill just before the grove came into view, and as she drove past her head turned until the muscles in her neck ached. Watching the trees until they passed from her view. She did this without thinking, week after week, year after year.
+The woman drove past a grove of trees, just like she did several times a week. A small stand of old trees, about 30 yards back from the highway. Unremarkable, but it caught her eye every time she drove past. She held her breath every time she crested the hill just before the grove came into view. As she drove past the grove, her head turned until the muscles in her neck ached. Watching the trees until they passed from her view. She did this without thinking, week after week, year after year.
 
 Until she stopped the night I was watching. She crested the hill, holding her breath, and pulled her car to the side of the road. She turned off the engine, shut off the lights, and got out. She didn’t take her keys, and she didn’t lock the door. She crossed the highway without checking for traffic, and entered the grove.
 
@@ -36,4 +36,4 @@ Ideas come wearing many faces. Usually it’s a picture, or a stream of pictures
 
 I like to think there’s a part of my brain that never stops working. Some busy piece of my mind, constantly churning out ideas, sending them up for consideration when they’re ready. My  Underbrain. It’s the part of me that wants to be a writer, that’s always wanted to be a writer, and now that I’m writing every day, it’s busier than ever.
 
-I think in images, and when I think of where ideas come from, I imagine my own brain, the fissure between the lobes of my brain dark and crackling with electricity, sending up another idea from Somewhere Else. Another note from the Underbrain. Another idea.
+I think in images, and when I think of where my ideas come from, I imagine the fissure between the lobes of my brain dark and crackling with electricity, sending up another idea from Somewhere Else. Another note from the Underbrain. Another idea.
