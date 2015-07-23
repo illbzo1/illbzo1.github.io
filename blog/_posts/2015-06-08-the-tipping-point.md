@@ -2,7 +2,7 @@
 layout: post
 title:  "The Tipping Point"
 date:   2015-06-08
-categories: reading
+categories: marketing
 desc: "I love thinking about ideas, and how ideas spread, and how we can ensure our own ideas spread."
 ---
 

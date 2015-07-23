@@ -2,7 +2,7 @@
 layout: post
 title:  "My Writing System"
 date:   2015-02-01
-categories: [writing, reading]
+categories: writing
 desc: "I use a system to make sure I'm writing - 500 words a day, 1,000 words per day on the weekends."
 ---
 

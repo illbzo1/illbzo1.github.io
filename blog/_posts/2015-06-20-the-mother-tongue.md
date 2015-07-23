@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mother Tongue"
 date: 2015-06-20
-categories: reading
+categories: writing
 desc: "Why are we so careless with how we pronounce the names of things closest to us? The Mother Tongue is a fascinating dive into the history of the English language."
 ---
 

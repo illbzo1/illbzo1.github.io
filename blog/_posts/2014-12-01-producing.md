@@ -2,7 +2,7 @@
 layout: post
 title:  "Producing"
 date:   2014-12-01
-categories: [writing]
+categories: writing
 desc: "Start every day by making something. Do the Work you love, before checking Twitter, before checking your email, before you look at Facebook."
 ---
 
