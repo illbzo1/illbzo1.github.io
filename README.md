@@ -50,6 +50,7 @@ Give the post a useful or relevant title, open the file, add relevant category a
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Blog
+  * need an "Other" category, for other types of posts (news, programming, etc)
   * add links to archives in the sidebar
   * look into full height sidebar
   * most recently updated category should be displayed differently via CSS (bold text, etc)
