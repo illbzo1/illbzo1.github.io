@@ -70,6 +70,8 @@ Give the post a useful or relevant title, open the file, add relevant category a
 
 ### Copywriting
   * Open all links in new window
+  * Image previews need a hover state to indicate they are links
+  * Copy could use some edits (it's a bit wordy, and could flow better.)
 
 ### Header
   * Should perhaps be combined with the nav
