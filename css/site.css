@@ -68,10 +68,12 @@ span.social-box {
   display: block;
 }
 span.social-box i.social-inner {
+  transition: color 0.5s;
   color: rgba(220, 31, 0, 1) !important;
 }
 
 span.social-box i.social-outer {
+  transition: color 0.5s;
   color: #fff;
 }
 
