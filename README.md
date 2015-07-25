@@ -29,6 +29,7 @@ Give the post a useful or relevant title, open the file, add relevant category a
 
 ### General
   * CSS for buttons should fade in / out, not be a quick change
+  * non-button links need a default style
   * Blog sidebar should look nicer
     - look at O&C for typography ideas
     - maybe go with a different font / white background with borders to separate from content
@@ -36,7 +37,6 @@ Give the post a useful or relevant title, open the file, add relevant category a
   * ok, actually need a favicon now. This is dumb!
   * need a better photo of myself
     - perhaps two (one for the index, one for the blog sidebar)
-  * non-button links need a default style
   * need to clean up CSS
     - what about using variables for colorsinstead of repeating the same things over and over?
     - at the least, make sure site colors are the ACTUAL site colors
