@@ -1,29 +1,22 @@
 /* color palette for site
-red: 		rgba(220, 31, 0, 1);
-aqua: 		rgba(133, 213, 215, 1);
-white: 		rgba(244, 245, 237, 1);
-dark gray: 	rgba(51, 51, 51, 1);
-light gray: rgba(102, 102, 102, 1)*/
+dark gray:    rgba(50, 50, 50, 1);
+medium gray:  rgba(100, 100, 100, 1);
+light gray:   rgba(200, 200, 200, 1);
+red: 		      rgba(225, 25, 0, 1);
+white: 		    rgba(255, 255, 255, 1);
+*/
 
 /* shared styles */
 body {
   background-color: rgba(255, 255, 255, 1) !important;
-  font-family: 'Open Sans', sans-serif!important;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
-html { overflow-y:scroll; }
-
-header {
-  background-color: rgba(255, 255, 255, 1);
-  color: rgba(51, 51, 51, 1);
-  letter-spacing: 0.25em;
-  padding: 1.5em 0;
-  text-align: center;
-}
+html { overflow-y: scroll; }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
-  font-family: 'Open Sans', sans-serif!important;
-  color: rgba(51, 51, 51, 1 )!important;
+  font-family: 'Open Sans', sans-serif !important;
+  color: rgba(50, 50, 50, 1 ) !important;
 }
 
 ul { list-style-type: none; }
@@ -37,28 +30,26 @@ ul { list-style-type: none; }
 .sidebar h2 { margin-top: -20px !important; }
 .sidebar img {
   padding: 20px;
-  border: 1px solid #DDDDDD;
+  border: 1px solid rgba(200, 200, 200, 1);
 }
 
 /* nav styles */
 
 .nav-container {
-	background-color: rgba(220, 31, 0, 1);
-  border-top: 1px solid rgba(220, 31, 0, 1);
-  border-bottom: 1px solid rgba(220, 31, 0, 1);
+	background-color: rgba(225, 25, 0, 1);
+  border-top: 1px solid rgba(225, 25, 0, 1);
+  border-bottom: 1px solid rgba(225, 25, 0, 1);
 	margin-top: 20px;
 }
 
-.site-nav {
-  background-color: rgba(220, 31, 0, 1) !important;
-}
+.site-nav { background-color: rgba(225, 25, 0, 1) !important; }
 .site-nav li a {
-  background-color: rgba(220, 31, 0, 1) !important;
+  background-color: rgba(225, 25, 0, 1) !important;
   transition: background-color 0.5s;
 }
 .site-nav li a:hover {
   background-color: rgba(255, 255, 255, 1) !important;
-  color: rgba(220, 31, 0, 1) !important;
+  color: rgba(225, 25, 0, 1) !important;
 }
 
 /* footer styles */
@@ -69,26 +60,22 @@ span.social-box {
 }
 span.social-box i.social-inner {
   transition: color 0.5s;
-  color: rgba(220, 31, 0, 1) !important;
+  color: rgba(225, 25, 0, 1) !important;
 }
-
 span.social-box i.social-outer {
   transition: color 0.5s;
-  color: #fff;
+  color: rgba(255, 255, 255, 1);
 }
+span.social-box:hover i.social-inner { color: rgba(255, 255, 255, 1) !important; }
+span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
 
-span.social-box:hover i.social-inner {
-  color: #fff !important;
+.copyright {
+  font-size: 0.75rem;
+  margin-top: 11px;
 }
-
-span.social-box:hover i.social-outer {
-  color: rgba(220, 31, 0, 1) !important;
-}
-
-.copyright { font-size: 0.75rem; margin-top: 11px; }
 
 .footer-container {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid rgba(200, 200, 200, 1);
   margin: 20px 0;
 }
 
@@ -106,7 +93,7 @@ span.social-box:hover i.social-outer {
 
 .entry-title a {
   font-size: 1.5rem;
-  color: rgba(51, 51, 51, 1) !important;
+  color: rgba(50, 50, 50, 1) !important;
 }
 
 .panel {
@@ -117,9 +104,9 @@ span.social-box:hover i.social-outer {
 /* blog styles */
 
 blockquote {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid rgba(200, 200, 200, 1);
   border-left: none !important;
-  border-top: 1px solid #dddddd;
+  border-top: 1px solid rgba(200, 200, 200, 1);
   color: #333333 !important;
   font-size: 1.2rem;
   font-style: italic;
@@ -132,37 +119,27 @@ blockquote {
 .blog-content { margin-top: 20px; }
 
 .blog-sidebar {
-  font-family: 'Raleway', sans-serif!important;
-  border-top: 3px solid #fff;
-  border-bottom: 3px solid #ddd;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  font-family: 'Raleway', sans-serif !important;
+  border-top: 3px solid rgba(255, 255, 255, 1);
+  border-bottom: 3px solid rgba(200, 200, 200, 1);
+  border-left: 1px solid rgba(200, 200, 200, 1);
+  border-right: 1px solid rgba(200, 200, 200, 1);
 }
-
 .blog-sidebar a {
-  color: rgba(51, 51, 51, 1)!important;
+  color: rgba(50, 50, 50, 1) !important;
   font-weight: bold;
 }
 .blog-sidebar a:hover{
-  text-decoration: underline!important;
-  color: rgba(220, 31, 0, 1)!important;
-
+  text-decoration: underline !important;
+  color: rgba(225, 25, 0, 1) !important;
 }
-
 .blog-sidebar h2 {
   font-size: 1.8rem;
   margin-top: -20px;
 }
-
-.blog-sidebar p {
-  font-size: 0.85rem;
-}
-
-.blog-sidebar ul {
-  font-size: 0.85rem;
-}
-
-.blog-sidebar li { margin-left: -10px;}
+.blog-sidebar p { font-size: 0.85rem; }
+.blog-sidebar ul { font-size: 0.85rem; }
+.blog-sidebar li { margin-left: -10px; }
 
 .circle {
   display: block;
@@ -183,44 +160,32 @@ blockquote {
   margin-top: -20px;
 	background-color: rgba(255, 255, 255, 1) !important;
 }
-
-.post-header a {
-	color: rgba(51, 51, 51, 1);
-}
-
-.post-header a:hover {
-	color: rgba(51, 51, 51, 1);
-}
-
-.post-list {
-	list-style-type: none;
-}
+.post-header a { color: rgba(50, 50, 50, 1) !important; }
+.post-header a:hover { text-decoration: underline; }
 
 .post-link {
   transition: background-color 0.5s;
-  background-color: rgba(220, 31, 0, 1);
-  border: 1px solid rgba(220, 31, 0, 1);
-  color: rgba(255, 255, 255, 1)!important;
+  background-color: rgba(225, 25, 0, 1);
+  border: 1px solid rgba(225, 25, 0, 1);
+  color: rgba(255, 255, 255, 1) !important;
   float: right;
   margin: 0 0 20px 0;
   padding: 10px;
 }
 
 .post-link:hover {
-  background-color: rgba(255, 255, 255, 1)!important;
-  color: rgba(220, 31, 0, 1)!important;
+  background-color: rgba(255, 255, 255, 1) !important;
+  color: rgba(225, 25, 0, 1) !important;
 }
 
 .post-meta {
-	color: rgba(51, 51, 51, 1);
+	color: rgba(50, 50, 50, 1);
 	font-size: 0.8rem;
 	margin-top: -35px;
 	float: right;
 }
 
-.recent-posts li {
-  margin-bottom: 10px;
-}
+.recent-posts li { margin-bottom: 10px; }
 
 /* form styles */
 
@@ -230,18 +195,18 @@ blockquote {
 
 input[type=submit] {
   padding: 11px 15px;
-  background: rgba(220, 31, 0, 1);
+  background: rgba(225, 25, 0, 1);
   color: rgba(255, 255, 255, 1);
-  border: 1px solid rgba(220, 31, 0, 1) !important;
+  border: 1px solid rgba(225, 25, 0, 1) !important;
   border: 0 none;
   cursor: pointer;
   font-size: 0.8rem;
 }
 
-input[type="submit"]:hover{
+input[type="submit"]:hover {
   transition: background-color 0.5s;
   background: rgba(255, 255, 255, 1);
-  color: rgba(220, 31, 0, 1);
+  color: rgba(225, 25, 0, 1);
 }
 
 /* copywriting portfolio styles */
@@ -251,4 +216,4 @@ input[type="submit"]:hover{
 .copy-nav li { float: left; margin-right: 20px; }
 .copy-thumb { height: 77px; }
 .description-text { font-size: 0.75rem; }
-.img-border { border: 1px solid rgba(51, 51, 51, 0.1); }
+.img-border { border: 1px solid rgba(200, 200, 200, 1); }
