@@ -7,7 +7,7 @@ desc: "You have to get up in the morning and write like a drunk has to drink."
 ---
 Eleven years later, this is still the best advice on being a writer I've ever heard.
 
-<blockquote>"You have to get up in the morning and write like a drunk has to drink."</blockquote>
+<blockquote>You have to get up in the morning and write like a drunk has to drink.</blockquote>
 
 One of my photography professors from college gave us this advice. One of his professors gave it to him back in the 60s. He carried it down through the long years and handed it to me one day in a cramped room in the Ernie Pyle building.
 

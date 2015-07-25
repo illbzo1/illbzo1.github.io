@@ -104,16 +104,32 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
 /* blog styles */
 
 blockquote {
-  border-bottom: 1px solid rgba(200, 200, 200, 1);
-  border-left: none !important;
-  border-top: 1px solid rgba(200, 200, 200, 1);
-  color: #333333 !important;
+  border-left: 2px solid rgba(200, 200, 200, 1) !important;
+  color: rgba(50, 50, 50, 1) !important;
   font-size: 1.2rem;
   font-style: italic;
   letter-spacing: 0.05rem !important;
   line-height: 40px;
   margin-left: 20px;
   padding: 1rem !important;
+}
+
+blockquote:before {
+  content: open-quote;
+  font-size: 3rem;
+  line-height: 0.5em;
+  margin-right: 0.2em;
+  vertical-align: -0.25em;
+}
+blockquote:after {
+  content: close-quote;
+  font-size: 3rem;
+  line-height: 0.2em;
+  margin-right: 0.25em;
+  vertical-align: -0.3em;
+}
+blockquote p {
+  display: inline;
 }
 
 .blog-content { margin-top: 20px; }

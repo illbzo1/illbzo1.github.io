@@ -8,7 +8,7 @@ desc: "A post about where the raw material for stories comes from, inspired by r
 
 I'm reading Bird by Bird by Anne Lamott, and this quote rang true enough I had to jump up and write about it.
 
-<blockquote>"So much of writing is about sitting down and doing it every day, and so much of it is about getting into the custom of taking in everything that comes along, seeing it all as grist for the mill."</blockquote>
+<blockquote>So much of writing is about sitting down and doing it every day, and so much of it is about getting into the custom of taking in everything that comes along, seeing it all as grist for the mill.</blockquote>
 
 Everything is material. Every person I know, every song I've ever heard, the linoleum in my Aunt Sharon's kitchen, the woods, the creek, and the drainage ditch that ran under the road by the country house I lived in as a child.
 

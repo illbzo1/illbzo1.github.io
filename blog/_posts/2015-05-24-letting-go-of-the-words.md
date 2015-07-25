@@ -16,13 +16,13 @@ I don't consider myself an SEO anymore. SEO is a cornerstone of writing for the 
 
 Redish offers a hands-on, practical approach to writing for the web. I like practical books. I've never considered myself a philosopher. I like doing work, and I do well with a list. With a framework. There's a reason I've always gotten such joy from putting together a new Lego set.
 
-<blockquote>"You will have overall purposes for your site or app or blog. You will have even more specific purposes for each part of the site, for each piece of content, for each blog article, for each part of a mobile app, for each social media message. Always ask: What do I want to happen because I wrote this?"</blockquote>
+<blockquote>You will have overall purposes for your site or app or blog. You will have even more specific purposes for each part of the site, for each piece of content, for each blog article, for each part of a mobile app, for each social media message. Always ask: What do I want to happen because I wrote this?</blockquote>
 
 This is a simple, effective way to start outlining any piece of content. Good web content should always focus on the reader. How well does your product solve your reader's problem? How quickly can you make that point? What is the least amount of time you can demand from your reader?
 
 Web content isn't the same as fiction. Fiction is a luxury. Web content needs to cut the bullshit, kill the preamble, and get to work. I love this quote by Redish. It's about staying on task. It's about writing with purpose, about creating content with a specific goal in mind.
 
-<blockquote>"At a recent talk in a room full of designers, I declared "No more lorem ipsum!" The designers applauded loudly. Many designers want content early. But they tell me that clients often push them to design without content. They have trouble getting content early enough. So we need to educate clients, too, to understand the importance of content strategy and how critical real content is for successful design."</blockquote>
+<blockquote>At a recent talk in a room full of designers, I declared "No more lorem ipsum!" The designers applauded loudly. Many designers want content early. But they tell me that clients often push them to design without content. They have trouble getting content early enough. So we need to educate clients, too, to understand the importance of content strategy and how critical real content is for successful design.</blockquote>
 
 The roughest draft copy you can possibly imagine is better by far than a wall of dummy text. I don't have much more to say about this idea. I'm mostly quoting Redish here because she's stating my own opinion. I'm a human being, and human beings like to hear our own opinions reinforced, especially by those we respect.
 

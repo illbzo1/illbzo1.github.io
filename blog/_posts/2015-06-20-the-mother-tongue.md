@@ -16,11 +16,11 @@ Little known fact: I love etymology. I took an etymology class when I was a juni
 
 But let’s talk about the book.
 
-<blockquote>"We tend to slur those things most familiar to us, particularly place-names."</blockquote>
+<blockquote>We tend to slur those things most familiar to us, particularly place-names.</blockquote>
 
 Oh, yes. Absolutely. I’m from southern Indiana, and it was several years after I moved north for college before I stopped pronouncing “Louisville” as “Lou-uh-vulle,” or even "Luh-vulle." Fascinating that we’re most careless with names most familiar to us. Many times I've stepped carefully over an unfamiliar word, while slurring the names of my closest friends, familiar locations, favorite video games, movies, books, and TV shows.
 
-<blockquote>"Considerations of what makes for good English or bad English are to an uncomfortably large extent matters of prejudice and conditioning."</blockquote>
+<blockquote>Considerations of what makes for good English or bad English are to an uncomfortably large extent matters of prejudice and conditioning.</blockquote>
 
 For a long time, I took bad spelling or poor grammar to be a sign of a lack of intelligence. It wasn’t until I was well into my 20s that I figured out this isn’t true. Some people aren’t good at language. I’m not good at math, or physics. It doesn’t mean I’m an idiot. I am in fact, quite smart, and the same holds true for many people who have a hard time with they’re, their, and there.
 
