@@ -30,13 +30,14 @@ Give the post a useful or relevant title, open the file, add relevant category a
 ### General
   * non-button links need a default style
   * Rake task for creating a new blog post should open that post in Sublime upon creation
+  * Look into other useful Rake tasks
   * ok, actually need a favicon now. This is dumb!
   * need a better photo of myself
     - perhaps two (one for the index, one for the blog sidebar)
-  * need to clean up CSS
-    - what about using variables for colors instead of repeating the same things over and over?
-    - at the least, make sure site colors are the ACTUAL site colors
-    - make sure the ONLY colors used are colors that are defined in the top of the CSS file
+  Look into using Sass or Less instead of CSS
+    - variables would be cool
+    - might not need to use so many !important declarations
+  CSS clean up
     - Twitter social span IDs are unnecessary and unused - remove them
   * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
