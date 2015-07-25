@@ -28,7 +28,6 @@ Give the post a useful or relevant title, open the file, add relevant category a
 ## To do:
 
 ### General
-  * CSS for buttons should fade in / out, not be a quick change
   * non-button links need a default style
   * Blog sidebar should look nicer
     - look at O&C for typography ideas
