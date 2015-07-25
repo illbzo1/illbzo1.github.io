@@ -28,6 +28,10 @@ Give the post a useful or relevant title, open the file, add relevant category a
 ## To do:
 
 ### General
+  * CSS for buttons should fade in / out, not be a quick change
+  * Blog sidebar should look nicer
+    - look at O&C for typography ideas
+    - maybe go with a different font / white background with borders to separate from content
   * Rake task for creating a new blog post should open that post in Sublime upon creation
   * ok, actually need a favicon now. This is dumb!
   * need a better photo of myself
