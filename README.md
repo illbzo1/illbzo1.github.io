@@ -36,6 +36,7 @@ Give the post a useful or relevant title, open the file, add relevant category a
   * need to clean up CSS
     - what about using variables for colors instead of repeating the same things over and over?
     - at the least, make sure site colors are the ACTUAL site colors
+    - make sure the ONLY colors used are colors that are defined in the top of the CSS file
     - Twitter social span IDs are unnecessary and unused - remove them
   * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
@@ -77,6 +78,7 @@ Give the post a useful or relevant title, open the file, add relevant category a
   * Should perhaps be combined with the nav
 
 ### Footer
+  * Should add a link to your LinkedIn profile
   * Needs to float to the bottom on pages with very little content
 
 ### Index
