@@ -43,14 +43,15 @@ ul { list-style-type: none; }
   border-top: 1px solid rgba(220, 31, 0, 1);
   border-bottom: 1px solid rgba(220, 31, 0, 1);
 	margin-top: 20px;
-	li a:hover {
-	  background-color: rgba(255, 255, 255, 1) !important;
-    color: rgba(220, 31, 0, 1);
-	}
 }
 
-.site-nav { background-color: rgba(220, 31, 0, 1) !important; }
-.site-nav li a { background-color: rgba(220, 31, 0, 1) !important; }
+.site-nav {
+  background-color: rgba(220, 31, 0, 1) !important;
+}
+.site-nav li a {
+  background-color: rgba(220, 31, 0, 1) !important;
+  transition: background-color 0.5s;
+}
 .site-nav li a:hover {
   background-color: rgba(255, 255, 255, 1) !important;
   color: rgba(220, 31, 0, 1) !important;
@@ -179,6 +180,7 @@ blockquote {
 }
 
 .post-link {
+  transition: background-color 0.5s;
   background-color: rgba(220, 31, 0, 1);
   border: 1px solid rgba(220, 31, 0, 1);
   color: rgba(255, 255, 255, 1)!important;
@@ -220,6 +222,7 @@ input[type=submit] {
 }
 
 input[type="submit"]:hover{
+  transition: background-color 0.5s;
   background: rgba(255, 255, 255, 1);
   color: rgba(220, 31, 0, 1);
 }
