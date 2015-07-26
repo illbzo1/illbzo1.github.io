@@ -228,8 +228,12 @@ input[type="submit"]:hover {
 /* copywriting portfolio styles */
 
 .bold { font-weight: bold; }
-.copy-nav { list-style-type: none; }
-.copy-nav li { float: left; margin-right: 20px; }
-.copy-thumb { height: 77px; }
+.copy-thumb {
+  height: 77px;
+  transition: border 0.5s;
+  border: 2px solid rgba(200, 200, 200, 0.25);
+}
+.copy-thumb:hover {
+  border: 2px solid rgba(225, 25, 0, 1);
+}
 .description-text { font-size: 0.75rem; }
-.img-border { border: 1px solid rgba(200, 200, 200, 1); }
