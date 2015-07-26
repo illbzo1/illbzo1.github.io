@@ -52,21 +52,15 @@ Give the post a useful or relevant title, open the file, add relevant category a
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Blog
+  * what if the excerpts were a brief summary of the post, rather than the first few lines?
   * need an "Other" category, for other types of posts (news, programming, etc)
   * add links to archives in the sidebar
   * look into full height sidebar
-  * most recently updated category should be displayed differently via CSS (bold text, etc)
   * add comments to blog posts
   * Add social sharing buttons per post
     - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
   * Last blog in the list should not have an HR after (looks dumb with the footer)
-  * make meta descriptions for blog posts more descriptive - about the book and what I got from it, not what I did
-  * spellcheck all blog posts
-  * Unify style and linking to books
-    - italics for book name
-    - link to authors site not Amazon
-  * Copy edit old posts
-    - fix wordiness, weak construction
+  * make meta descriptions for blog posts more descriptive - about the book and what I got from it
 
 ### Contact
 
