@@ -136,11 +136,13 @@ blockquote p {
 .blog-content { margin-top: 20px; }
 
 .blog-content a {
-  color: rgba(225, 25, 0, 1) !important;
+  color: rgba(225, 25, 0, 1);
 }
 .blog-content a:hover {
-  text-decoration: underline !important;
+  color: rgba(225, 25, 0, 1);
+  text-decoration: underline;
 }
+
 .blog-sidebar {
   font-family: 'Raleway', sans-serif !important;
   border-top: 3px solid rgba(255, 255, 255, 1);
