@@ -36,8 +36,6 @@ Give the post a useful or relevant title, open the file, add relevant category a
   Look into using Sass or Less instead of CSS
     - variables would be cool
     - might not need to use so many !important declarations
-  CSS clean up
-    - Twitter social span IDs are unnecessary and unused - remove them
   * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
