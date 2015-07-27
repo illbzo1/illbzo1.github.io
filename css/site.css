@@ -7,6 +7,13 @@ white: 		    rgba(255, 255, 255, 1);
 */
 
 /* shared styles */
+a {
+  color: rgba(225, 25, 0, 1) !important;
+}
+a:hover {
+  text-decoration: underline !important;
+}
+
 body {
   background-color: rgba(255, 255, 255, 1) !important;
   font-family: 'Open Sans', sans-serif !important;
