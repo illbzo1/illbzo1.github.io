@@ -28,7 +28,6 @@ Give the post a useful or relevant title, open the file, add relevant category a
 ## To do:
 
 ### General
-  * non-button links need a default style
   * Rake task for creating a new blog post should open that post in Sublime upon creation
   * Look into other useful Rake tasks
   * ok, actually need a favicon now. This is dumb!
