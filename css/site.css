@@ -78,6 +78,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
 .footer-container {
   border-top: 1px solid rgba(200, 200, 200, 1);
   height: 75px;
+  margin: 20px 0;
 }
 
 .footer-container ul {
