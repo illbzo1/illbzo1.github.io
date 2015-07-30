@@ -13,7 +13,7 @@ There is a Rake task to create a new blog post. From the command line, in the pr
 
     rake post:new
 
-Give the post a useful or relevant title, open the file, add relevant category and meta description.
+Give the post a relevant title, open the file, add relevant category and meta description.
 
 ## Helpful links:
 
