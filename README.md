@@ -69,7 +69,7 @@ Give the post a relevant title, open the file, add relevant category and meta de
 
 ### Footer
   * Should add a link to your LinkedIn profile
-  * Needs to float to the bottom on pages with very little content
+  * Make footer fix pure CSS, rather than another JS file to load
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
