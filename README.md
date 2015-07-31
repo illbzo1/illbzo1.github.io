@@ -54,8 +54,12 @@ Give the post a relevant title, open the file, add relevant category and meta de
   * add links to archives in the sidebar
   * look into full height sidebar
   * add comments to blog posts
-  * Add social sharing buttons per post
-    - http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/
+  * Social sharing buttons should be smarter
+    - Facebook is bad
+      * does not grab the correct URL
+      * does not grab the page title
+    - Twitter is *OK*
+    - Google+ should grab the title of the post and the full URL, not the full URL, and the site URL.
   * Last blog in the list should not have an HR after (looks dumb with the footer)
   * make meta descriptions for blog posts more descriptive - about the book and what I got from it
 
