@@ -56,10 +56,9 @@ Give the post a relevant title, open the file, add relevant category and meta de
   * add comments to blog posts
   * Social sharing buttons should be smarter
     - Facebook is bad
-      * does not grab the correct URL
       * does not grab the page title
     - Twitter is *OK*
-    - Google+ should grab the title of the post and the full URL, not the full URL, and the site URL.
+    - Google+ should grab the full URL for the post
   * Last blog in the list should not have an HR after (looks dumb with the footer)
   * make meta descriptions for blog posts more descriptive - about the book and what I got from it
 
