@@ -36,7 +36,6 @@ Give the post a relevant title, open the file, add relevant category and meta de
   Look into using Sass or Less instead of CSS
     - variables would be cool
     - might not need to use so many !important declarations
-  * need to add and update robots.txt
   * Ensure there's no dumb mistakes in the actual markup
     - review generated code in a browser
     - see if we can simplify the code
