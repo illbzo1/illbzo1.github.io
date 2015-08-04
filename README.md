@@ -48,6 +48,7 @@ Give the post a relevant title, open the file, add relevant category and meta de
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
 
 ### Blog
+  * double check and update all meta descriptions
   * what if the excerpts were a brief summary of the post, rather than the first few lines?
   * need an "Other" category, for other types of posts (news, programming, etc)
   * add links to archives in the sidebar
