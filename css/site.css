@@ -20,6 +20,8 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   color: rgba(50, 50, 50, 1 ) !important;
 }
 
+iframe { margin: 20px 0;}
+
 ul { list-style-type: none; }
 
 .left  { float: left; }
