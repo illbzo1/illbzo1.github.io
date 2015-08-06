@@ -6,9 +6,9 @@ categories: [marketing]
 desc: "Why do we share the information we choose to share? What makes something so remarkable we simply can't keep it to ourselves?"
 ---
 
-I recently finished <em>Contagious</em> by Jonah Berger. It’s a fascinating look at why we spread certain types of information, how to identify the factors that makes information worth sharing, and how to apply those factors to marketing.
+I recently finished <em>Contagious</em> by [Jonah Berger](http://jonahberger.com/). It’s a fascinating look at why we spread certain types of information, how to identify the factors that makes information worth sharing, and how to apply those factors to marketing.
 
-We spread information we find useful, or remarkable, or valuable, or that makes us look better to the audience. We spread ideas in the hope the information will help others, or improve our own situation.
+We share information we find useful, remarkable, or valuable. We share information that makes us look good. We share information to help others, or improve our own situation.
 
 And we're careful about who we share information with.
 
@@ -24,17 +24,11 @@ And I return the favor. We all do. I know exactly which members of my social cir
   The best thing about remarkability, though, is that it can be applied to anything.
 </blockquote>
 
-We want to talk about interesting things. We want to spread information we find remarkable. But remarkability isn’t an end to itself. You want people to remember your message, but the vehicle and the message have to be connected. Take the Panda commercials, for example:
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/SyRvzeNuqa4" frameborder="0" allowfullscreen></iframe>
-
-Or the old Unpimp the Auto Volkswagen commercials:
+We want to talk about interesting things. We want to spread information we find remarkable. But remarkability isn’t an end to itself. You want people to remember your message, but the vehicle and the message have to be connected. Take [Tom Zukoski's](http://www.tomzukoski.com/Volkswagen-Unpimp-Integrated-Campaign) Unpimp the Auto Volkswagen commercials, for example:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/cv157ZIInUk" frameborder="0" allowfullscreen></iframe>
 
-Both remarkable ad campaigns. Both surprising, emotional, and fantastic for social currency. It doesn’t hurt that both of these are readily available on YouTube, and are fun to share with a friend. But these aren’t just funny commercials. They’re successful marketing campaigns because they married the message with the vehicle that delivered it.
-
-A funny commercial on YouTube is a great way to make your product more visible. I don't drive a Volkswagen, and I've never eaten Panda cheese, but I'm aware of both of these brands. I've told friends about these commercials before.
+These commercials are nine years old, and I still love them. They're still funny. And they were a fantastic campaign for Volkswagen - actual sales of the new Volskwagen GTI were up 150% over projected sales. But these aren’t just funny commercials. It was a successful marketing campaign because it married the message with the vehicle that delivered it.
 
 <blockquote>
   Making something more observable makes it easier to imitate. Thus a key factor in driving products to catch on is <em>public visibility</em>. If something is built to show, it’s built to grow.
@@ -46,7 +40,8 @@ It’s why you see clever shopping bags like these:
 
 ![Clever Shopping Bags](/img/shopping-bags.jpg)
 
-They're remarkable. They're interesting, and they turn something retail shops require (a bag for customers to carry away purchases) into a walking advertisement for their brand. Something for people to notice and talk about.
+They're interesting, and they turn something retail shops require into mobile advertisements for their brand. Something for people to notice and talk about. They're remarkable.
 
+Your message won't spread itself, but remarkability will help it along. What makes your product special? What makes your service unique? What makes people excited about your business?
 
-
+What would make someone tell their friends about you?
