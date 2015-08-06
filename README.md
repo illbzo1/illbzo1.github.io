@@ -46,6 +46,8 @@ Give the post a relevant title, open the file, add relevant category and meta de
   * Read through SEO for Jekyll
     - rel author (is this still a thing?)
     - good resource: http://vdaubry.github.io/2014/10/21/SEO-for-your-Jekyll-blog/
+  * The sitemap should be automatically updated. Look into this tool:
+    - https://github.com/jekyll/jekyll-sitemap
 
 ### Blog
   * double check and update all meta descriptions
