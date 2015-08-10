@@ -68,8 +68,6 @@ Give the post a relevant title, open the file, add relevant category and meta de
   * Should perhaps be combined with the nav
 
 ### Footer
-  * Should add a link to your LinkedIn profile
-  * Needs to float to the bottom on pages with very little content
 
 ### Index
   * fix default layout. we have duplicate, unnecessary rows.
