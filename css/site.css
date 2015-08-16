@@ -285,6 +285,10 @@ input[type="submit"]:hover {
 
 /* resume styles */
 
+.pdf-copy {
+  padding-top: 10px;
+}
+
 .resume h3 {
   font-size: 1.8rem!important;
   line-height: 0.4!important;
