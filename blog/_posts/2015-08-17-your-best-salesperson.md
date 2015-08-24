@@ -3,7 +3,7 @@ layout: post
 title: "Your Marketing Page is Your Best Salesperson"
 date: 2015-08-17
 categories: [marketing, copywriting]
-desc:
+desc: "Your marketing page is the best salesperson on your team. Have you given your marketing page all the tools it needs to do its job?"
 ---
 
 A well-written marketing page sells your product 24 hours a day, 7 days a week, all around the world. Marketing copy doesn't take days off, and it doesn't call in sick. Your marketing page is your best salesperson.
