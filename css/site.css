@@ -52,9 +52,13 @@ ul { list-style-type: none; }
   background-color: rgba(225, 25, 0, 1) !important;
   transition: background-color 0.5s;
 }
-.site-nav li a:hover {
+.nav-link a:hover {
   background-color: rgba(255, 255, 255, 1) !important;
   color: rgba(225, 25, 0, 1) !important;
+}
+
+.site-nav img:hover {
+
 }
 
 /* footer styles */
