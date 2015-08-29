@@ -155,7 +155,6 @@ blockquote p {
 
 .blog-sidebar {
   font-family: 'Raleway', sans-serif !important;
-  border-top: 3px solid rgba(255, 255, 255, 1);
   border-bottom: 3px solid rgba(200, 200, 200, 1);
   border-left: 1px solid rgba(200, 200, 200, 1);
   border-right: 1px solid rgba(200, 200, 200, 1);
