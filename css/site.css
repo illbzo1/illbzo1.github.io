@@ -40,27 +40,28 @@ ul { list-style-type: none; }
 
 /* nav styles */
 
-.nav-container {
-	background-color: rgba(225, 25, 0, 1);
+.top-bar {
+  background-color: rgba(255, 255, 255, 1) !important;
   border-top: 1px solid rgba(225, 25, 0, 1);
   border-bottom: 1px solid rgba(225, 25, 0, 1);
-	margin-top: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px!important;
+  overflow: hidden!important;
+  height: 60px!important;
 }
 
-.site-nav { background-color: rgba(225, 25, 0, 1) !important; }
-.site-nav li a {
-  background-color: rgba(225, 25, 0, 1) !important;
-  transition: background-color 0.5s;
-}
-.nav-link a:hover {
+.top-bar li a {
   background-color: rgba(255, 255, 255, 1) !important;
+  color: rgba(50, 50, 50, 1) !important;
+}
+.top-bar a:hover {
   color: rgba(225, 25, 0, 1) !important;
 }
 
-.site-nav img:hover {
-
+.top-bar-section {
+  letter-spacing: 0.25em;
+  margin-top: 5px;
 }
-
 /* footer styles */
 
 span.social-box {
@@ -84,14 +85,14 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
 }
 
 .footer-container {
-  border-top: 1px solid rgba(200, 200, 200, 1);
+  border-top: 1px solid rgba(225, 25, 0, 1);
   height: 75px;
   margin: 20px 0;
 }
 
 .footer-container ul {
+  margin-top: 10px;
   list-style-type: none;
-  margin-top: -10px;
 }
 
 /* index styles */
