@@ -223,15 +223,14 @@ blockquote p {
 .recent-posts li { margin-bottom: 10px; }
 
 .sharing {
+  border-top: 1px solid rgba(225, 25, 0, 1);
   text-align: center;
-  background: rgba(225, 25, 0, 1);
-  color: rgba(255, 255, 255, 1);
   padding: 5px;
 }
 
 .sharing a { color: rgba(255, 255, 255, 1);}
 .sharing li { display: inline-block;}
-.sharing h2 small {color: rgba(255, 255, 255, 1)!important; }
+.sharing h2 small {color: rgba(50, 50, 50, 1)!important; }
 .sharing-buttons { margin-left: auto; margin-right: auto; text-align: center;}
 .sharing-buttons li { width: 50px; float: left; margin-right: 20px; border: 1px dashed #fff;}
 
