@@ -2,6 +2,7 @@ highlighter: pygments
 github: [Repository metadata]
 safe: true
 lsi: false
-paginate: 5
-categories: [copywriting, learning, news, writing]
-url:          http://www.tylermoore.website
+paginate: 10
+paginate_path: "/blog/page/:num"
+categories: [copywriting, marketing, other, writing]
+url:        http://www.tylermoore.website
