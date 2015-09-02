@@ -6,7 +6,7 @@ desc: "Writing is a craft, not an art, and it's something anyone can learn to do
 
 {% for post in paginator.posts %}
 
-  <div class="large-12 columns">
+  <div class="large-12 columns blog-excerpt">
     <div class="post-header">
       <h1><small><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></small></h1>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -15,7 +15,6 @@ desc: "Writing is a craft, not an art, and it's something anyone can learn to do
     <div class="panel">
       {{ post.excerpt }}
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read the full post</a>
-      <hr />
     </div>
   </div>
 
@@ -24,15 +23,23 @@ desc: "Writing is a craft, not an art, and it's something anyone can learn to do
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      <i class="fa fa-arrow-circle-left"></i>
+    </a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous">
+      <i class="fa fa-arrow-circle-left"></i>
+    </span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path }}" class="next">
+      <i class="fa fa-arrow-circle-right"></i>
+    </a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next ">
+      <i class="fa fa-arrow-circle-right"></i>
+    </span>
   {% endif %}
 </div>
 
