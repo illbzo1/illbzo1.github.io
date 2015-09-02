@@ -1,8 +1,10 @@
 highlighter: pygments
 github: [Repository metadata]
-safe: true
+safe: false
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num"
 categories: [copywriting, marketing, other, writing]
 url:        http://www.tylermoore.website
+gems:
+  - jekyll-sitemap
