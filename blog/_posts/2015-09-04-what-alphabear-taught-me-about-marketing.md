@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Alphabear Taught Me About Marketing"
-date: 2015-09-03
+date: 2015-09-04
 categories: [marketing]
 desc: maximum 155 char description
 ---
