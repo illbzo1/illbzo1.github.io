@@ -42,7 +42,6 @@ ul { list-style-type: none; }
 
 .top-bar {
   background-color: rgba(255, 255, 255, 1) !important;
-  border-top: 1px solid rgba(225, 25, 0, 1);
   border-bottom: 1px solid rgba(225, 25, 0, 1);
   margin-top: 20px;
   margin-bottom: 20px!important;
@@ -143,7 +142,7 @@ blockquote p {
   display: inline;
 }
 
-.blog-content { margin-top: 20px; }
+.blog-content { border-right: 1px solid rgba(225, 25, 0, 1)};
 
 .blog-content a {
   color: rgba(225, 25, 0, 1);
@@ -156,7 +155,6 @@ blockquote p {
 .blog-excerpt { margin-bottom: 50px; }
 .blog-sidebar {
   font-family: 'Raleway', sans-serif !important;
-  border-left: 1px solid rgba(225, 25, 0, 1);
 
 }
 .blog-sidebar a {
