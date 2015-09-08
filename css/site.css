@@ -237,33 +237,51 @@ blockquote p {
 .recent-posts li { margin-bottom: 10px; }
 
 .sharing {
-  text-align: center;
-  padding: 5px;
+  text-align: left;
 }
-.sharing li { margin-right: 20px;}
+.social-buttons li { margin-right: 30px; margin-left: -20px;}
 
-.sharing a { color: rgba(255, 255, 255, 1);}
-.sharing li { display: inline-block;}
-.sharing h2 small {color: rgba(50, 50, 50, 1)!important; }
-.sharing-buttons { margin-left: auto; margin-right: auto; text-align: center;}
-.sharing-buttons li { width: 50px; float: left; margin-right: 20px; border: 1px dashed #fff;}
+.social-buttons a { color: rgba(50, 50, 50, 1);}
+.social-buttons li { display: inline-block;}
 
-span.sharing-box {
-  margin: 0 auto;
-  display: block;
-}
-span.sharing-box i.sharing-inner {
+span.twitter i.sharing-inner {
   transition: color 0.5s;
   color: rgba(255, 255, 255, 1);
-
 }
-span.sharing-box i.sharing-outer {
+
+span.twitter i.sharing-outer {
   transition: color 0.5s;
-  color: rgba(225, 25, 0, 1) !important;
+  color: rgba(85, 172, 238, 1) !important;
 }
 
-span.sharing-box:hover i.sharing-inner { color: rgba(225, 25, 0, 1) !important; }
-span.sharing-box:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+span.twitter:hover i.sharing-inner { color: rgba(85, 172, 238, 1) !important; }
+span.twitter:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+
+span.facebook i.sharing-inner {
+  transition: color 0.5s;
+  color: rgba(255, 255, 255, 1);
+}
+
+span.facebook i.sharing-outer {
+  transition: color 0.5s;
+  color: rgba(59, 89, 152, 1) !important;
+}
+
+span.facebook:hover i.sharing-inner { color: rgba(59, 89, 152, 1) !important; }
+span.facebook:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+
+span.google-plus i.sharing-inner {
+  transition: color 0.5s;
+  color: rgba(255, 255, 255, 1);
+}
+
+span.google-plus i.sharing-outer {
+  transition: color 0.5s;
+  color: rgba(221, 75, 57, 1) !important;
+}
+
+span.google-plus:hover i.sharing-inner { color: rgba(221, 75, 57, 1) !important; }
+span.google-plus:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
 /* form styles */
 
