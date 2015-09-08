@@ -237,10 +237,10 @@ blockquote p {
 .recent-posts li { margin-bottom: 10px; }
 
 .sharing {
-  border-top: 1px solid rgba(225, 25, 0, 1);
   text-align: center;
   padding: 5px;
 }
+.sharing li { margin-right: 20px;}
 
 .sharing a { color: rgba(255, 255, 255, 1);}
 .sharing li { display: inline-block;}
