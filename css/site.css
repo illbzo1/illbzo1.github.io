@@ -283,6 +283,19 @@ span.google-plus i.sharing-outer {
 span.google-plus:hover i.sharing-inner { color: rgba(221, 75, 57, 1) !important; }
 span.google-plus:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
+span.email i.sharing-inner {
+  transition: color 0.5s;
+  color: rgba(255, 255, 255, 1);
+}
+
+span.email i.sharing-outer {
+  transition: color 0.5s;
+  color: rgba(50, 50, 50, 1) !important;
+}
+
+span.email:hover i.sharing-inner { color: rgba(50, 50, 50, 1) !important; }
+span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+
 /* form styles */
 
 .contact-message { height: 100px; }
