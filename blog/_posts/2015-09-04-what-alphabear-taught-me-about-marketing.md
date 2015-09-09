@@ -3,7 +3,7 @@ layout: post
 title: "What Alphabear Taught Me About Marketing"
 date: 2015-09-04
 categories: [marketing]
-desc: "I love Alphabear. It's a fun, strategic word game, and the team at Spry Fox have some great ideas about growth hacking."
+desc: I love Alphabear. It's a fun, strategic word game, and the team at Spry Fox have some great ideas about growth hacking.
 ---
 
 I’ve been playing Alphabear by [Spry Fox](http://spryfox.com/) since early July. It’s a word puzzle game with progressive difficulty, tons of unlockables, and adorable graphics. Right out the gate, Alphabear is hitting me on a lot of levels. These are some of my favorite things! But I’m not interested in talking about the game mechanics.
