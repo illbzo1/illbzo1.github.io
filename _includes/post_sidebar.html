@@ -1,0 +1,77 @@
+<div class="large-3 columns blog-sidebar">
+  <img src="/img/tyler.jpg" class="circle">
+  <p>
+    I blog about writing, copywriting, marketing, and books I've read.
+  </p>
+  <hr />
+  <h2><small>Share this post</small></h2>
+  <ul class="social-buttons">
+    <li>
+      <span class="fa-stack fa-lg twitter">
+        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter">
+          <i class="fa fa-circle fa-stack-2x sharing-outer"></i>
+          <i class="fa fa-twitter fa-stack-1x sharing-inner"></i>
+        </a>
+      </span>
+    </li>
+    <li>
+      <span class="fa-stack fa-lg facebook">
+        <a href="https://facebook.com/sharer.php?&u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+          <i class="fa fa-circle fa-stack-2x sharing-outer"></i>
+          <i class="fa fa-facebook fa-stack-1x sharing-inner"></i>
+      </a>
+      </span>
+    </li>
+    <li>
+      <span class="fa-stack fa-lg google-plus">
+        <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">
+          <i class="fa fa-circle fa-stack-2x sharing-outer"></i>
+          <i class="fa fa-google-plus fa-stack-1x sharing-inner"></i>
+        </a>
+      </span>
+    </li>
+    <li>
+      <span class="fa-stack fa-lg email">
+        <a href="mailto:?subject=Great read!&amp;body=Check out this post I found: {{ site.url }}{{ page.url }}"
+           title="Share by Email">
+          <i class="fa fa-circle fa-stack-2x sharing-outer"></i>
+          <i class="fa fa-envelope fa-stack-1x sharing-inner"></i>
+        </a>
+      </span>
+    </li>
+  </ul>
+  <hr />
+  <h2><small>Categories</small></h2>
+  <ul>
+    <li>
+      <a href="/blog/copywriting.html">Copywriting</a>
+    </li>
+    <li>
+      <a href="/blog/marketing.html">Marketing</a>
+    </li>
+    <li>
+      <a href="/blog/writing.html">Writing</a>
+    </li>
+  </ul>
+  <hr />
+  <h2><small>Recent Posts</small></h2>
+  <ul class="recent-posts">
+    {% for post in site.posts limit:3  %}
+      <li>
+        <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong>
+        <br />
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+  <hr />
+  <p>
+    <span class="fa-stack fa-lg social-box">
+      <a href="/feed.xml">
+      <i class="fa fa-circle fa-stack-2x social-outer"></i>
+      <i class="fa fa-rss fa-stack-1x social-inner"></i>
+      </a>
+    </span>
+  </p>
+  </div>
+</div>

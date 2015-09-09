@@ -1,0 +1,16 @@
+  {% include head.html %}
+
+  <body>
+
+  {% include nav.html %}
+
+    <div class="row">
+      <div class="large-9 columns blog-content">
+        {{ content }}
+      </div>
+      {% include post_sidebar.html %}
+
+    {% include footer.html %}
+
+  </body>
+</html>

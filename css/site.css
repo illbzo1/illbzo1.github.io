@@ -14,6 +14,11 @@ body {
   background-color: rgba(255, 255, 255, 1) !important;
   font-family: 'Open Sans', sans-serif !important;
 }
+body a { color: rgba(225, 25, 0, 1); }
+body a:hover {
+  color: rgba(225, 25, 0, 1);
+  text-decoration: underline;
+}
 
 html { overflow-y: scroll; }
 
@@ -42,7 +47,6 @@ ul { list-style-type: none; }
 
 .top-bar {
   background-color: rgba(255, 255, 255, 1) !important;
-  border-top: 1px solid rgba(225, 25, 0, 1);
   border-bottom: 1px solid rgba(225, 25, 0, 1);
   margin-top: 20px;
   margin-bottom: 20px!important;
@@ -56,6 +60,7 @@ ul { list-style-type: none; }
 }
 .top-bar a:hover {
   color: rgba(225, 25, 0, 1) !important;
+  text-decoration: none!important;
 }
 
 .top-bar-section {
@@ -143,7 +148,7 @@ blockquote p {
   display: inline;
 }
 
-.blog-content { margin-top: 20px; }
+.blog-content { border-right: 1px solid rgba(225, 25, 0, 1)};
 
 .blog-content a {
   color: rgba(225, 25, 0, 1);
@@ -156,7 +161,6 @@ blockquote p {
 .blog-excerpt { margin-bottom: 50px; }
 .blog-sidebar {
   font-family: 'Raleway', sans-serif !important;
-  border-left: 1px solid rgba(225, 25, 0, 1);
 
 }
 .blog-sidebar a {
@@ -233,33 +237,64 @@ blockquote p {
 .recent-posts li { margin-bottom: 10px; }
 
 .sharing {
-  border-top: 1px solid rgba(225, 25, 0, 1);
-  text-align: center;
-  padding: 5px;
+  text-align: left;
 }
+.social-buttons li { margin-right: 30px; margin-left: -20px;}
 
-.sharing a { color: rgba(255, 255, 255, 1);}
-.sharing li { display: inline-block;}
-.sharing h2 small {color: rgba(50, 50, 50, 1)!important; }
-.sharing-buttons { margin-left: auto; margin-right: auto; text-align: center;}
-.sharing-buttons li { width: 50px; float: left; margin-right: 20px; border: 1px dashed #fff;}
+.social-buttons a { color: rgba(50, 50, 50, 1);}
+.social-buttons li { display: inline-block;}
 
-span.sharing-box {
-  margin: 0 auto;
-  display: block;
-}
-span.sharing-box i.sharing-inner {
+span.twitter i.sharing-inner {
   transition: color 0.5s;
   color: rgba(255, 255, 255, 1);
-
 }
-span.sharing-box i.sharing-outer {
+
+span.twitter i.sharing-outer {
   transition: color 0.5s;
-  color: rgba(225, 25, 0, 1) !important;
+  color: rgba(85, 172, 238, 1) !important;
 }
 
-span.sharing-box:hover i.sharing-inner { color: rgba(225, 25, 0, 1) !important; }
-span.sharing-box:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+span.twitter:hover i.sharing-inner { color: rgba(85, 172, 238, 1) !important; }
+span.twitter:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+
+span.facebook i.sharing-inner {
+  transition: color 0.5s;
+  color: rgba(255, 255, 255, 1);
+}
+
+span.facebook i.sharing-outer {
+  transition: color 0.5s;
+  color: rgba(59, 89, 152, 1) !important;
+}
+
+span.facebook:hover i.sharing-inner { color: rgba(59, 89, 152, 1) !important; }
+span.facebook:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+
+span.google-plus i.sharing-inner {
+  transition: color 0.5s;
+  color: rgba(255, 255, 255, 1);
+}
+
+span.google-plus i.sharing-outer {
+  transition: color 0.5s;
+  color: rgba(221, 75, 57, 1) !important;
+}
+
+span.google-plus:hover i.sharing-inner { color: rgba(221, 75, 57, 1) !important; }
+span.google-plus:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
+
+span.email i.sharing-inner {
+  transition: color 0.5s;
+  color: rgba(255, 255, 255, 1);
+}
+
+span.email i.sharing-outer {
+  transition: color 0.5s;
+  color: rgba(50, 50, 50, 1) !important;
+}
+
+span.email:hover i.sharing-inner { color: rgba(50, 50, 50, 1) !important; }
+span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
 /* form styles */
 
