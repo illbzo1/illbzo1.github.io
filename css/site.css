@@ -239,10 +239,24 @@ blockquote p {
 .sharing {
   text-align: left;
 }
-.social-buttons li { margin-right: 30px; margin-left: -20px;}
 
-.social-buttons a { color: rgba(50, 50, 50, 1);}
-.social-buttons li { display: inline-block;}
+.sharing-footer {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.sharing-footer li {
+  margin-right: 20px!important;
+  margin-left: 0px!important;
+}
+
+.social-buttons li {
+  margin-right: 30px;
+  margin-left: -20px;
+}
+
+.social-buttons a { color: rgba(50, 50, 50, 1); }
+.social-buttons li { display: inline-block; }
 
 span.twitter i.sharing-inner {
   transition: color 0.5s;
