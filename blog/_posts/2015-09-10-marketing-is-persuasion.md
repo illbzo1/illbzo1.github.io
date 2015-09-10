@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Marketing Is Persuasion"
-date: 2015-09-09
-categories: [category, categories]
-desc: maximum 155 char description
+date: 2015-09-10
+categories: [marketing]
+desc: Positioning isn't about how you describe your product. It's about how your audience thinks about your product.
 ---
-I briefly considered studying psychiatry when I started college, but I gave it up. I loved thinking about how people work, but I wasn't interested in treating sick patients, or helping people work through deep seated emotional issues.
+I briefly considered studying psychiatry when I started college, but I gave it up. I loved studying how people work. I've always been interested in what makes people tick. Why people make the decisions they make. But I wasn't interested in treating sick patients, or helping people work through deep seated emotional issues.
 
 Becoming a doctor who didn't care about helping people seemed like a Bad Move.
 
@@ -67,6 +67,6 @@ But in a market dominated by larger and larger cars, Volkswagen built a position
 
 <img src="/img/think-small.jpg">
 
-“Volkswagen: we’re smaller than GE cars,” is factually true, but boring. “Think small.” is a minor change in tone that conveys an entirely different meaning.
+“Volkswagen: we’re smaller than GE cars,” is true, but boring. Advertising copy can't afford to be boring.“Think small.” is a minor change in tone that conveys an entirely different meaning.
 
 Imagine you're living in America in the 1960s, and you see one of these ads. Then you see another, and another. Suddenly, cars don't *have* to be huge, gas-guzzling monstrosities. Now you’re thinking about Volkswagen. Now Volkswagen has a position in your mind.
