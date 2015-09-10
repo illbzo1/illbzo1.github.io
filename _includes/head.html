@@ -2,10 +2,34 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
-    {% if page.desc %}
-    <meta name="description" content="{{ page.desc }}" />
+
+    <meta content="{{ site.title }}" property="og:site_name">
+    {% if page.title %}
+      <meta content="{{ page.title }}" property="og:title">
     {% else %}
-    <meta name="description" content="I’m a copywriter and fiction writer living in Indianapolis." />
+      <meta content="{{ site.title }}" property="og:title">
+    {% endif %}
+    {% if page.title %}
+      <meta content="article" property="og:type">
+    {% else %}
+      <meta content="website" property="og:type">
+    {% endif %}
+    {% if page.desc %}
+      <meta content="{{ page.desc }}" property="og:description">
+    {% else %}
+      <meta content="{{ site.desc }}" property="og:description">
+    {% endif %}
+    {% if page.url %}
+      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% endif %}
+    {% if page.date %}
+      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+      <meta content="{{ site.url }}" property="article:author">
+    {% endif %}
+    {% if page.image %}
+      <meta content="/img/srcset/{{ page.image }}" property="og:image">
+    {% else %}
+      <meta content="http://www.tylermoore.website/img/logo.png" property="og:image">
     {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }}</title>
