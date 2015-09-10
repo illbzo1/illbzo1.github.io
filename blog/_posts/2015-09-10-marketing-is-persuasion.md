@@ -69,6 +69,6 @@ But in a market dominated by larger and larger cars, Volkswagen built a position
 
 “Volkswagen: we’re smaller than GE cars,” is true, but boring. Advertising copy can't afford to be boring.“Think small.” is a minor change in tone that conveys an entirely different meaning.
 
-Imagine you're living in America in the 1960s, and you see one of these ads. Then you see another, and another. Suddenly, cars don't *have* to be huge, gas-guzzling monstrosities. Now you’re thinking about Volkswagen. Now Volkswagen has persuaded you that a small car is a good idea.
+Imagine you're living in America in the 1960s, and you see one of these ads. Then you see another, and another. Suddenly, Volkswagen has persuaded you that cars don't *have* to be huge, gas-guzzling monstrosities.
 
 In other words, the Beetle now has a position in your mind.
