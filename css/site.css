@@ -31,6 +31,7 @@ iframe { margin: 20px 0;}
 
 ul { list-style-type: none; }
 
+.logo { height: 50px; width: 50px; }
 .left  { float: left; }
 .right { float: right; }
 
