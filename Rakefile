@@ -11,6 +11,15 @@ namespace :post do
     @slug = @name.chomp
     @slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
     @slug = @slug.downcase.strip.gsub(' ', '-')
+    puts "What categories does this post belong to?"
+    @categories = STDIN.gets.chomp
+    @categories = @categories.split.join(', ')
+    puts "Give a short description for this post."
+    @description = STDIN.gets.chomp
+    while @description.length > 155
+      puts "That's too long. Shorten it up."
+      @description = STDIN.gets.chomp
+  end
     begin
       @date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
     rescue Exception => e
@@ -24,8 +33,8 @@ namespace :post do
       file.puts "layout: post"
       file.puts "title: \"#{@title}\""
       file.puts "date: #{@date}"
-      file.puts "categories: [category, categories]"
-      file.puts "desc: maximum 155 char description"
+      file.puts "categories: [#{@categories}]"
+      file.puts "desc: #{@description}"
       file.puts "---"
     end
   end
