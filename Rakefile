@@ -5,7 +5,7 @@ require 'fileutils'
 namespace :post do
   desc "Creating a new draft for post/entry"
   task :new do
-    puts "What's the name for your next post?"
+    puts "What's the title of this post?"
     @name = STDIN.gets.chomp
     @title = @name.split.map(&:capitalize).join(' ')
     @slug = @name.chomp
@@ -14,16 +14,16 @@ namespace :post do
     puts "What categories does this post belong to?"
     @categories = STDIN.gets.chomp
     @categories = @categories.split.join(', ')
-    puts "Give a short description for this post."
+    puts "What's a short description for this post?"
     @description = STDIN.gets.chomp
     while @description.length > 155
-      puts "That's too long. Shorten it up."
+      puts "The maximum length for a meta description is 155 characters. Shorten it up."
       @description = STDIN.gets.chomp
   end
     begin
       @date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
     rescue Exception => e
-      puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+      puts "Date format must be YYYY-MM-DD. Make sure you typed it correctly!"
       exit -1
     end
     @filename = File.join("#{@date}-#{@slug}")
