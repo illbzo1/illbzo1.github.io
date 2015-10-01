@@ -5,21 +5,25 @@ require 'fileutils'
 namespace :post do
   desc "Creating a new draft for post/entry"
   task :new do
+    # grab the title for the post
     puts "What's the title of this post?"
     @name = STDIN.gets.chomp
     @title = @name.split.map(&:capitalize).join(' ')
+    # convert the title into the post URL
     @slug = @name.chomp
     @slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
     @slug = @slug.downcase.strip.gsub(' ', '-')
+    # grab categories for the post
     puts "What categories does this post belong to?"
     @categories = STDIN.gets.chomp
     @categories = @categories.split.join(', ')
+    # grab a meta description for the post
     puts "What's a short description for this post?"
     @description = STDIN.gets.chomp
     while @description.length > 155
       puts "The maximum length for a meta description is 155 characters. Shorten it up."
       @description = STDIN.gets.chomp
-  end
+    end
     begin
       @date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
     rescue Exception => e
