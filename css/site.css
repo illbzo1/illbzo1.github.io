@@ -29,6 +29,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 iframe { margin: 20px 0;}
 
+.panel img { border: 1px solid rgba(200, 200, 200, 1); padding: 20px; }
 ul { list-style-type: none; }
 
 .logo { height: 50px; width: 50px; }
