@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automagically Creating Blog Posts In Jekyll"
-date: 2015-10-04
+date: 2015-10-05
 categories: [other]
 desc: This is a Rake task I've cobbled together to create new blog posts using Jekyll.
 ---
@@ -14,7 +14,7 @@ I like programming. I just don't want programming to be *all* I do. I'm more int
 
 This site is mostly a Jekyll blog hosted on Github Pages. When I built the site back in March, I wanted a place to blog and show off the writing I've done. I also wanted an easy way to code, play around with design, and prevent my Git skills from completely evaporating into thin air.
 
-It's worked out pretty well for me, and I've got the shitty, non-descriptive commit message history to prove it.
+It's worked out well for me, and I've got the shitty, non-descriptive commit message history to prove it.
 
 [Making a new post in Jekyll](http://jekyllrb.com/docs/posts/) is pretty easy by default. Tedious, but easy. I'm not as averse to manual processes as some of my friends, but I wanted something less tedious. Jekyll posts are just text files, and I wanted to automate repetitive tasks, and I didn't want to forget any of the moving pieces that make up a blog post.
 
