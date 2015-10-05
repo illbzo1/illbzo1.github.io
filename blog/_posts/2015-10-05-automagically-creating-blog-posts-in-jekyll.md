@@ -10,7 +10,7 @@ I like reading about process: how other people work, how people solve common pro
 
 You guys like backstory? Here's some backstory: in a former life, I had aspirations of becoming a Ruby developer. I learned enough Ruby to be dangerous, thanks in part to my friends at [IndyRB](http://indyrb.org/), but I discovered I didn't want to be a software developer.
 
-I like programming. I just don't want programming to be *all* I do. I'm more interested in solving marketing problems, but I still have a ton of interest in front end web design, and writing scripts to automate repetitive tasks.
+I like programming. I just don't want programming to be *all* I do. I'm more interested in solving marketing problems, but I still have a ton of interest in front end development, and writing scripts to automate repetitive tasks.
 
 This site is mostly a Jekyll blog hosted on Github Pages. When I built the site back in March, I wanted a place to blog and show off the writing I've done. I also wanted an easy way to code, play around with design, and prevent my Git skills from completely evaporating into thin air.
 
