@@ -56,7 +56,7 @@ Systems aren't a tool to make yourself feel like shit for not doing something as
 
 ---
 
-These are both great articles. These guys talk about systems more eloquently than I have.
+These guys write about systems more eloquently than I have.
 
 [Forget About Setting Goals. Focus on This Instead.](http://jamesclear.com/goals-systems) by James Clear
 
