@@ -8,3 +8,4 @@ categories: [copywriting, marketing, other, writing]
 url:        http://www.tylermoore.website
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
