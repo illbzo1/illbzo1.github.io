@@ -2,6 +2,7 @@
 layout: post
 title:  "Letting Go of the Words"
 date:   2015-05-24
+redirect_from: blog/reading/2015/05/24/letting-go-of-the-words.html
 categories: copywriting
 desc: "A post about Letting Go of the Words by Ginny Redish, and what I learned by reading it."
 ---

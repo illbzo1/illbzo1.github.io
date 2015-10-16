@@ -2,6 +2,7 @@
 layout: post
 title:  "On Writing Well"
 date:   2015-07-12
+redirect_from: blog/reading/2015/07/12/on-writing-well.html
 categories: writing
 desc: "On Writing Well by William Zinsser is one of the best books on writing I've ever read."
 ---

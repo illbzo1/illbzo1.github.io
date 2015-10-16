@@ -2,6 +2,7 @@
 layout: post
 title:  "Twilight / Lost Boys Fanfiction, Part I"
 date:   2014-01-04
+redirect_from: writing/2014/01/04/twilight-lost-boys-part-one.html
 categories: writing
 desc: "The first part in a planned 3 part series of Twilight and Lost Boys crossover fan fiction."
 ---

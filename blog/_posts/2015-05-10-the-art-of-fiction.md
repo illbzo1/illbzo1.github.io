@@ -2,6 +2,7 @@
 layout: post
 title:  "The Art of Fiction"
 date:   2015-05-10
+redirect_from: learning/2015/05/10/the-art-of-fiction.html
 categories: writing
 desc: "I read the Art of Fiction by John Gardner, and here's what I learned by reading it."
 ---
