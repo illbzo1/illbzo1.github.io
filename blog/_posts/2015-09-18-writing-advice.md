@@ -3,7 +3,7 @@ layout: post
 title: "Writing Advice That's Worked for Me"
 date: 2015-09-18
 categories: [writing]
-desc: Most writing advice is bullshit, but here are three pieces of advice that work for any writer.
+desc: "Most writing advice is bullshit, but here are three pieces of advice that work for any writer."
 ---
 
 I’m a dude who likes a blueprint, and I’ve got several thousand dollars worth of Lego sitting in the closet of my home office to prove it. When I set out to do anything new, I like to research what others have done. I like best practices. I like a roadmap, and I do well with an outline.

@@ -3,7 +3,7 @@ layout: post
 title: "Tested Advertising Methods"
 date: 2015-07-23
 categories: [copywriting]
-desc: maximum 155 char description
+desc: "Write as if your audience had a sixth grade education. Not because you think they're stupid, but because you want to be understood."
 ---
 
 Sometimes I'll finish a book and think "Man, I should have read that *years* ago." [*Snow Crash*](http://www.nealstephenson.com/snow-crash.html) was one of those books. *Tested Advertising Methods* by John Caples is another. Much as I love cyberpunk, I'm not here to talk about cyberpunk. Not today, anyway.

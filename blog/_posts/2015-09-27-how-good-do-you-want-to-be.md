@@ -3,7 +3,7 @@ layout: post
 title: "How Good Do You Want To Be?"
 date: 2015-09-25
 categories: [marketing]
-desc: maximum 155 char description
+desc: "How good do you want to be? How far do you have to go, from where you are, to where you want to be?"
 ---
 I spend a lot of time thinking about ways to improve. Reading books written by experts is a huge part of my own professional development, and I've read a ton of old school advertising books this year. Earlier this week I finished Breakthrough Advertising by Eugene Schwartz. Reading Ogilvy, Caples and Schwartz has been integral to improving my understanding of advertising and copywriting. But I don't have much interest in being an ad man.
 

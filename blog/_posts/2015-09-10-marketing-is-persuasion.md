@@ -3,7 +3,7 @@ layout: post
 title: "Marketing Is Persuasion"
 date: 2015-09-10
 categories: [marketing]
-desc: Positioning isn't about how you describe your product. It's about how your audience thinks about your product.
+desc: "Positioning isn't about how you describe your product. It's about how your audience thinks about your product."
 ---
 I briefly considered studying psychiatry when I started college, but I gave it up. I loved studying how people work. I've always been interested in what makes people tick. Why people make the decisions they make. But I wasn't interested in treating sick patients, or helping people work through deep seated emotional issues.
 
