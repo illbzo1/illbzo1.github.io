@@ -7,7 +7,7 @@ desc: Display advertising doesn't work like it used to. How do marketers adapt t
 ---
 On paper, a big display advertising campaign seems like a good marketing strategy to try. It sounds like an easy way to build brand awareness, and get your business in front of thousands of people who are in your target audience.
 
-Quick question, though. When was the last time you clicked on a display ad? It's been years for me, and I'm not alone. Adblocking software is on the rise. It's not just for crotchety programmers who hate marketing.
+Quick question, though. When was the last time you clicked on a display ad? It's been years for me, and I'm not alone. Adblocking software is on the rise. It's not just for crotchety programmers who hate marketing anymore.
 
 The number of people using adblocking software around the world grew by 41% over the last 12 months, according to the [adblocking report by PageFair and Adobe](http://blog.pagefair.com/2015/ad-blocking-report/). There are now 198 million people worldwide using adblocking software. That's a lot of people who have opted out of annoying banner ads and popups.
 
