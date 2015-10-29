@@ -86,16 +86,12 @@ ul { list-style-type: none; }
 .margin-top { margin-top: 20px; }
 
 .sidebar h2 { margin-top: -20px !important; }
-.sidebar img {
-  padding: 20px;
-  border: 1px solid rgba(200, 200, 200, 1);
-}
 
 /* nav styles */
 
 .top-bar {
   background-color: rgba(255, 255, 255, 1) !important;
-  border-bottom: 1px solid rgba(225, 25, 0, 1);
+  border-bottom: 1px solid rgba(50, 50, 50, 1);
   margin-top: 20px;
   margin-bottom: 20px!important;
   overflow: hidden!important;
@@ -138,7 +134,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
 }
 
 .footer-container {
-  border-top: 1px solid rgba(225, 25, 0, 1);
+  border-top: 1px solid rgba(50, 50, 50, 1);
   height: 75px;
   margin: 20px 0;
 }
@@ -155,9 +151,18 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
   margin-top: 5px;
 }
 
+.content-box img {
+  border-radius: 50%;
+}
+
 .entry-title a {
   font-size: 1.5rem;
   color: rgba(50, 50, 50, 1) !important;
+}
+
+.intro {
+  margin-top: 50px;
+  padding: 0 20px!important;
 }
 
 .panel {
@@ -196,7 +201,7 @@ blockquote p {
   display: inline;
 }
 
-.blog-content { border-right: 1px solid rgba(225, 25, 0, 1)};
+.blog-content { border-right: 1px solid rgba(50, 50, 50, 1)};
 
 .blog-content a {
   color: rgba(225, 25, 0, 1);
