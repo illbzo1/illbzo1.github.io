@@ -6,15 +6,15 @@ categories: [marketing]
 desc: What makes content marketing useful? Helping people solve problems, and being of service to your audience.
 ---
 
-What comes to mind when you think about content marketing? Blog posts, most likely. Maybe white papers, or infographics, or shitty listicles with click bait headlines.
-
-Most content marketing doesn’t have much in the way of content. It’s filler. It’s an excuse to split a Top 10 article into ten pages, each full of ads, and popups encouraging you to subscribe to more Top 10 articles split across ten pages full of ads.
-
 When I was a kid, I was a huge fan of the Weekly World News.
 
 ![Weekly World News](/img/weekly-world.jpg "Various Weekly World News headlines")
 
 It was junk, and I knew it was junk, but I loved it. The Weekly World News was the Buzzfeed of the 1980s.
+
+What comes to mind when you think about content marketing? Blog posts, most likely. Maybe white papers, or infographics, or shitty listicles with click bait headlines.
+
+Most content marketing doesn’t have much in the way of content. It’s filler. It’s an excuse to split a Top 10 article into ten pages, each full of ads, and popups encouraging you to subscribe to more Top 10 articles split across ten pages full of ads. Every time I read a headling promising some weird trick the US government doesn't want me to know about, I imagine the trick will involve having Bigfoot's love child, or shooting down a 3 foot grasshopper in my corn field.
 
 It probably sounds like I’m down on content marketing, but I’m not. I promise! I'm just down on the most obvious examples of "content marketing." The kind of article that drives clicks using dirty tricks.
 
