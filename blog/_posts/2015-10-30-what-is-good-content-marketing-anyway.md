@@ -10,6 +10,12 @@ What comes to mind when you think about content marketing? Blog posts, most like
 
 Most content marketing doesn’t have much in the way of content. It’s filler. It’s an excuse to split a Top 10 article into ten pages, each full of ads, and popups encouraging you to subscribe to more Top 10 articles split across ten pages full of ads.
 
+When I was a kid, I was a huge fan of the Weekly World News.
+
+![Weekly World News](/img/weekly-world.jpg "Various Weekly World News headlines")
+
+It was junk, and I knew it was junk, but I loved it. The Weekly World News was the Buzzfeed of the 1980s.
+
 It probably sounds like I’m down on content marketing, but I’m not. I promise! I'm just down on the most obvious examples of "content marketing." The kind of article that drives clicks using dirty tricks.
 
 I love good, quality content marketing, and the most effective content marketing is educational. It's the kind of blog post, video, ebook or other piece of content that puts “content” first.
