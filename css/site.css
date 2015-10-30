@@ -6,29 +6,11 @@ red: 		      rgba(225, 25, 0, 1);
 white: 		    rgba(255, 255, 255, 1);
 */
 
-/* temp styles */
-.with-border { border: 1px solid; }
-
 /* shared styles */
 
-.error {
-  height: 100%;
-  background-image: url(/img/404.jpg);
-  background-size: 100%;
-}
+html { overflow-y: scroll; }
 
-.error-explanation {
-  color: #fff!important;
-  background-color: rgba(50, 50, 50, 0.8);
-  border-radius: 20px;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-.error-explanation a {
-  color: #fff;
-  text-decoration: underline;
-}
+html, body { height: 100%; }
 
 body {
   background-color: rgba(255, 255, 255, 1) !important;
@@ -59,10 +41,6 @@ code {
     border: none!important;
 }
 
-html, body { height: 100%; }
-
-html { overflow-y: scroll; }
-
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   font-family: 'Open Sans', sans-serif !important;
   color: rgba(50, 50, 50, 1 ) !important;
@@ -72,24 +50,28 @@ iframe { margin: 20px 0;}
 
 .page-wrap {
   min-height: 70%;
-  /* equal to footer height */
   margin-bottom: -75px!important;
 }
-
 .page-wrap:after {
   content: "";
   display: block;
 }
 
-.panel img { border: 1px solid rgba(200, 200, 200, 1); padding: 20px; }
+.panel img {
+  border: 1px solid rgba(200, 200, 200, 1);
+  padding: 20px;
+}
 
 ul { list-style-type: none; }
 
 .logo { height: 50px; width: 50px; }
+
 .left  { float: left; }
+
 .right { float: right; }
 
 .margin-bottom { margin-bottom: 20px; }
+
 .margin-top { margin-top: 20px; }
 
 .sidebar h2 { margin-top: -20px !important; }
@@ -104,7 +86,6 @@ ul { list-style-type: none; }
   overflow: hidden!important;
   height: 60px!important;
 }
-
 .top-bar li a {
   background-color: rgba(255, 255, 255, 1) !important;
   color: rgba(50, 50, 50, 1) !important;
@@ -113,11 +94,11 @@ ul { list-style-type: none; }
   color: rgba(225, 25, 0, 1) !important;
   text-decoration: none!important;
 }
-
 .top-bar-section {
   letter-spacing: 0.25em;
   margin-top: 5px;
 }
+
 /* footer styles */
 
 span.social-box {
@@ -140,10 +121,6 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
   margin-top: 11px;
 }
 
-.footer-container, .page-wrap:after {
-  height: 75px;
-}
-
 .footer-container {
   border-top: 1px solid rgba(50, 50, 50, 1);
   margin: 20px 0;
@@ -154,13 +131,16 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1) !important; }
   list-style-type: none;
 }
 
+.footer-container, .page-wrap:after {
+  height: 75px;
+}
+
 /* index styles */
 
 .content-box {
   width: 100%;
   margin-top: 5px;
 }
-
 .content-box img {
   border-radius: 50%;
 }
@@ -192,7 +172,6 @@ blockquote {
   margin-left: 20px;
   padding: 1rem !important;
 }
-
 blockquote:before {
   content: open-quote;
   font-size: 3rem;
@@ -211,21 +190,16 @@ blockquote p {
   display: inline;
 }
 
-.blog-content { border-right: 1px solid rgba(50, 50, 50, 1)};
-
-.blog-content a {
-  color: rgba(225, 25, 0, 1);
-}
+.blog-content { border-right: 1px solid rgba(50, 50, 50, 1); }
+.blog-content a { color: rgba(225, 25, 0, 1); }
 .blog-content a:hover {
   color: rgba(225, 25, 0, 1);
   text-decoration: underline;
 }
 
 .blog-excerpt { margin-bottom: 50px; }
-.blog-sidebar {
-  font-family: 'Raleway', sans-serif !important;
 
-}
+.blog-sidebar { font-family: 'Raleway', sans-serif !important; }
 .blog-sidebar a {
   color: rgba(50, 50, 50, 1) !important;
   font-weight: bold;
@@ -256,9 +230,7 @@ blockquote p {
 
 .entry-title a { background-color: rgba(255, 255, 255, 1) !important; }
 
-.pagination {
-  text-align: center;
-}
+.pagination { text-align: center; }
 
 .previous { margin-right: 20px; }
 
@@ -283,7 +255,6 @@ blockquote p {
   margin: 0 0 60px 0;
   padding: 10px;
 }
-
 .post-link:hover {
   background-color: rgba(255, 255, 255, 1) !important;
   text-decoration: none !important;
@@ -299,15 +270,12 @@ blockquote p {
 
 .recent-posts li { margin-bottom: 10px; }
 
-.sharing {
-  text-align: left;
-}
+.sharing { text-align: left; }
 
 .sharing-footer {
   text-align: center;
   padding-top: 20px;
 }
-
 .sharing-footer li {
   margin-right: 20px!important;
   margin-left: 0px!important;
@@ -325,12 +293,10 @@ span.twitter i.sharing-inner {
   transition: color 0.5s;
   color: rgba(255, 255, 255, 1);
 }
-
 span.twitter i.sharing-outer {
   transition: color 0.5s;
   color: rgba(85, 172, 238, 1) !important;
 }
-
 span.twitter:hover i.sharing-inner { color: rgba(85, 172, 238, 1) !important; }
 span.twitter:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
@@ -338,12 +304,10 @@ span.facebook i.sharing-inner {
   transition: color 0.5s;
   color: rgba(255, 255, 255, 1);
 }
-
 span.facebook i.sharing-outer {
   transition: color 0.5s;
   color: rgba(59, 89, 152, 1) !important;
 }
-
 span.facebook:hover i.sharing-inner { color: rgba(59, 89, 152, 1) !important; }
 span.facebook:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
@@ -351,12 +315,10 @@ span.google-plus i.sharing-inner {
   transition: color 0.5s;
   color: rgba(255, 255, 255, 1);
 }
-
 span.google-plus i.sharing-outer {
   transition: color 0.5s;
   color: rgba(221, 75, 57, 1) !important;
 }
-
 span.google-plus:hover i.sharing-inner { color: rgba(221, 75, 57, 1) !important; }
 span.google-plus:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
@@ -364,12 +326,10 @@ span.email i.sharing-inner {
   transition: color 0.5s;
   color: rgba(255, 255, 255, 1);
 }
-
 span.email i.sharing-outer {
   transition: color 0.5s;
   color: rgba(50, 50, 50, 1) !important;
 }
-
 span.email:hover i.sharing-inner { color: rgba(50, 50, 50, 1) !important; }
 span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1) !important; }
 
@@ -388,7 +348,6 @@ input[type=submit] {
   cursor: pointer;
   font-size: 0.8rem;
 }
-
 input[type="submit"]:hover {
   transition: background-color 0.5s;
   background: rgba(255, 255, 255, 1);
@@ -398,21 +357,19 @@ input[type="submit"]:hover {
 /* copywriting portfolio styles */
 
 .bold { font-weight: bold; }
+
 .copy-thumb {
   height: 77px;
   transition: border 0.5s;
   border: 2px solid rgba(200, 200, 200, 0.25);
 }
-.copy-thumb:hover {
-  border: 2px solid rgba(225, 25, 0, 1);
-}
+.copy-thumb:hover { border: 2px solid rgba(225, 25, 0, 1); }
+
 .description-text { font-size: 0.75rem; }
 
 /* resume styles */
 
-.pdf-copy {
-  padding-top: 10px;
-}
+.pdf-copy { padding-top: 10px; }
 
 .resume h3 {
   font-size: 1.8rem!important;
@@ -435,11 +392,25 @@ input[type="submit"]:hover {
   border-left: 2px solid rgba(200, 200, 200, 1) !important;
   margin-bottom: 20px;
 }
+.resume-detail ul { list-style-type: disc!important; }
 
-.resume-detail ul {
-  list-style-type: disc!important;
+.tagline { font-size: 125%; }
+
+/* 404 page styles */
+.error {
+  height: 100%;
+  background-image: url(/img/404.jpg);
+  background-size: 100%;
 }
 
-.tagline {
-  font-size: 125%;
+.error-explanation {
+  color: #fff!important;
+  background-color: rgba(50, 50, 50, 0.8);
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.error-explanation a {
+  color: #fff;
+  text-decoration: underline;
 }
