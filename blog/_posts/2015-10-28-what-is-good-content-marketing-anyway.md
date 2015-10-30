@@ -10,11 +10,19 @@ What comes to mind when you think about content marketing? Blog posts, most like
 
 Most content marketing doesn’t have much in the way of content. It’s filler. It’s an excuse to split a Top 10 article into ten pages, each full of ads, and popups encouraging you to subscribe to more Top 10 articles split across ten pages full of ads.
 
-It probably sounds like I’m really down on content marketing, but I’m not. I promise! I really like good, quality content marketing. The kind that puts “content” first, and trusts that by providing value, people will naturally spread the message, and help you accomplish your business goals. This is what content marketing means to me.
+It probably sounds like I’m really down on content marketing, but I’m not. I promise! I love good, quality content marketing. I'm always interesting learning something new, and the best kind of content marketing is educational. It's the kind of blog post, video, ebook or other piece of content that puts “content” first.
 
-Providing useful, interesting content is something I think about a lot myself. I like to use this blog as a way of sharpening my own writing skill, but I still want to be producing useful content.
+If you've got the content right, marketing will take care of itself. Your audience will spread your content, and your message. If you help your audience, your audience will help you accomplish your business goals. This is what content marketing means to me.
 
-I’ve been wanting to beef up my programming skills, and recently I ran across the [Ruby Koans](http://rubykoans.com/). Some background: the Ruby Koans are a series of unit tests, and a way of learning Ruby by fixing failing tests. They were initially inspired by Mike Clark's post on [learning Ruby through unit testing](https://pragmaticstudio.com/blog/2005/3/18/ruby-learning-test-1-are-you-there-world) way back in 2005, and Ara Howard's [Ruby quiz entry on Meta Koans](http://rubyquiz.com/quiz67.html).
+Providing interesting and educational content is something I think about a lot. I like to use this blog as a way of sharpening my writing skills, but I still want to be producing good content.
+
+I’ve been wanting to beef up my programming skills, and recently I ran across the [Ruby Koans](http://rubykoans.com/). A piece of content so good it inspired me to do better. I want to produce content as good and educational as the Ruby Koans.
+
+![The Ruby Koans](/img/ruby-koans.jpg "Learning Ruby with the Ruby Koans")
+
+Talk about a value proposition. Oh, my God. It even has a <em>watermark</em>.
+
+Some background: the Ruby Koans are a series of unit tests, and they teach Ruby by requiring you to failing tests. They were initially inspired by Mike Clark's post on [learning Ruby through unit testing](https://pragmaticstudio.com/blog/2005/3/18/ruby-learning-test-1-are-you-there-world) way back in 2005, and Ara Howard's [Ruby quiz entry on Meta Koans](http://rubyquiz.com/quiz67.html).
 
 The Ruby Koans are maintained by [Jim Weirich](https://twitter.com/jimweirich) and the team at [Neo](http://neo.com/).
 
@@ -56,7 +64,9 @@ Content first. Marketing second.
 
 Do the Ruby Koans establish the team at Neo as experts in the Ruby language? Absolutely.
 
-For me, [programming is a means to an end](/blog/other/2015/10/05/automagically-creating-blog-posts-in-jekyll.html). It’s another tool I want to have at my disposal. If I want to encourage new signups to invite a friend to sign up as well, I’ll need to have an understanding of what a signup process looks like.
+For me, [programming is a means to an end](/blog/other/2015/10/05/automagically-creating-blog-posts-in-jekyll.html). It’s another tool I want to have at my disposal. If I want to encourage new signups to invite a friend to sign up as well, I need an understanding of what a signup process looks like.
+
+Marketing is about getting people to take an action you want them to take. Understanding user signups,
 
 What happens when a new user object is created and saved? How can I capture that information, and trigger an event? Say, an alert, or a redirection to a new page?
 
