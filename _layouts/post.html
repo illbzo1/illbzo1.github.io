@@ -4,11 +4,11 @@ layout: blog-post
 <div class="large-12 columns">
 
   <div class="post-header">
-    <div><h1><small>{{ page.title }}</small></h1></div>
+    <div><h1><small id="small-header">{{ page.title }}</small></h1></div>
     <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
   </div>
 
-  <div class="panel">
+  <div id="content-panel" class="panel">
     {{ content }}
   </div>
 </div>

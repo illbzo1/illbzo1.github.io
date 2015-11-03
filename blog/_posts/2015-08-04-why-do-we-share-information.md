@@ -12,7 +12,7 @@ We share information we find useful, remarkable, or valuable. We share informati
 
 And we're careful about who we share information with.
 
-<blockquote>
+<blockquote id="quote">
   We don’t share a news story or recommendation with everyone we know. Rather, we tend to select particular people who we think would find that given piece of information most relevant.
 </blockquote>
 
@@ -20,7 +20,7 @@ My friends would never recommend a new bourbon to me, but they do send me cool L
 
 And I return the favor. We all do. I know exactly which members of my social circle will enjoy a comic, or a book, or a movie, or a video game. We like things that are remarkable, and things that remind us of the people we care about.
 
-<blockquote>
+<blockquote id="quote">
   The best thing about remarkability, though, is that it can be applied to anything.
 </blockquote>
 
@@ -30,7 +30,7 @@ We want to talk about interesting things. We want to spread information we find 
 
 These commercials are nine years old, and I still love them. They're still funny. And they were a fantastic campaign for Volkswagen - actual sales of the new Volskwagen GTI were up 150% over projected sales. But these aren’t just funny commercials. It was a successful marketing campaign because it married the message with the vehicle that delivered it.
 
-<blockquote>
+<blockquote id="quote">
   Making something more observable makes it easier to imitate. Thus a key factor in driving products to catch on is <em>public visibility</em>. If something is built to show, it’s built to grow.
 </blockquote>
 
