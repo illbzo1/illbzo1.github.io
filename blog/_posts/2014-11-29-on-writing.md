@@ -2,7 +2,8 @@
 layout: post
 title:  "On Writing"
 date:   2014-11-29
-redirect_from: /writing/2014/11/29/on-writing.html
+redirect_from:
+  - /writing/2014/11/29/on-writing.html
 categories: writing
 desc: "You have to get up in the morning and write like a drunk has to drink."
 ---

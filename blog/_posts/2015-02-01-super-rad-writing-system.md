@@ -2,7 +2,9 @@
 layout: post
 title:  "My Writing System"
 date:   2015-02-01
-redirect_from: /blog/writing/reading/2015/02/01/super-rad-writing-system.html
+redirect_from:
+	- /blog/writing/reading/2015/02/01/super-rad-writing-system.html
+	- learning/2015/02/01/super-rad-writing-system.html
 categories: writing
 desc: "I use a system to make sure I'm writing - 500 words a day, 1,000 words per day on the weekends."
 ---
