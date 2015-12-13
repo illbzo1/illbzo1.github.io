@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "The Mother Tongue"
 date: 2015-06-20
 redirect_from:

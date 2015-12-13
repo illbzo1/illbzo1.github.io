@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Why Do We Share Information?"
 date: 2015-08-04
 categories: [marketing]

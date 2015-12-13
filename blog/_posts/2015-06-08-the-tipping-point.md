@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "The Tipping Point"
 date:   2015-06-08
 redirect_from:

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Letting Go of the Words"
 date:   2015-05-24
 redirect_from: blog/reading/2015/05/24/letting-go-of-the-words.html

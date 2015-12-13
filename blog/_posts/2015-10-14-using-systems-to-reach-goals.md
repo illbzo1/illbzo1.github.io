@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Using Systems to Reach Goals"
 date: 2015-10-14
 categories: [other]

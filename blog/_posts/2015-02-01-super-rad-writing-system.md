@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "My Writing System"
 date:   2015-02-01
 redirect_from:

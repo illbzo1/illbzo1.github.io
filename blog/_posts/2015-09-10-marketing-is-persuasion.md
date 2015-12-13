@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Marketing Is Persuasion"
 date: 2015-09-10
 categories: [marketing]

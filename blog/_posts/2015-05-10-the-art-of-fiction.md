@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "The Art of Fiction"
 date:   2015-05-10
 redirect_from: learning/2015/05/10/the-art-of-fiction.html

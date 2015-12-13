@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "What Alphabear Taught Me About Marketing"
 date: 2015-09-04
 categories: [marketing]

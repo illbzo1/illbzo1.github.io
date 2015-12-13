@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Twilight / Lost Boys Fanfiction, Part I"
 date:   2014-01-04
 redirect_from: writing/2014/01/04/twilight-lost-boys-part-one.html

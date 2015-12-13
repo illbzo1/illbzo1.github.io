@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Display Ads Are Dead"
 date: 2015-10-23
 categories: [marketing]

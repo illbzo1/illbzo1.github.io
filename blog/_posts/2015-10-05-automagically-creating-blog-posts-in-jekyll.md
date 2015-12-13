@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Automagically Creating Blog Posts In Jekyll"
 date: 2015-10-05
 categories: [other]

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Where do ideas come from?"
+comments: true
+title:  "Where Do Ideas Come From?"
 date: 2015-07-03
 categories: writing
 desc: "A blog post about how and where I get ideas for writing."

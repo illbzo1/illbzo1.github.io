@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "What Is Good Content Marketing, Anyway?"
 date: 2015-10-30
 categories: [marketing]

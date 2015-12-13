@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "What I Did in February; or, The Nightmare of Copy Editing"
 date:   2015-03-02
 categories: [writing]

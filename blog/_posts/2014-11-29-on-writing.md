@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "On Writing"
 date:   2014-11-29
 redirect_from:

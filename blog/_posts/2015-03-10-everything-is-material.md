@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Everything is Material"
 date: 2015-03-10
 categories: writing

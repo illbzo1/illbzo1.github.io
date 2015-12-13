@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Writing Advice That's Worked for Me"
 date: 2015-09-18
 categories: [writing]

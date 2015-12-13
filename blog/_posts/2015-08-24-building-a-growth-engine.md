@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Building a Growth Engine"
 date: 2015-08-24
 categories: [marketing]

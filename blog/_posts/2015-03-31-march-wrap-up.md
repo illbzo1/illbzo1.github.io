@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "March Wrap Up"
 date: 2015-03-31
 categories: [copywriting, marketing, writing]

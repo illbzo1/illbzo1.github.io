@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Producing"
 date:   2014-12-01
 categories: writing

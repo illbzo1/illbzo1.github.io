@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Your Marketing Page is Your Best Salesperson"
 date: 2015-08-17
 categories: [marketing, copywriting]

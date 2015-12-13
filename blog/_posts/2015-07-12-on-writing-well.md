@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "On Writing Well"
 date:   2015-07-12
 redirect_from: blog/reading/2015/07/12/on-writing-well.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "How Good Do You Want To Be?"
 date: 2015-09-25
 categories: [marketing]

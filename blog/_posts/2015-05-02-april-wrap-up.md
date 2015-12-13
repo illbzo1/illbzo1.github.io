@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "April Wrap Up"
 date:   2015-05-02
 redirect_from:
