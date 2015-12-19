@@ -28,7 +28,7 @@ I'm also familiar with his input, and I should branch out. Luckily, Godin is a f
 
 How many words do you think you write in a day? A thousand? Ten thousand? I don't know how many I write in a day. My professional life entails writing a ton of email, every single day. If I had to hazard a guess, I'd say ten thousand. At the low end. And that's not including my personal writing. That's not including the 500 or 1,000 words a day I write for myself.
 
-<blockquote>If you have a website, you are a publisher. If you are on social media, you are in marketing. And that means we are all writers.</blockquote>
+<blockquote id="quote">If you have a website, you are a publisher. If you are on social media, you are in marketing. And that means we are all writers.</blockquote>
 
 I love this perspective.
 
@@ -44,7 +44,7 @@ The biggest thing I got from this book was identifying my own lazy behavior. Beh
 
 Pressfield calls this Resistance. It comes from within, and it stands between who you are and who you want to be. A telling quote:
 
-<blockquote>If you take Resistance at its word, you deserve everything you get. Resistance is always lying, and always full of shit.</blockquote>
+<blockquote id="quote">If you take Resistance at its word, you deserve everything you get. Resistance is always lying, and always full of shit.</blockquote>
 
 Resistance rears its ugly head every time I don't want to sit down and write. Every time I fuck around on Twitter and Reddit instead of writing 500 words. Every time I choose to play video games instead of editing a story.
 

@@ -15,13 +15,13 @@ Writing advice isn’t “good” or “bad”. It’s either useful, or useless
 
 I finished the <em>Kick Ass Writer</em> by [Chuck Wendig](http://terribleminds.com/) last week. Wendig admits his advice should be taken with a healthy dose of salt.
 
-<blockquote>
+<blockquote id="quote">
   The goal isn’t to deliver truth unto you. The goal is not to inflict my ways and rules upon you. The goal is to make you think. We should think about what we do.
 </blockquote>
 
 Absolutely. Good stories don't just materialize. They don't spring forth, fully grown from the forehead of Mighty Zeus, armor clad and ready to do battle. Wendig's book of writing advice is a collection of ideas, strategies, and thoughts that have worked for him. Here's the single best piece of writing advice I got from The Kick Ass Writer:
 
-<blockquote>
+<blockquote id="quote">
   We think of sentences as being written down and thus related to the eyes, not the ears — but good writing sounds good when spoken. Great writing is as much about the ear as it is about the eye.
 </blockquote>
 
@@ -33,7 +33,7 @@ But it works. Good writing <em>sounds</em> good. Even sentences that look beauti
 
 And if you keep writing, you'll get better. Slowly. Painfully. But you will improve.
 
-<blockquote>
+<blockquote id="quote">
   Writers are made — forged, really, in a kiln of their own madness and insecurities — over the course of many, many moons. The writer you are when you begin is not the writer you become.
 </blockquote>
 

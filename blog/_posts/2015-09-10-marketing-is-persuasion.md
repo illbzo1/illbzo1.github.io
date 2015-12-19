@@ -16,7 +16,7 @@ At the highest level, marketing is about persuasion. I recently finished *Positi
 
 Positioning isn't about how you describe your product. It's about how your audience thinks about your product. Positioning starts with creating a space for your idea in the mind of your audience.
 
-<blockquote>
+<blockquote id="quote">
   But positioning is not what you do to a product. Positioning is what you do to the mind of the prospect. That is, you position the product in the mind of the prospect.
 </blockquote>
 
@@ -26,7 +26,7 @@ You have to crawl in there with a message your prospect will accept. You have to
 
 In other words, what condition is your position in? Side note: now I want to watch the Big Lebowski.
 
-<blockquote>
+<blockquote id="quote">
   The basic approach of positioning is not to create something new and different. But to manipulate what’s already up there in the mind. To retie the connections that already exist.
 </blockquote>
 
@@ -34,7 +34,7 @@ But it's not just about your message. Timing is just as important. The right mes
 
 If a competitor has beaten you to market, you won't get anywhere by acting like that competitor. Act like yourself. What sets you or your product apart? What makes you special?
 
-<blockquote>
+<blockquote id="quote">
   How do you go against a company with a position like IBM? Well, first you have to recognize it. Then you don’t do the thing that too many people in the computer field try to do. Act like IBM.
 </blockquote>
 
@@ -52,13 +52,13 @@ That’s how you succeed. That’s how you go up against the IBMs and the Apples
 
 Strangely enough, the [new iPads look an awful lot like the Surface](http://www.wired.com/2015/09/head-head-apple-ipad-pro-vs-surface-pro-3/).
 
-<blockquote>
+<blockquote id="quote">
   “Look for the hole” in the prospect’s mind is one of the best strategies in the field of marketing. Creneaus don’t have to be exciting or dramatic or even have much of a customer benefit to be effective.
 </blockquote>
 
 Succeeding is a matter of finding gaps in the market, and establishing a position that hasn’t been filled.
 
-<blockquote>
+<blockquote id="quote">
   Yet it’s more important in advertising to let prospects know what creneau you want to fill than it is to communicate some product benefit.
 </blockquote>
 

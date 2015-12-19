@@ -17,7 +17,7 @@ People who want short copy and only short copy are burnt out on their sales mess
 
 I read <em>Scientific Advertising</em> by [Claude Hopkins](https://en.wikipedia.org/wiki/Claude_C._Hopkins) recently. Here's his take on how long sales copy should be.
 
-<blockquote>
+<blockquote id="quote">
   Some say “Be very brief. People will read for little.” Would you say that to a salesman? With a prospect standing before him, would you confine him to any certain number of words? That would be an unthinkable handicap. So in advertising. The only readers we get are people whom our subject interests. No one reads ads for amusements, long or short. Consider them as prospects standing before you, seeking for information. Give them enough to get action.
 </blockquote>
 
@@ -29,7 +29,7 @@ But long copy sells. Hopkins knew that back in the 20s. If anything, long copy i
 
 And your headline counts more than any other element of your marketing copy.
 
-<blockquote>
+<blockquote id="quote">
   The purpose of a headline is to pick out people you can interest. You wish to talk to someone in a crowd.
 </blockquote>
 
@@ -37,7 +37,7 @@ Hopkins is talking about mail-order advertising here, but this principle applies
 
 And you can’t afford to be boring.
 
-<blockquote>
+<blockquote id="quote">
   People will not be bored in print. They may listen politely at a dinner table to boasts and personalities, life history, etc. But in print they choose their own companions, their own subjects.
 </blockquote>
 
@@ -49,7 +49,7 @@ Copywriting is about sales. It’s about talking to one person at a time and con
 
 Measurement counts. If you're not measuring, you're not marketing. You're guessing, at best.
 
-<blockquote>
+<blockquote id="quote">
   Almost any questions can be answered, cheaply, quickly and finally, by a test campaign. And that's the way to answer them - not by arguments around a table. Go to the court of last resort - the buyers of your product.
 </blockquote>
 
