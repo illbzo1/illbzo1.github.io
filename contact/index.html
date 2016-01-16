@@ -21,9 +21,13 @@ desc: "Looking for help with your marketing strategy? Just want to say hi? I'm a
   <form action="//formspree.io/tylerlmoore@gmail.com" method="POST">
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="/contact/thanks.html" />
-    <input type="text" name="name" placeholder="What's your name?">
+    <input autofocus="autofocus" type="text" name="name" placeholder="What's your name?">
     <input type="email" name="_replyto" class="contact-email" placeholder="What's your email?">
     <textarea name="body" class="contact-message" placeholder="What's up?"></textarea>
     <input id="form-submission" type="submit" value="Send message">
   </form>
 </div>
+
+$( document ).ready(function() {
+  $( "#login" ).focus();
+});
