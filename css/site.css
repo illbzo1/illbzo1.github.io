@@ -350,7 +350,10 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 }
 .copy-thumb:hover { border: 2px solid rgba(225, 25, 0, 1); }
 
-.description-text { font-size: 0.75rem; }
+.description-text {
+  font-size: 0.75rem;
+  font-weight: bold;
+ }
 
 /* resume styles */
 
