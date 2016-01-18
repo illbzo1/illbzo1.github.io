@@ -104,7 +104,7 @@ span.social-box {
 }
 span.social-box i.social-inner {
   transition: color 0.5s;
-  color: rgba(225, 25, 0, 1);
+  color: rgba(50, 50, 50, 1);
 }
 span.social-box i.social-outer {
   transition: color 0.5s;
