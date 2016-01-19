@@ -80,17 +80,50 @@ ul { list-style-type: none; }
   margin-top: 20px;
   margin-bottom: 20px;
   overflow: hidden;
-  height: 60px;
+  height: 70px;
 }
 
 #nav-bar li a {
   background-color: rgba(255, 255, 255, 1);
   color: rgba(50, 50, 50, 1);
 }
+
 #nav-bar a:hover {
-  color: rgba(225, 25, 0, 1);
+  background-color: rgba(225, 25, 0, 1);
+  color: rgba(255, 255, 255, 1);
   text-decoration: none;
 }
+
+.arrow_box:hover {
+  position: relative;
+  background: rgba(225, 25, 0, 1);
+  transition: color 0.5s;
+
+
+}
+.arrow_box:hover:after, .arrow_box:hover:before {
+  top: 100%;
+  left: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.arrow_box:hover:after {
+  border-color: rgba(136, 183, 213, 0);
+  border-width: 2px;
+  margin-left: -2px;
+}
+.arrow_box:hover:before {
+  border-color: rgba(255, 255, 255, 0);
+  border-top-color: rgba(225, 25, 0, 1);
+  border-width: 8px;
+  margin-left: -8px;
+}
+
 .top-bar-section {
   letter-spacing: 0.25em;
   margin-top: 5px;
