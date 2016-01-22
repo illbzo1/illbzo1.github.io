@@ -61,7 +61,7 @@ iframe { margin: 20px 0;}
 
 ul { list-style-type: none; }
 
-.logo { height: 50px; width: 50px; }
+#logo { padding: 7px 22px; }
 
 .left  { float: left; }
 
