@@ -178,6 +178,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 
 .blog-content {
   border-right: 1px solid rgba(50, 50, 50, 1);
+  margin-top: 20px;
   font-family: 'Open Sans', sans-serif;
 }
 
