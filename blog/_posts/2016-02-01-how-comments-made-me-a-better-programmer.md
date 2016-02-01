@@ -7,7 +7,7 @@ categories: [other]
 desc: Programming started making a lot more sense to me once I started using comments to map out how the program should work.
 ---
 
-One of the biggest hurdles I’ve faced when learning to program is how to transition from tutorials to writing my own code. I think it’s a common problem for anyone who’s new to programming, even though I'm not exactly new to programming. I can read existing code, figure out what it does, and change it to do something different. But writing code from scratch remains a weak point. Hence JavaScript January! Also known as JavaScript February. It lacks that satisfying alliteration, but we're closing in on Groundhog Day and I'm still messing around with JavaScript.
+One of the biggest hurdles I’ve faced when learning to program is how to transition from tutorials to writing my own code. I think it’s a common problem for anyone who’s new to programming, even though I'm not exactly new to programming. I can read existing code, figure out what it does, and change it to do something different. But writing code from scratch remains a weak point. Hence JavaScript January! Now known as JavaScript February. It lacks that satisfying alliteration, but we're closing in on Groundhog Day and I'm still messing around with JavaScript.
 
 I’ve found modifying the steps of a tutorial as I go to be helpful, though not very sticky. For example, if a program redirects a user to a thank you page after completing a sign up action, I could instead redirect them to their new account page. A flash message could appear, with the thank you message and a helpful next step.
 
