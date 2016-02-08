@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Your Marketing Page is Your Best Salesperson"
 date: 2015-08-17
-categories: [marketing, copywriting]
+categories: [marketing]
 desc: "Your marketing page is the best salesperson on your team. Have you given your marketing page all the tools it needs to do its job?"
 ---
 

@@ -6,7 +6,7 @@ date:   2015-05-02
 redirect_from:
   - blog/reading/2015/05/02/april-wrap-up.html
   - learning/2015/05/02/april-wrap-up.html
-categories: [copywriting, marketing, writing]
+categories: [marketing, writing]
 desc: "In April, I found a name for my own bad behavior that keeps me from writing, editing, and otherwise Doing My Work."
 ---
 
