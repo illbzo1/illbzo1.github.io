@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: "Automagically Creating Blog Posts In Jekyll"
 date: 2015-10-05
+redirect_from: blog/other/2015/10/05/automagically-creating-blog-posts-in-jekyll.html
 categories: [programming]
 desc: This is a Rake task I've cobbled together to create new blog posts using Jekyll.
 ---
