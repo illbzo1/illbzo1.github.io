@@ -20,7 +20,7 @@ My main takeaway? Flow isn't just for programming.
 
 It’s a state that can be applied to any aspect of your life, and lately I’ve been actively applying the concepts of flow to my daily life.
 
-<blockquote>
+<blockquote id="quote">
   ...It is when we act freely, for the sake of the action itself rather than for ulterior motives, that we learn to become more than what we were.
 </blockquote>
 
