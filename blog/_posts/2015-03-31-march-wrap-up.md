@@ -3,6 +3,8 @@ layout: post
 comments: true
 title:  "March Wrap Up"
 date: 2015-03-31
+redirect_from:
+  - blog/copywriting/2015/03/31/march-wrap-up.html
 categories: [marketing, writing]
 desc: "A wrap up blog post about what I read and what I wrote in March, 2015."
 ---

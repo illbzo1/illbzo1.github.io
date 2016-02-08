@@ -3,6 +3,8 @@ layout: post
 comments: true
 title: "Tested Advertising Methods"
 date: 2015-07-23
+redirect_from:
+  - blog/copywriting/2015/07/23/tested-advertising-methods.html
 categories: [marketing]
 desc: "Write as if your audience had a sixth grade education. Not because you think they're stupid, but because you want to be understood."
 ---
