@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: "How Comments Made Me A Better Programmer"
 date: 2016-02-01
+redirect_from: blog/other/2016/02/01/how-comments-made-me-a-better-programmer.html
 categories: [programming]
 desc: Programming started making a lot more sense to me once I started using comments to map out how the program should work.
 ---
