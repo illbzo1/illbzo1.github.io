@@ -355,16 +355,57 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 .bold { font-weight: bold; }
 
 .copy-thumb {
-  height: 77px;
+  display: block;
+  border-right: 1px solid rgba(200, 200, 200, 0.4);
+  border-top: 1px solid rgba(200, 200, 200, 0.2);
+  border-left: 1px solid rgba(200, 200, 200, 0.2);
+  border-bottom: 1px solid rgba(100, 100, 100, 0.4);
   transition: border 0.5s;
-  border: 2px solid rgba(200, 200, 200, 0.25);
 }
-.copy-thumb:hover { border: 2px solid rgba(225, 25, 0, 1); }
 
 .description-text {
   font-size: 0.75rem;
   font-weight: bold;
  }
+
+.media {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+.media a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.media a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.media-body {
+  background: rgba(50, 50, 50, 0.7);
+  bottom: 0;
+  color: white;
+  font-size: 1em;
+  left: 0;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  right: 0;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+.media-body:hover { opacity: 1; }
+
+.media-body p {
+  padding: 1.5em 1em;
+  margin-bottom: 1.5em;
+}
 
 /* resume styles */
 
