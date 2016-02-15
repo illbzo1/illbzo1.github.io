@@ -42,6 +42,7 @@ body a:hover {
 #small-header {
   font-family: 'Open Sans', sans-serif;
   color: rgba(50, 50, 50, 1 );
+  font-size: 0.75em;
 }
 
 iframe { margin: 20px 0;}
@@ -319,6 +320,15 @@ span.email i.sharing-outer {
 }
 span.email:hover i.sharing-inner { color: rgba(50, 50, 50, 1); }
 span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
+
+/* now page styles */
+
+.now-thumb {
+  border-right: 1px solid rgba(200, 200, 200, 0.4);
+  border-top: 1px solid rgba(200, 200, 200, 0.2);
+  border-left: 1px solid rgba(200, 200, 200, 0.2);
+  border-bottom: 1px solid rgba(100, 100, 100, 0.4);
+}
 
 /* form styles */
 
