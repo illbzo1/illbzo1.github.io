@@ -376,16 +376,19 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 
 .media a {
   text-decoration: none;
-  color: #fff;
+  color: #333;
+  background: #fff;
+  border-radius: 20px;
+  padding: 0.5em;
 }
 
 .media a:hover {
+  color: #333;
   text-decoration: underline;
-  color: #fff;
 }
 
 .media-body {
-  background: rgba(50, 50, 50, 0.7);
+  background: rgba(50, 50, 50, 0.85);
   bottom: 0;
   color: white;
   font-size: 1em;
@@ -396,14 +399,17 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
   text-align: center;
   top: 0;
   right: 0;
-  -webkit-transition: 0.6s;
-  transition: 0.6s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 .media-body:hover { opacity: 1; }
 
+.media-body h3 {
+  padding: 0.75em 0.75em 0 0.75em;
+}
 .media-body p {
-  padding: 1.5em 1em;
+  padding: 0 1em;
   margin-bottom: 1.5em;
 }
 
