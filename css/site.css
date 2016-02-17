@@ -12,6 +12,8 @@ html { overflow-y: scroll; }
 
 html, body { height: 100%; }
 
+h1 { max-width: 75%; }
+
 #default { font-family: 'Open Sans', sans-serif; }
 
 body a { color: rgba(225, 25, 0, 1); }
