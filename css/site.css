@@ -57,12 +57,7 @@ iframe { margin: 20px 0;}
   display: block;
 }
 
-.panel img {
-  border: 1px solid rgba(200, 200, 200, 1);
-  padding: 20px;
-}
-
-.site-image {
+.site-image, .panel img {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid rgba(200, 200, 200, 0.2);
   border-left: 1px solid rgba(200, 200, 200, 0.2);
