@@ -24,14 +24,16 @@ body a:hover {
 
 .panel pre {
     font-size: 0.8em;
-    line-height: 140%;
     white-space: pre;
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
-    background: rgba(200, 200, 200, 0.25);
-    border-left: 10px solid rgba(100,100,100,1);
-    padding: 20px;
+    background: rgba(200, 200, 200, 0.2);
+    border-right: 1px solid rgba(200, 200, 200, 0.4);
+    border-top: 1px solid rgba(200, 200, 200, 0.2);
+    border-left: 10px solid rgba(200, 200, 200, 0.2);
+    border-bottom: 1px solid rgba(100, 100, 100, 0.4);
+    padding: 10px 20px;
     margin-bottom: 20px;
 }
 
