@@ -43,6 +43,29 @@ body a:hover {
     border: none;
 }
 
+#red-button {
+  background-color: rgba(225, 25, 0, 1);
+  border-right: 1px solid rgba(200, 200, 200, 0.4);
+  border-top: 1px solid rgba(200, 200, 200, 0.2);
+  border-left: 1px solid rgba(200, 200, 200, 0.2);
+  border-bottom: 1px solid rgba(100, 100, 100, 0.4);
+  color: rgba(255, 255, 255, 1);
+  font-size: 100%;
+  float: right;
+  padding: 10px;
+}
+#red-button:hover {
+  border: 1px solid rgba(225, 25, 0, 1);
+  transition: background-color 0.5s;
+  background-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  color: rgba(225, 25, 0, 1);
+}
+input#red-button {
+  cursor: pointer;
+  padding: 13px 10px;
+}
+
 #small-header {
   font-family: 'Open Sans', sans-serif;
   color: rgba(50, 50, 50, 1 );
@@ -156,6 +179,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 #content-panel {
   background-color: rgba(255, 255, 255, 1);
   border: none;
+  margin-bottom: 86px;
 }
 
 /* blog styles */
@@ -240,21 +264,6 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
   color: rgba(50, 50, 50, 1);
 }
 
-#post-link {
-  transition: background-color 0.5s;
-  background-color: rgba(225, 25, 0, 1);
-  border: 1px solid rgba(225, 25, 0, 1);
-  color: rgba(255, 255, 255, 1);
-  float: right;
-  margin: 0 0 60px 0;
-  padding: 10px;
-}
-#post-link:hover {
-  background-color: rgba(255, 255, 255, 1);
-  text-decoration: none;
-  color: rgba(225, 25, 0, 1);
-}
-
 .post-meta {
 	color: rgba(50, 50, 50, 1);
 	font-size: 0.8rem;
@@ -332,20 +341,6 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 .contact-message { height: 100px; }
 
 .contact-form { margin-top: 30px; }
-
-#form-submission {
-  padding: 11px 15px;
-  background: rgba(225, 25, 0, 1);
-  color: rgba(255, 255, 255, 1);
-  border: 1px solid rgba(225, 25, 0, 1);
-  cursor: pointer;
-  font-size: 0.8rem;
-}
-#form-submission:hover {
-  transition: background-color 0.5s;
-  background: rgba(255, 255, 255, 1);
-  color: rgba(225, 25, 0, 1);
-}
 
 /* copywriting portfolio styles */
 
