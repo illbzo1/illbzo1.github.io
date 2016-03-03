@@ -103,7 +103,7 @@ ul { list-style-type: none; }
 /* nav styles */
 #nav-bar {
   background-color: rgba(255, 255, 255, 1);
-  border-bottom: 1px solid rgba(50, 50, 50, 1);
+  border-bottom: 1px solid rgba(200, 200, 200, 0.2);
   margin-top: 20px;
   margin-bottom: 20px;
   overflow: hidden;
@@ -146,7 +146,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 }
 
 .footer-container {
-  border-top: 1px solid rgba(50, 50, 50, 1);
+  border-top: 1px solid rgba(100, 100, 100, 0.4);
   margin: 20px 0;
 }
 
@@ -180,6 +180,9 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 }
 
 /* blog styles */
+
+.sidebar-rule { border-top: 1px solid rgba(100, 100, 100, 0.4); }
+
 #quote {
   border-left: 2px solid rgba(200, 200, 200, 1);
   color: rgba(50, 50, 50, 1);
@@ -205,7 +208,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 }
 
 .blog-content {
-  border-right: 1px solid rgba(50, 50, 50, 1);
+  border-right: 1px solid rgba(200, 200, 200, 0.4);
   margin-top: 20px;
   font-family: 'Open Sans', sans-serif;
 }
@@ -335,7 +338,17 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 
 /* form styles */
 
-.contact-message { height: 100px; }
+#name, #email, #message {
+  -webkit-box-shadow: none!important;
+  -moz-box-shadow: none!important;
+  box-shadow: none!important;
+  border-left: 1px solid rgba(100, 100, 100, 0.4);
+  border-bottom: 1px solid rgba(200, 200, 200, 0.2);
+  border-right: 1px solid rgba(200, 200, 200, 0.2);
+  border-top: 1px solid rgba(100, 100, 100, 0.4);
+}
+
+#message { height: 100px; }
 
 .contact-form { margin-top: 30px; }
 

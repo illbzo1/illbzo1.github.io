@@ -18,9 +18,9 @@ desc: "Looking for marketing help? Just want to say hi? Send me a message - I'd 
   <form action="//formspree.io/tylerlmoore@gmail.com" method="POST">
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="/contact/thanks.html" />
-    <input autofocus="autofocus" type="text" name="name" placeholder="What's your name?" required>
-    <input type="email" name="_replyto" class="contact-email" placeholder="What's your email?" required>
-    <textarea name="body" class="contact-message" placeholder="What's up?" required></textarea>
+    <input id="name" type="text" autofocus="autofocus" name="name" placeholder="What's your name?" required>
+    <input id="email" type="email" name="_replyto" class="contact-email" placeholder="What's your email?" required>
+    <textarea id="message" name="body" placeholder="What's up?" required></textarea>
     <input id="red-button" type="submit" value="Send message">
   </form>
 </div>
