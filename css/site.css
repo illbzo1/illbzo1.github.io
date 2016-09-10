@@ -441,6 +441,11 @@ span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 
 .tagline { font-size: 125%; }
 
+/* writing page styles */
+.writing p {
+
+}
+
 /* 404 page styles */
 .error {
   height: 100%;
