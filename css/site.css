@@ -163,6 +163,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 
 #intro {
   padding: 0 20px;
+  text-align: center;
 }
 
 .content-box {
@@ -179,6 +180,10 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
   margin-bottom: 86px;
 }
 
+.main-logo {
+  display: block;
+  margin: 0 auto;
+}
 /* blog styles */
 
 .sidebar-rule { border-top: 1px solid rgba(100, 100, 100, 0.4); }
