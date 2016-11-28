@@ -7,5 +7,6 @@ paginate_path: "/blog/page/:num"
 categories: [copywriting, marketing, programming, other, writing]
 url:        http://www.tylermoore.website
 gems:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
