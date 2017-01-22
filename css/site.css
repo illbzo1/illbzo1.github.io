@@ -10,6 +10,14 @@ white: 		    rgba(255, 255, 255, 1);
 
 html { overflow-y: scroll; }
 
+html {
+  background: url(images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 html, body { height: 100%; }
 
 h1 { max-width: 75%; }
@@ -66,7 +74,7 @@ body a:hover {
 #small-header {
   font-family: 'Open Sans', sans-serif;
   color: rgba(50, 50, 50, 1 );
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 700;
   letter-spacing: 0.02em;
   line-height: 1.04;
@@ -128,20 +136,16 @@ ul { list-style-type: none; }
 
 /* footer styles */
 
-span.social-box {
-  margin: 0 auto;
-  display: block;
+.social {
+  margin-right: 20px;
 }
-span.social-box i.social-inner {
-  transition: color 0.5s;
+
+.social a{
   color: rgba(50, 50, 50, 1);
 }
-span.social-box i.social-outer {
-  transition: color 0.5s;
-  color: rgba(255, 255, 255, 1);
+.social a:hover{
+  color: rgba(225, 25, 0, 1);
 }
-span.social-box:hover i.social-inner { color: rgba(255, 255, 255, 1); }
-span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 
 .copyright {
   font-size: 0.75rem;
@@ -263,7 +267,7 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 .page_number { font-weight: bold; }
 
 .post-header {
-	font-size: 2rem;
+	font-size: 1em;
   margin-top: -20px;
 }
 .post-header a { color: rgba(50, 50, 50, 1); }
@@ -280,69 +284,6 @@ span.social-box:hover i.social-outer { color: rgba(225, 25, 0, 1); }
 }
 
 .recent-posts li { margin-bottom: 10px; }
-
-.sharing { text-align: left; }
-
-#sharing-footer {
-  text-align: center;
-  padding-top: 20px;
-}
-#sharing-footer li {
-  margin-right: 20px;
-  margin-left: 0px;
-}
-
-.social-buttons li {
-  margin-right: 30px;
-  margin-left: -20px;
-}
-
-.social-buttons a { color: rgba(50, 50, 50, 1); }
-.social-buttons li { display: inline-block; }
-
-span.twitter i.sharing-inner {
-  transition: color 0.5s;
-  color: rgba(255, 255, 255, 1);
-}
-span.twitter i.sharing-outer {
-  transition: color 0.5s;
-  color: rgba(85, 172, 238, 1);
-}
-span.twitter:hover i.sharing-inner { color: rgba(85, 172, 238, 1); }
-span.twitter:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
-
-span.facebook i.sharing-inner {
-  transition: color 0.5s;
-  color: rgba(255, 255, 255, 1);
-}
-span.facebook i.sharing-outer {
-  transition: color 0.5s;
-  color: rgba(59, 89, 152, 1);
-}
-span.facebook:hover i.sharing-inner { color: rgba(59, 89, 152, 1); }
-span.facebook:hover i.sharing-outer { color: rgba(255, 255, 255, 1) ; }
-
-span.google-plus i.sharing-inner {
-  transition: color 0.5s;
-  color: rgba(255, 255, 255, 1);
-}
-span.google-plus i.sharing-outer {
-  transition: color 0.5s;
-  color: rgba(221, 75, 57, 1);
-}
-span.google-plus:hover i.sharing-inner { color: rgba(221, 75, 57, 1); }
-span.google-plus:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
-
-span.email i.sharing-inner {
-  transition: color 0.5s;
-  color: rgba(255, 255, 255, 1);
-}
-span.email i.sharing-outer {
-  transition: color 0.5s;
-  color: rgba(50, 50, 50, 1);
-}
-span.email:hover i.sharing-inner { color: rgba(50, 50, 50, 1); }
-span.email:hover i.sharing-outer { color: rgba(255, 255, 255, 1); }
 
 /* form styles */
 
