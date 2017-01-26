@@ -355,6 +355,11 @@ ul { list-style-type: none; }
   margin-bottom: 1.5em;
 }
 
+/* first draft styles */
+
+.first-draft-date {
+  margin-left: 20px;
+}
 /* resume styles */
 
 .pdf-copy { padding-top: 10px; }
