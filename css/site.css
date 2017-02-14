@@ -24,10 +24,17 @@ h1 { max-width: 75%; }
 
 #default { font-family: 'Open Sans', sans-serif; }
 
-body a { color: rgba(225, 25, 0, 1); }
+body a {
+  color: rgba(225, 25, 0, 1); }
 body a:hover {
   color: rgba(225, 25, 0, 1);
   text-decoration: underline;
+}
+body p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: 0;
 }
 
 .panel pre {
@@ -399,13 +406,6 @@ ul { list-style-type: none; }
 .tagline { font-size: 125%; }
 
 /* writing page styles */
-
-.writing p, .writing a{
-  font-size: 21px;
-  font-weight: 400;
-  line-height: 1.58;
-  letter-spacing: -0.003em;
-}
 
 /* 404 page styles */
 .error {
