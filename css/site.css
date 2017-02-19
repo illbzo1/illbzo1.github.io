@@ -176,6 +176,7 @@ ul { list-style-type: none; }
 /* index styles */
 
 #intro {
+  margin-top: 300px;
   padding: 0 20px;
   text-align: center;
 }
@@ -197,6 +198,15 @@ ul { list-style-type: none; }
 .main-logo {
   display: block;
   margin: 0 auto;
+}
+
+.logo-shadow {
+  display: block;
+  margin: -300px 330px;
+}
+
+.logo-highlight {
+  margin: 0 200px -200px 0;
 }
 /* blog styles */
 
