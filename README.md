@@ -23,4 +23,4 @@ Give the post a relevant title, open the file, add relevant category and meta de
 
 ## Running the site locally:
 
-    jekyll serve
+    bundle exec jekyll serve
