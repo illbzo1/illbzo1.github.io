@@ -356,6 +356,15 @@ ul { list-style-type: none; }
 
 /* first draft styles */
 
+.first-draft {
+  border-top: 1px solid rgba(100, 100, 100, 0.1);
+  padding: 10px;
+}
+
+.first-draft-lead {
+  padding: 10px;
+}
+
 .first-draft-date {
   margin-left: 20px;
 }
