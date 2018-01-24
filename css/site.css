@@ -141,21 +141,11 @@ ul { list-style-type: none; }
 
 /* footer styles */
 
-.social {
-  margin-right: 20px;
-}
-
-.social a{
-  color: rgba(255, 255, 255, 1);
-}
-.social a:hover{
-  color: rgba(225, 25, 0, 1);
-}
-
 .copyright {
   color: rgba(255, 255, 255, 1);
   font-size: 0.75rem;
   margin-top: 11px;
+  text-align: center;
 }
 
 .footer-container {
