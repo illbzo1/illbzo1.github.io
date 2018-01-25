@@ -17,7 +17,8 @@ h1 { max-width: 75%; }
 #default { font-family: 'Open Sans', sans-serif; }
 
 body a {
-  color: rgba(225, 25, 0, 1); }
+  color: rgba(225, 25, 0, 1);
+}
 body a:hover {
   color: rgba(225, 25, 0, 1);
   text-decoration: underline;
@@ -27,11 +28,6 @@ body p {
   font-weight: 400;
   line-height: 1.8;
   letter-spacing: 0;
-}
-#index {
-  background: url("/img/intro-background.jpg") no-repeat;
-  background-size: 100%;
-  background-position: 0 80px;
 }
 
 .panel pre {
@@ -139,10 +135,14 @@ ul { list-style-type: none; }
   margin-top: 5px;
 }
 
+.footer-section {
+  border-top: 1px solid rgba(200, 200, 200, 0.2);
+}
+
 /* footer styles */
 
 .copyright {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(50, 50, 50, 1);
   font-size: 0.75rem;
   margin-top: 11px;
   text-align: center;
@@ -150,6 +150,7 @@ ul { list-style-type: none; }
 
 .footer-container {
   margin: 30px 0;
+  border-top: 1px solid rgba(225, 25, 0, 1);
 }
 
 .footer-container ul {
@@ -165,7 +166,7 @@ ul { list-style-type: none; }
 
 #intro {
   text-align: center;
-  color: white;
+  color: rgba(50, 50, 50, 1);
 }
 #intro a {
   color: rgba(255, 255, 255, 1);
