@@ -90,6 +90,10 @@ iframe { margin: 20px 0;}
   display: block;
 }
 
+.red-border {
+  border: 1px solid red;
+}
+
 .site-image, .panel img {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid rgba(200, 200, 200, 0.2);
@@ -162,14 +166,33 @@ ul { list-style-type: none; }
   height: 75px;
 }
 
+.footer-icons {
+
+}
+
+.footer-icons li {
+  float: left;
+  margin-right: 20px;
+}
+
+.footer-icons li a {
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(50, 50, 50, 1);
+}
+
+.footer-icons li a:hover {
+  color: rgba(225, 25, 0, 1);
+  text-decoration: none;
+}
+
 /* index styles */
 
 #intro {
-  text-align: center;
+  text-align: left;
   color: rgba(50, 50, 50, 1);
 }
 #intro a {
-  color: rgba(255, 255, 255, 1);
+
 }
 #intro p {
   margin-top: 50px;
